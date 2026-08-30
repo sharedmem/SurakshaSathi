@@ -1,0 +1,36 @@
+# ── Secrets & credentials ────────────────────────────────────────────────────
+.env
+sbiproject-*.json
+google-services.json
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+*.egg
+
+# ── Database backups / large data dumps ──────────────────────────────────────
+azure_db_full_backup.json
+*.sql.gz
+*.dump
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+uvicorn_*.log
+
+# ── Agent / coding-tool artifacts ────────────────────────────────────────────
+scratch/
+.agents/
+.claude/
+
+# ── OS & editor ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+*.iml

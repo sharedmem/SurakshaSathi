@@ -1,0 +1,805 @@
+id,text,label,subtype,category,language,delivery_mode,brand_used,sender_id,source,cluster_id,cluster_label
+106,"Dear Customer, Netflix: Your membership has expired. Please act today itself or legal action will be taken against you. Click the link below and install THE app to proceed. netflix-update-app.xyz Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+107,"Netflix: Aapki membership expire ho gayi hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,pdf_then_apk,Netflix,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+172,"प्रिय उपयोगकर्ता,
+Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+174,"आदरणीय ग्राहक, Disney+ Hotstar: YOUR membership has expired.. कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें। [अग्रेषित] Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hi,no_explicit_app_word,Disney+ Hotstar,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+210,"প্রিয় গ্রাহক,
+Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,ott_subscription,bn,qr_code,Disney+ Hotstar,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+236,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Netflix,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+243,"ਪਿਆਰੇ ਗਾਹਕ,
+Disney+ Hotstar: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,pa,attached_file_no_link,Disney+ Hotstar,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+246,"Dear Customer, Netflix: Your membership has expired. Please act today itself or your service will be suspended permanently. Click the link below and install the app to proceed.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+252,"आदरणीय ग्राहक, Netflix: Your membership has expired. कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें। [अग्रेषित] Netflix_Update.apk 14 MB . APK",spam,apk_fraud,ott_subscription,hi,pdf_then_apk,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+262,"Namaste Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya turant action le, warna connection cut ho jayega. Niche diye link se app install kare.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Disney+ Hotstar,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+297,"Namaste Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+318,"Disney+ Hotstar: Your membership has expired. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+369,"Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,ott_subscription,hi,qr_code,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+393,"प्रिय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Disney+ Hotstar,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+407,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+408,"Namaste Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. 24 ghante ke andar jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Disney+ Hotstar,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+419,"Netflix: Aapki membership expire ho gayi hai. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Niche diye link se app install kare.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Netflix,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+435,"Dear Sir/Madam, Netflix: Your membership has expired. Please act right now to avoid penalty or legal action will be taken against you. Please check the attached file for full details and open it to proceed.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,attached_file_no_link,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+439,"Dear Vehicle Owner, Netflix: Your membership has expired. Please act today itself or your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,attached_file_no_link,Netflix,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+447,"ਪਿਆਰੇ ਗਾਹਕ,
+Disney+ Hotstar: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,pa,link_apk,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+462,"Dear Sir/Madam, Netflix: Your membership has expired. Kindly respond within 3 days or legal action will be taken, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+468,"Dear User, DISNEY+ Hotstar: Your membership has expired. Kindly respond right now to avoid penalty, otherwise legal action will be taken against you. Please check the attached file for full details and open it to proceed. [Forwarded] Hotstar_Renew.apk 14 MB . APK",spam,apk_fraud,ott_subscription,en,attached_file_no_link,Disney+ Hotstar,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+518,"NETFLIX: Your membership has expired.. ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ। [ਅੱਗੇ ਭੇਜਿਆ] Netflix_Update.apk 14 MB . APK",spam,apk_fraud,ott_subscription,pa,attached_file_no_link,Netflix,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+532,"Dear Customer, Netflix: Aapki membership expire ho gayi hai.. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,pdf_then_apk,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+560,"प्रिय उपयोगकर्ता,
+Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,ott_subscription,hi,vishing_callback,Netflix,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+633,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Disney+ Hotstar: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,pa,link_apk,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+686,"Namaste Customer, Netflix: Aapki membership expire ho gayi hai. Kripya aaj hi action le, warna legal action hoga. Niche diye link se APP install kare. netflix-update-app.xyz Netflix_Update.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Netflix,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+709,"عزیز صارف،
+Disney+ Hotstar: Your membership has expired.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,ur,attached_file_no_link,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+724,"محترم گاہک،
+Netflix: Your membership has expired.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,ur,attached_file_no_link,Netflix,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+754,"Priya Grahak, Netflix: Aapki membership expire ho gayi hai. 24 ghante ke andar jawab de, nahi to legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,pdf_then_apk,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+763,"Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,pa,attached_file_no_link,Netflix,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+824,"Attention Customer, Netflix: Your membership has expired. Kindly respond today itself, otherwise your account will be blocked. Click the link below and install the app to proceed.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+825,"Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,pa,link_apk,Netflix,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+828,"आदरणीय ग्राहक,
+Netflix: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+865,"ਪਿਆਰੇ ਗਾਹਕ, Netflix: Your membership has expired. ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ। [ਅੱਗੇ ਭੇਜਿਆ] Netflix_Update.apk 14 MB . APK",spam,apk_fraud,ott_subscription,pa,attached_file_no_link,Netflix,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+867,"Dear Customer, Disney+ Hotstar: Your membership has expired. Kindly respond immediately, otherwise your connection will be disconnected. Click and open the pdf file below and check your details.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,pdf_then_apk,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+880,"Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,pa,link_apk,Netflix,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+884,"Dear Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya aaj hi action le, warna aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,ott_subscription,hg,vishing_callback,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+931,"Netflix: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+netflix-updat-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Netflix,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+963,"Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,bn,attached_file_no_link,Disney+ Hotstar,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+969,"عزیز صارف،
+Netflix: Your membership has expired.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,ur,pdf_then_apk,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+1101,"Dear User, Disney+ Hotstar: Your membership has expired. Kindly respond before midnight, otherwise your account will be blocked. Click the link below and install the app to proceed.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,en,link_apk,Disney+ Hotstar,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+1145,"Netflix: Your membership has expired.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Scan teh QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,ta,qr_code,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+1162,"Netflix: Your membership has expired.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,bn,attached_file_no_link,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+1184,"Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+1223,"Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,pa,vishing_callback,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+1227,"শ্রদ্ধেয় গ্রাহক,
+Netflix: Your membership has expired.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,bn,link_apk,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+1252,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+1300,"Disney+ Hotstar: Your membership has expired. Kindly respond within 3 days or legal action will be taken, otherwise your connection will be disconnected. Click the link below and install the app to proceed.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,en,link_apk,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+1359,"Dear Customer, Netflix: Your membership has expired. Kindly respond immediately, otherwise legal action will be taken against you. Click the link below and install the app to proceed.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+1364,"محترم گاہک،
+Disney+ Hotstar: Your membership has expired.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,ur,link_apk,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+1393,"प्रिय उपयोगकर्ता,
+Netflix: Your membership has expired.
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+1394,"عزیز صارف،
+Netflix: Your membership has expired.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,ur,attached_file_no_link,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+1407,"Disney+ Hotstar: Your membership has expired. Please act within 3 days or legal action will be taken or your account will be blocked. Click the link below and install the app to proceed.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,en,link_apk,Disney+ Hotstar,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+1423,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Netflix,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+1454,"Namaste Customer, Netflix: Aapki membership expire ho gayi hai. Kripya aaj hi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Netflix,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+1467,"محترم گاہک،
+Netflix: Your membership has expired.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,ur,qr_code,Netflix,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+1491,"Dear Vehicle Owner, Disney+ Hotstar: Your membership has expired. Kindly respond within 24 hours, otherwise you will lose this offer. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,ott_subscription,en,no_explicit_app_word,Disney+ Hotstar,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+1504,"आदरणीय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Disney+ Hotstar,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+1631,"Dear Customer, Netflix: Aapki membership expire ho gayi hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,ott_subscription,hg,vishing_callback,Netflix,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+1633,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+1648,"Dear Sir/Madam, Disney+ Hotstar: Your membership has expired.. Please act right now to avoid penalty or your service will be suspended permanently. Scan the QR code attached to this MESSAGE to complete verification instantly.",spam,apk_fraud,ott_subscription,en,qr_code,Disney+ Hotstar,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+1656,"ਪਿਆਰੇ ਗਾਹਕ,
+Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,pa,pdf_then_apk,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+1672,"Dear Sir/Madam, Disney+ Hotstar: Your membership has expired. Please ACT before midnight or legal action will be taken against you. Click teh link below and install the app to proceed. hotstar-renew.info Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,en,link_apk,Disney+ Hotstar,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+1683,"प्रिय उपयोगकर्ता,
+Netflix: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+1704,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Netflix,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+1715,"Disney+ Hotstar: Your membership has expired.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,ta,qr_code,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+1769,"Priya Grahak, Disney+ Hotstar: Aapki membership expire ho gayi hai.. Kripya turant action le, warna connection cut ho jayega. Niche diye link se app install kare.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Disney+ Hotstar,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+1770,"প্রিয় গ্রাহক,
+Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,bn,vishing_callback,Disney+ Hotstar,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+1788,"Namaste Customer, Netflix: Aapki membership expire ho gayi hai. Kripya aaj hi action le, warna legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,ott_subscription,hg,qr_code,Netflix,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+1795,"Dear User, Netflix: Your membership has expired. Please act immediately or your connection will be disconnected. Click the link below and install the app to proceed.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+1859,"Dear Customer, Netflix: Aapki membership expire ho gayi hai. Kripya turant action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Netflix,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+1898,"प्रिय उपयोगकर्ता,
+Disney+ Hotstar: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hi,no_explicit_app_word,Disney+ Hotstar,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+1902,"Netflix: Your membership has expired.
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hi,attached_file_no_link,Netflix,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+1917,"ਪਿਆਰੇ ਗਾਹਕ,
+Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,pa,link_apk,Netflix,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+1937,"Dear Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya turant action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+1938,"প্রিয় গ্রাহক,
+Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,bn,link_apk,Disney+ Hotstar,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+1940,"Dear User, Netflix: Your membership has expired. Kindly respond immediately, otherwise you will lose this offer. Click the link below and install the app to proceed.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+1950,"Netflix: Aapki membership expire ho gayi hai. Kripya jaldi se jaldi action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,pdf_then_apk,Netflix,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+1963,"ਪਿਆਰੇ ਗਾਹਕ,
+Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,pa,link_apk,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+1966,"Dear Customer, Disney+ Hotstar: Your membership has expired. Kindly respond before midnight, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,en,link_apk,Disney+ Hotstar,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+1974,"Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya jaldi se jaldi action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,attached_file_no_link,Disney+ Hotstar,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+1976,"Dear Customer, Disney+ Hotstar: Your membership has expired. Kindly respond right now to avoid penalty, otherwise you will lose this offer. Click and open the pdf file below and check your details.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,pdf_then_apk,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+2020,"Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+2057,"Dear Sir/Madam, Disney+ Hotstar: Your membership has expired. Kindly respond within 3 days or legal action will be taken, otherwise your connection will be disconnected. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,en,vishing_callback,Disney+ Hotstar,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+2085,"प्रिय ग्राहक, Netflix: YOUR membership has expired. कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। netflix-update-app.xyz Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+2137,"Dear Vehicle Owner, Disney+ Hotstar: Your membership has expired. Please act right now to avoid penalty or your service will be suspended permanently. Click the link below and install the app to proceed.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,en,link_apk,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+2146,"শ্রদ্ধেয় গ্রাহক, Disney+ Hotstar: Your membership has expired. অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে। অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন। [ফরওয়ার্ড করা হয়েছে] Hotstar_Renew.apk 14 MB . APK",spam,apk_fraud,ott_subscription,bn,attached_file_no_link,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+2196,"Dear User, Netflix: Your membership has expired. Kindly respond before midnight, otherwise your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,attached_file_no_link,Netflix,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+2223,"Disney+ Hotstar: Aapki membership expire ho gayi hai. aaj hi jawab de, nahi to aapka account block ho jayega. Aapke recent request ke baare me ek zaroori updat hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,ott_subscription,hg,no_explicit_app_word,Disney+ Hotstar,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+2231,"Priya Grahak, Disney+ Hotstar: Aapki membership expire ho gayi hai. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Disney+ Hotstar,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+2236,"Netflix: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Netflix,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+2247,"प्रिय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,attached_file_no_link,Disney+ Hotstar,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+2281,"Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,pa,vishing_callback,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+2323,"प्रिय ग्राहक, Disney+ Hotstar: Your membership has EXPIRED.. कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] Hotstar_Renew.apk 14 MB . APK",spam,apk_fraud,ott_subscription,hi,attached_file_no_link,Disney+ Hotstar,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+2337,"Disney+ Hotstar: Your membership has expired.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Disney+ Hotstar,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+2343,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,ott_subscription,hi,vishing_callback,Netflix,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+2400,"Dear Vehicle Owner, Netflix: Your membership has expired. Please act immediately or legal action will be taken against you. Click the link below and install the app to proceed.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+2427,"Priya Grahak, Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya turant action le, warna connection cut ho jayega. Niche diye link se app install kare.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+2433,"Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hi,attached_file_no_link,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+2436,"Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,ott_subscription,mr,no_explicit_app_word,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+2462,"आदरणीय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,pdf_then_apk,Disney+ Hotstar,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+2481,"প্রিয় গ্রাহক,
+Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,bn,vishing_callback,Disney+ Hotstar,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+2485,"Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,pa,qr_code,Netflix,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+2499,"Netflix: Your membership has expired.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,ta,link_apk,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+2521,"Netflix: Your membership has expired.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hi,attached_file_no_link,Netflix,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+2557,"प्रिय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hi,attached_file_no_link,Disney+ Hotstar,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+2620,"प्रिय उपयोगकर्ता,
+Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+2623,"Dear Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. turant jawab de, nahi to connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,pdf_then_apk,Disney+ Hotstar,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+2640,"Netflix: Aapki membership expire ho gayi hai. Kripya turant action le, warna legal action hoga. Niche diye link se app install kare.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Netflix,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+2643,"Netflix: Your membership has expired.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,ur,link_apk,Netflix,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+2652,"प्रिय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Disney+ Hotstar,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+2656,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Disney+ Hotstar: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,pa,attached_file_no_link,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+2657,"Dear User, Disney+ Hotstar: Your membership has expired. Please act before midnight or your connection will be disconnected. Click the link below and install the app to proceed.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,en,link_apk,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+2688,"प्रिय उपयोगकर्ता,
+Disney+ Hotstar: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+2742,"प्रिय ग्राहक, Netflix: Your membership has expired.. कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। netflix-update-app.xyz Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+2771,"Priya Grahak, Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya turant action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,pdf_then_apk,Disney+ Hotstar,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+2773,"Netflix: Your membership has expired. Kindly respond today itself, otherwise your account will be blocked. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,en,vishing_callback,Netflix,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+2813,"Dear Customer, Disney+ Hotstar: Your membership has expired. Kindly respond immediately, otherwise your account will be blocked. Click and open the pdf file below and check your details.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,pdf_then_apk,Disney+ Hotstar,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+2855,"Disney+ Hotstar: Aapki membership expire ho gayi hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,pdf_then_apk,Disney+ Hotstar,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+2857,"Disney+ Hotstar: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+2885,"प्रिय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,attached_file_no_link,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+2897,"Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,ott_subscription,bn,no_explicit_app_word,Disney+ Hotstar,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+2900,"শ্রদ্ধেয় গ্রাহক, Netflix: Your membership has expired. অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে। নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন। netflix-update-app.xyz Netflix_Update.apk",spam,apk_fraud,ott_subscription,bn,link_apk,Netflix,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+2931,"ਪਿਆਰੇ ਗਾਹਕ,
+Disney+ Hotstar: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,pa,attached_file_no_link,Disney+ Hotstar,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+2935,"Netflix: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,attached_file_no_link,Netflix,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+2948,"محترم گاہک،
+Disney+ Hotstar: Your membership has expired.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,ur,attached_file_no_link,Disney+ Hotstar,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+2966,"प्रिय उपयोगकर्ता,
+Netflix: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+2992,"Dear Customer, Netflix: Your membership has expired. Please act before midnight or legal action will be taken against you. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,en,vishing_callback,Netflix,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+2995,"Disney+ Hotstar: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+3041,"Dear Customer, Netflix: Your membership has expired. Kindly respond immediately, otherwise legal action will be taken against you. Click and open the pdf file below and check your details.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,pdf_then_apk,Netflix,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+3064,"محترم گاہک،
+Disney+ Hotstar: Your membership has expired.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,ur,link_apk,Disney+ Hotstar,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+3073,"Priya Grahak, Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya turant action le, warna aapka acount block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,pdf_then_apk,Disney+ Hotstar,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+3085,"Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,bn,attached_file_no_link,Disney+ Hotstar,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+3116,"प्रिय उपयोगकर्ता,
+Netflix: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+3117,"அன்புள்ள வாடிக்கையாளர்,
+Disney+ Hotstar: Your membership has expired.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,ta,link_apk,Disney+ Hotstar,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+3119,"प्रिय उपयोगकर्ता,
+Disney+ Hotstar: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,ott_subscription,hi,qr_code,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+3136,"आदरणीय ग्राहक, Netflix: Your membership has expired. कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। netflix-updat-app.xyz NETFLIX_UPDATE.APK",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+3138,"ਪਿਆਰੇ ਗਾਹਕ,
+Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,pa,link_apk,Netflix,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+3150,"Dear User, Netflix: Your membership has expired. Please act immediately or you will lose this offer. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,en,qr_code,Netflix,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+3168,"Dear Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya turant action le, warna aapka account block ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,ott_subscription,hg,no_explicit_app_word,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+3223,"Dear User, Disney+ Hotstar: Your membership has expired.. Please act today itself or you will lose this offer. Click the link below and install the app to proceed.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,en,link_apk,Disney+ Hotstar,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+3233,"Dear Vehicle Owner, Netflix: Your membership has expired. Please act before midnight or your connection will be disconnected. Click the link below and install the app to proceed.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+3251,"ਪਿਆਰੇ ਗਾਹਕ, Netflix: Your membership has expired. ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,pa,qr_code,Netflix,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+3282,"प्रिय उपयोगकर्ता,
+Netflix: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,ott_subscription,hi,qr_code,Netflix,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+3288,"Dear Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya turant action le, warna legal action hoga. Niche diye link se app install kare.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Disney+ Hotstar,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+3296,"Disney+ Hotstar: Your membership has expired.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும் , இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,ta,attached_file_no_link,Disney+ Hotstar,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+3298,"அன்புள்ள வாடிக்கையாளர்,
+Netflix: Your membership has expired.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,ta,qr_code,Netflix,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+3318,"Dear Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya turant action le, warna legal action hoga. Attached FILE check kare aur use khol kar aage badhe. [Forwarded] Hotstar_Renew.apk 14 MB . APK",spam,apk_fraud,ott_subscription,hg,attached_file_no_link,Disney+ Hotstar,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+3321,"Disney+ Hotstar: Your membership has expired.
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,ott_subscription,hi,no_explicit_app_word,Disney+ Hotstar,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+3322,"Dear Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. aaj hi jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,attached_file_no_link,Disney+ Hotstar,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+3323,"Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,bn,link_apk,Disney+ Hotstar,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+3353,"Namaste Customer, Netflix: Aapki membership expire ho gayi hai. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,ott_subscription,hg,qr_code,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+3384,"Namaste Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. turant jawab de, nahi to legal action hoga. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hg,no_explicit_app_word,Disney+ Hotstar,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+3388,"आदरणीय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Disney+ Hotstar,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+3393,"Dear Vehicle Owner, Disney+ Hotstar: Your membership has expired. Kindly respond within 24 hours, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,en,link_apk,Disney+ Hotstar,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+3402,"Netflix: Your membership has expired.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+3426,"Dear Customer, Netflix: Your membership has expired. Kindly respond within 24 hours, otherwise your account will be blocked. Click the link below and install the app to proceed.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+3433,"প্রিয় গ্রাহক,
+Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,bn,link_apk,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+3455,"Dear Customer, Netflix: Aapki membership expire ho gayi hai. Kripya aaj hi action le, warna aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,ott_subscription,hg,vishing_callback,Netflix,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+3489,"ਪਿਆਰੇ ਗਾਹਕ,
+Disney+ Hotstar: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,pa,pdf_then_apk,Disney+ Hotstar,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+3503,"அன்புள்ள வாடிக்கையாளர்,
+Disney+ Hotstar: Your membership has expired.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,ta,attached_file_no_link,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+3536,"Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,bn,link_apk,Disney+ Hotstar,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+3585,"Dear Vehicle Owner, Disney+ Hotstar: Your membership has expired. Kindly respond today itself, otherwise you will lose this offer. Click the link below and install the app to proceed.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,en,link_apk,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+3586,"Attention Customer, Netflix: Your membership has expired. Please act within 3 days or legal action will be taken or legal action will be taken against you. Click the link below and install the app to proceed.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+3661,"Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,no_explicit_app_word,Netflix,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+3673,"Disney+ Hotstar: Your membership has expired.
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,ott_subscription,hi,qr_code,Disney+ Hotstar,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+3674,"प्रिय उपयोगकर्ता,
+Disney+ Hotstar: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,ott_subscription,hi,vishing_callback,Disney+ Hotstar,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+3682,"आदरणीय ग्राहक,
+Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hi,attached_file_no_link,Netflix,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+3693,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Disney+ Hotstar: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,pa,pdf_then_apk,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+3695,"Dear Vehicle Owner, Netflix: Your membership has expired. Please act right now to avoid penalty or your account will be blocked. We tried to reach you regarding your pending issue. Call us back on the number below AND our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,en,vishing_callback,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+3698,"Dear Customer, Disney+ Hotstar: Your membership has expired. Kindly respond within 24 hours, otherwise your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,attached_file_no_link,Disney+ Hotstar,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+3710,"প্রিয় গ্রাহক,
+Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,bn,attached_file_no_link,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+3724,"Priya Grahak, Netflix: Aapki membership expire ho gayi hai. aaj hi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+3736,"Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-updat-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+3772,"Priya Grahak, Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Disney+ Hotstar,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+3797,"Disney+ Hotstar: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें , अन्यथा आपका कनेक्शन काट दिया जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,ott_subscription,hi,vishing_callback,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+3830,"Netflix: Your membership has expired. অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে। অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন। [ফরওয়ার্ড করা হয়েছে] Netflix_Update.apk 14 MB . APK",spam,apk_fraud,ott_subscription,bn,attached_file_no_link,Netflix,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+3832,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Netflix,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+3834,"Namaste Customer, Netflix: Aapki membership expire ho gayi hai. Kripya turant action le, warna aapka acount block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,ott_subscription,hg,qr_code,Netflix,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+3867,"عزیز صارف،
+Netflix: Your membership has expired.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,ur,link_apk,Netflix,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+3877,"Disney+ Hotstar: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,attached_file_no_link,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+3894,"प्रिय उपयोगकर्ता , Disney+ Hotstar: Your membership has expired. कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] Hotstar_Renew.apk 14 MB . APK",spam,apk_fraud,ott_subscription,hi,attached_file_no_link,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+3899,"आदरणीय ग्राहक,
+Netflix: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hi,pdf_then_apk,Netflix,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+3920,"Netflix: Your membership has expired..
+অনুগ্রহ করে আজই ব্যবস্থা নিন , নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,bn,pdf_then_apk,Netflix,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+3933,"आदरणीय ग्राहक,
+Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,mr,vishing_callback,Netflix,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+3977,"Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+4015,"Dear Sir/Madam, Netflix: Your membership has expired. Please act within 24 hours or legal action will be taken against you. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,en,qr_code,Netflix,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+4018,"Dear User, Disney+ Hotstar: Your membership has expired. Please act immediately or legal action will be taken against you. Click and open the pdf file below and check your details.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,pdf_then_apk,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+4044,"প্রিয় গ্রাহক,
+Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,bn,attached_file_no_link,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+4067,"आदरणीय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,ott_subscription,hi,vishing_callback,Disney+ Hotstar,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+4092,"Attention Customer, Netflix: Your membership has expired. Please act today itself or your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,attached_file_no_link,Netflix,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+4126,"Dear Sir/Madam, Disney+ Hotstar: Your membership has expired. Please act before midnight or your account will be blocked. Click and open the pdf file below and check your details.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,pdf_then_apk,Disney+ Hotstar,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+4132,"Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hi,link_apk,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+4140,"Dear Customer, Netflix: Your membership has expired. Kindly respond immediately, otherwise your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,attached_file_no_link,Netflix,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+4153,"आदरणीय ग्राहक,
+Netflix: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Netflix,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+4161,"Attention Customer, Netflix: Your membership has expired. Kindly respond immediately, otherwise you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,attached_file_no_link,Netflix,VK-UPIRWD,synthetic_v2,3,qr_code_sideload_scam
+4224,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Disney+ Hotstar: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,pa,pdf_then_apk,Disney+ Hotstar,INFO-GOVT,synthetic_v2,3,qr_code_sideload_scam
+4258,"Namaste Customer, Netflix: Aapki membership expire ho gayi hai. turant jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,hg,link_apk,Netflix,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+4279,"Netflix: Your membership has expired. ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ। Click and open the pdf file below and check your details. [Forwarded] Netflix_Update.apk 14 MB . APK",spam,apk_fraud,ott_subscription,pa,pdf_then_apk,Netflix,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+4290,"प्रिय उपयोगकर्ता,
+Disney+ Hotstar: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hi,attached_file_no_link,Disney+ Hotstar,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+4298,"Netflix: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,attached_file_no_link,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+4312,"Attention Customer, Disney+ Hotstar: Your membership has expired. Kindly respond right now to avoid penalty, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,en,link_apk,Disney+ Hotstar,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+4344,"Attention Customer, Disney+ Hotstar: Your membership has expired. Please act within 24 hours or your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,attached_file_no_link,Disney+ Hotstar,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+4351,"Disney+ Hotstar: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Disney+ Hotstar,VK-LOANAP,synthetic_v2,3,qr_code_sideload_scam
+4361,"Priya Grahak, Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,attached_file_no_link,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+4367,"அன்புள்ள வாடிக்கையாளர்,
+Disney+ Hotstar: Your membership has expired.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check your details.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,ta,pdf_then_apk,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+4413,"Attention Customer, Disney+ Hotstar: Your membership has expired. Kindly respond before midnight, otherwise your service will be suspended permanently. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,en,vishing_callback,Disney+ Hotstar,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+4425,"ਪਿਆਰੇ ਗਾਹਕ,
+Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,pa,attached_file_no_link,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+4478,"Dear User, Netflix: Your membership has expired. Please act today itself or your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,attached_file_no_link,Netflix,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+4498,"Disney+ Hotstar: Your membership has expired.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,ta,qr_code,Disney+ Hotstar,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+4534,"Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Netflix,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+4535,"प्रिय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hi,attached_file_no_link,Disney+ Hotstar,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+4549,"প্রিয় গ্রাহক,
+Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,bn,pdf_then_apk,Disney+ Hotstar,VK-INDPST,synthetic_v2,3,qr_code_sideload_scam
+4609,"Dear Sir/Madam, Disney+ Hotstar: Your membership has expired. Kindly respond within 3 days or legal action will be taken, otherwise your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,en,attached_file_no_link,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+4615,"அன்புள்ள வாடிக்கையாளர்,
+Netflix: Your membership has expired..
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,ta,vishing_callback,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+4638,"Disney+ Hotstar: Your membership has expired.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,ur,link_apk,Disney+ Hotstar,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+4674,"শ্রদ্ধেয় গ্রাহক,
+Disney+ Hotstar: Your membership has expired.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,bn,attached_file_no_link,Disney+ Hotstar,AX-PWRBIL,synthetic_v2,3,qr_code_sideload_scam
+4677,"Dear Customer, Netflix: Aapki membership expire ho gayi hai. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,ott_subscription,hg,vishing_callback,Netflix,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+4694,"आदरणीय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Disney+ Hotstar,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+4707,"Netflix: Your membership has expired.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,ott_subscription,hi,vishing_callback,Netflix,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+4794,"Priya Grahak, Netflix: Aapki membership expire ho gayi HAI. Kripya aaj hi action le, warna aapka acount block ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare. [Forwarded] Netflix_Update.apk",spam,apk_fraud,ott_subscription,hg,no_explicit_app_word,Netflix,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+4796,"Dear User, Disney+ Hotstar: Your membership has expired. Please act within 24 hours or your connection will be disconnected. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,en,qr_code,Disney+ Hotstar,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+4808,"محترم گاہک،
+Disney+ Hotstar: Your membership has expired.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,ur,link_apk,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,3,qr_code_sideload_scam
+4841,"Attention Customer, Netflix: Your membership has expired. Please act before midnight or you will lose this offer. Click the link below and install the app to proceed.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,en,link_apk,Netflix,VK-RTOGOV,synthetic_v2,3,qr_code_sideload_scam
+4864,"ਪਿਆਰੇ ਗਾਹਕ,
+Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,pa,attached_file_no_link,Netflix,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+4888,"ਪਿਆਰੇ ਗਾਹਕ,
+Netflix: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,pa,vishing_callback,Netflix,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam
+4902,"Netflix: Your membership has expired.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hi,attached_file_no_link,Netflix,VM-WHATSP,synthetic_v2,3,qr_code_sideload_scam
+4909,"Namaste Customer, Netflix: Aapki membership expire ho gayi hai. jaldi SE jaldi jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,ott_subscription,hg,qr_code,Netflix,JD-ITAXRF,synthetic_v2,3,qr_code_sideload_scam
+4919,"आदरणीय ग्राहक, Disney+ Hotstar: Your membership has expired. कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,ott_subscription,hi,vishing_callback,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,3,qr_code_sideload_scam
+4976,"Namaste Customer, Netflix: Aapki membership expire ho gayi hai. aaj hi jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,ott_subscription,hg,qr_code,Netflix,+91 8800XXXX12,synthetic_v2,3,qr_code_sideload_scam
+4993,"শ্রদ্ধেয় গ্রাহক, Netflix: Your membership has expired. অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে। There is an important update regarding your recent request. Please open the document below and follow the STEPS to complete the process. [Forwarded]",spam,apk_fraud,ott_subscription,bn,no_explicit_app_word,Netflix,AD-NETFLX,synthetic_v2,3,qr_code_sideload_scam
+4999,"Disney+ Hotstar: Aapki membership expire ho gayi hai. Kripya jaldi se jaldi action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,hg,pdf_then_apk,Disney+ Hotstar,AD-ICICIB,synthetic_v2,3,qr_code_sideload_scam

@@ -1,0 +1,79 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">SurakshaSathi</string>
+    <string name="app_name_hindi">सुरक्षा साथी</string>
+    <string name="app_tagline">Bank Anti-Phishing Shield</string>
+
+    <!-- Notification channels -->
+    <string name="notification_channel_phishing_id">phishing_alerts</string>
+    <string name="notification_channel_phishing_name">Phishing Alerts</string>
+    <string name="notification_channel_phishing_desc">Alerts when phishing messages or fake apps are detected</string>
+
+    <string name="notification_channel_safety_id">safety_nudges</string>
+    <string name="notification_channel_safety_name">Safety Nudges</string>
+    <string name="notification_channel_safety_desc">Proactive cyber-safety tips in your language</string>
+
+    <string name="notification_channel_reports_id">report_status</string>
+    <string name="notification_channel_reports_name">Report Status</string>
+    <string name="notification_channel_reports_desc">Status of your cybercrime reports to I4C / NCRP</string>
+
+    <!-- Notification Listener label (shown in Settings > Notification Access) -->
+    <string name="notification_listener_label">SurakshaSathi Message Scanner</string>
+
+    <!-- RAG warning notification (Flow 1b) -->
+    <string name="rag_warning_notification_title">⚠️ This may be a fake banking message</string>
+    <string name="rag_warning_notification_report_action">Report</string>
+
+    <!-- APK alert notification (Flow 2) -->
+    <string name="apk_alert_notification_title_impersonation">🚨 Fake Bank/YONO app detected</string>
+    <string name="apk_alert_notification_title_malware">🚨 Malicious app detected</string>
+    <string name="apk_alert_notification_view_action">View</string>
+
+    <!-- Permission rationale strings -->
+    <string name="permission_notification_title">Enable Notifications</string>
+    <string name="permission_notification_rationale">SurakshaSathi needs notification permission to alert you immediately when a phishing message or malicious app is detected.</string>
+    <string name="permission_notification_listener_title">Enable Notification Access</string>
+    <string name="permission_notification_listener_rationale">To scan WhatsApp and Telegram messages for phishing, SurakshaSathi needs Notification Access. This is the only way to read message content — no data is stored without your consent.</string>
+    <string name="permission_camera_title">Enable Camera</string>
+    <string name="permission_camera_rationale">Camera is used for liveness verification during high-risk transactions and scanning QR codes to verify official Bank links. No images are stored or transmitted.</string>
+    <string name="permission_location_title">Enable Location (Optional)</string>
+    <string name="permission_location_rationale">Anonymous coarse location helps display the fraud heatmap and show regional threats near you. This is optional.</string>
+    <string name="permission_sms_title">Enable SMS Access</string>
+    <string name="permission_sms_rationale">SMS scanning requires this permission. By default, SurakshaSathi uses Notification Access instead (no restricted permission needed). This option is for enterprise deployments only.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_get_started">Get Started</string>
+
+    <!-- Common UI -->
+    <string name="action_report">Report to Cybercrime</string>
+    <string name="action_learn_more">Learn More</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="action_delete">Delete File</string>
+    <string name="action_open_settings">Open Settings</string>
+    <string name="label_protected">Protected</string>
+    <string name="label_at_risk">At Risk</string>
+    <string name="label_safe">Safe ✓</string>
+    <string name="label_suspicious">Suspicious ⚠️</string>
+    <string name="label_malicious">Malicious 🚨</string>
+    <string name="label_loading">Scanning…</string>
+
+    <!-- Navigation labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_learn">Learn</string>
+
+    <!-- Error messages -->
+    <string name="error_network">No internet connection. Working offline.</string>
+    <string name="error_unknown">Something went wrong. Please try again.</string>
+    <string name="error_model_load">On-device model unavailable. Using rule-based detection.</string>
+    <string name="error_permission_denied">Permission denied. Some features may be limited.</string>
+
+    <!-- Accessibility content descriptions -->
+    <string name="cd_protection_status">Current protection status</string>
+    <string name="cd_scan_message">Scan this message for threats</string>
+    <string name="cd_report_fraud">Report this as fraud</string>
+    <string name="cd_apk_alert">Malicious APK detected alert</string>
+</resources>

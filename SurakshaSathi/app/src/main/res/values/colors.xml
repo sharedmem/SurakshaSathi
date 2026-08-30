@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash background: Bank deep navy -->
+    <color name="splash_background">#121318</color>
+    <!-- Primary Bank blue -->
+    <color name="bank_blue">#2B5AC8</color>
+    <!-- Bank gold -->
+    <color name="bank_gold">#DDAF00</color>
+</resources>

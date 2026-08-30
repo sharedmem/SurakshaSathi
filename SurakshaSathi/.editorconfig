@@ -1,0 +1,30 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+indent_size = 4
+
+[*.{kt,kts}]
+# Compose files commonly exceed the ktlint default of 120 (Modifier chains,
+# Composable calls with many named params) — 140 matches what the codebase
+# already writes rather than forcing a mass reformat.
+max_line_length = 140
+
+# This codebase deliberately uses wildcard imports for Compose icon/material
+# packages (import androidx.compose.material.icons.filled.*) — it's the
+# established convention across every screen, not an accident to "fix".
+ij_kotlin_name_count_to_use_star_import = 3
+ij_kotlin_name_count_to_use_star_import_for_members = 3
+
+# @Composable functions are PascalCase by Compose convention (they're used
+# like components, e.g. `Text(...)`) — ktlint's function-naming rule doesn't
+# know that convention, so disable it rather than rename every screen function.
+ktlint_function_naming_ignore_when_annotated_with = Composable
+
+# Trailing commas are used inconsistently across the existing codebase;
+# don't force either direction.
+ij_kotlin_allow_trailing_comma = true
+ij_kotlin_allow_trailing_comma_on_call_site = true

@@ -1,0 +1,31 @@
+<resources>
+    <!-- Hindi (हिन्दी) translations for SurakshaSathi -->
+    <string name="app_name">सुरक्षा साथी</string>
+    <string name="app_tagline">बैंक एंटी-फिशिंग शील्ड</string>
+    <string name="notification_listener_label">सुरक्षा साथी संदेश स्कैनर</string>
+    <string name="rag_warning_notification_title">⚠️ यह एक नकली बैंक/YONO संदेश हो सकता है</string>
+    <string name="rag_warning_notification_report_action">रिपोर्ट करें</string>
+
+    <string name="permission_notification_title">सूचनाएं सक्षम करें</string>
+    <string name="permission_notification_rationale">फ़िशिंग संदेश या दुर्भावनापूर्ण ऐप का पता चलते ही आपको तुरंत सूचित करने के लिए सुरक्षा साथी को सूचना अनुमति चाहिए।</string>
+    <string name="permission_camera_title">कैमरा सक्षम करें</string>
+    <string name="permission_camera_rationale">पहचान सत्यापन और आधिकारिक बैंक लिंक की जांच के लिए QR कोड स्कैन करने हेतु कैमरे का उपयोग किया जाता है। कोई छवि संग्रहीत या प्रेषित नहीं की जाती।</string>
+
+    <string name="label_protected">सुरक्षित ✓</string>
+    <string name="label_safe">सुरक्षित ✓</string>
+    <string name="label_suspicious">संदिग्ध ⚠️</string>
+    <string name="label_malicious">दुर्भावनापूर्ण 🚨</string>
+
+    <string name="action_report">साइबर अपराध की रिपोर्ट करें</string>
+    <string name="action_learn_more">अधिक जानें</string>
+    <string name="action_dismiss">खारिज करें</string>
+    <string name="action_delete">फ़ाइल हटाएं</string>
+
+    <string name="nav_home">होम</string>
+    <string name="nav_alerts">अलर्ट</string>
+    <string name="nav_dashboard">डैशबोर्ड</string>
+    <string name="nav_learn">सीखें</string>
+
+    <string name="error_network">इंटरनेट कनेक्शन नहीं। ऑफ़लाइन काम कर रहे हैं।</string>
+    <string name="error_unknown">कुछ गलत हुआ। कृपया पुनः प्रयास करें।</string>
+</resources>

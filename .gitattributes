@@ -1,0 +1,4 @@
+sms_spam_detector_v2/**/*.safetensors filter=lfs diff=lfs merge=lfs -text
+sms_spam_detector_v2/**/*.pt filter=lfs diff=lfs merge=lfs -text
+sms_spam_detector_v2/**/*.bin filter=lfs diff=lfs merge=lfs -text
+sms_spam_detector_v2/**/*.tflite filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,1084 @@
+id,text,label,subtype,category,language,delivery_mode,brand_used,sender_id,source,cluster_id,cluster_label
+48,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 750. चलन क्रमांक: CH55873760.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,mr,vishing_callback,Parivahan / RTO Traffic Police,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+49,"Congratulations! You are eligible for a pre-approved offer of Rs 5000 from InstaCredit.
+कृपया आजच कारवाई करा , अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,mr,attached_file_no_link,InstaCredit,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+55,"आदरणीय ग्राहक, Congratulations! You are eligible FOR a pre-approved offer of Rs 25000 from QuickLoan Finance. कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा. [फॉरवर्ड केलेले] Loan_Approval.apk 14 MB . APK",spam,apk_fraud,loan_job,mr,attached_file_no_link,QuickLoan Finance,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+68,"प्रिय ग्राहक,
+Your electricity bill of Rs 200 with Power Distribution Co is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,Power Distribution Co,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+77,"प्रिय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 2000. चलन क्रमांक: CH39417237.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] ParivahanSewa.apk  14 MB . APK",spam,apk_fraud,rto_challan,mr,attached_file_no_link,Parivahan Sewa,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+97,"You have received a cashback of Rs 500 from Paytm Cashback..
+कृपया त्वरित कारवाई करा , अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,pdf_then_apk,Paytm Cashback,AD-ICICIB,synthetic_v2,2,direct_apk_2
+98,"आदरणीय ग्राहक,
+You have received a cashback of Rs 2000 from UPI Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,mr,link_apk,UPI Rewards,VK-INDPST,synthetic_v2,2,direct_apk_2
+109,"प्रिय ग्राहक ,
+Income Tax Department: तुम्ही रु 5000 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,mr,attached_file_no_link,Income Tax Department,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+110,"You have received a cashback of Rs 25000 from UPI Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,mr,link_apk,UPI Rewards,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+123,"आदरणीय ग्राहक,
+तुमचे PNB केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,mr,link_apk,PNB,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+129,"प्रिय ग्राहक,
+Your electricity bill of Rs 500 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,VK-LOANAP,synthetic_v2,2,direct_apk_2
+182,"प्रिय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-8859-H15 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,BlueDart,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+183,"Your electricity bill of Rs 200 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,Power Distribution Co,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+191,"प्रिय ग्राहक,
+You have received a cashback of Rs 200 from PhonePe Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,mr,vishing_callback,PhonePe Rewards,VK-LOANAP,synthetic_v2,2,direct_apk_2
+197,"प्रिय ग्राहक,
+तुमचे Bank of Baroda केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,mr,vishing_callback,Bank of Baroda,AD-ICICIB,synthetic_v2,2,direct_apk_2
+203,"प्रिय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 2000 from InstaCredit.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] InstaCredit.apk",spam,apk_fraud,loan_job,mr,no_explicit_app_word,InstaCredit,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+204,"Congratulations! You are eligible for a pre-approved offer of Rs 200 from QuickLoan Finance.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,mr,pdf_then_apk,QuickLoan Finance,AD-NETFLX,synthetic_v2,2,direct_apk_2
+221,"आदरणीय ग्राहक,
+तुमचे PNB केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,mr,link_apk,PNB,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+236,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Netflix,VK-INDPST,synthetic_v2,2,direct_apk_2
+240,"प्रिय ग्राहक,
+Your electricity bill of Rs 2000 with Power Distribution Co is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,VK-LOANAP,synthetic_v2,2,direct_apk_2
+253,"आदरणीय ग्राहक,
+Your electricity bill of Rs 750 with State Electricity Board is pending..
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,mr,pdf_then_apk,State Electricity Board,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+265,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे.. दंड रक्कम: रु 500. चलन क्रमांक: CH53849327. कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल. या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,rto_challan,mr,qr_code,Parivahan / RTO Traffic Police,VK-INDPST,synthetic_v2,2,direct_apk_2
+271,"प्रिय ग्राहक, Your electricity bill OF Rs 50000 with State Electricity Board is pending. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल. या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,electricity,mr,qr_code,State Electricity Board,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+282,"Congratulations! You are eligible for a pre-approved offer of Rs 25000 from HR Recruitment Cell.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,mr,attached_file_no_link,HR Recruitment Cell,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+283,"प्रिय ग्राहक,
+INR 25000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,mr,link_apk,Paytm Payments Bank,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+318,"Disney+ Hotstar: Your membership has expired. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+320,"प्रिय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-6310-H79 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,BlueDart,VM-WHATSP,synthetic_v2,2,direct_apk_2
+336,"आदरणीय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 1000 from HR Recruitment Cell.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,mr,pdf_then_apk,HR Recruitment Cell,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+388,"आदरणीय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 750 from HR Recruitment Cell.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,mr,pdf_then_apk,HR Recruitment Cell,AD-ICICIB,synthetic_v2,2,direct_apk_2
+393,"प्रिय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Disney+ Hotstar,VK-LOANAP,synthetic_v2,2,direct_apk_2
+402,"आदरणीय ग्राहक,
+तुमचे FedEx पार्सल ट्रॅकिंग कोड GB-9914-G66 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही..
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] FedEx_Delivery.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,FedEx,AD-ICICIB,synthetic_v2,2,direct_apk_2
+405,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 1000. चलन क्रमांक: CH65921495.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+echallan-pay.xyz
+eChallan_Pay.apk",spam,apk_fraud,rto_challan,mr,link_apk,e-Challan Dept,VK-INDPST,synthetic_v2,2,direct_apk_2
+418,"Congratulations! You are eligible for a pre-approved offer of Rs 750 from HR Recruitment Cell.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,mr,attached_file_no_link,HR Recruitment Cell,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+429,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 1000. चलन क्रमांक: CH93348828.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] VAHAN_PARIVAHAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,mr,attached_file_no_link,Parivahan / RTO Traffic Police,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+430,"प्रिय ग्राहक,
+You have received a cashback of Rs 500 from UPI Rewards.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,mr,link_apk,UPI Rewards,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+440,"तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-3748-A29 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,pdf_then_apk,BlueDart,INFO-GOVT,synthetic_v2,2,direct_apk_2
+465,"Congratulations! You are eligible for a pre-approved offer of Rs 5000 from HR RECRUITMENT Cell.. कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. खालील लिंकवरून अॅप इंस्टॉल करा. job-portal-apply.tk Job_Portal.apk",spam,apk_fraud,loan_job,mr,link_apk,HR Recruitment Cell,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+476,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 200. चलन क्रमांक: CH44216114.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+parivahan-gov.xyz/challan
+VAHAN_PARIVAHAN.apk",spam,apk_fraud,rto_challan,mr,link_apk,Parivahan / RTO Traffic Police,VK-INDPST,synthetic_v2,2,direct_apk_2
+487,"तुमचे India Post पार्सल ट्रॅकिंग कोड GB-7401-B59 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,India Post,VM-WHATSP,synthetic_v2,2,direct_apk_2
+495,"प्रिय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 200. चलन क्रमांक: CH86343225.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] RTOCHALAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,mr,attached_file_no_link,RTO Traffic Police,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+501,"आदरणीय ग्राहक,
+You have received a cashback of Rs 1500 from PhonePe Rewards.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,mr,link_apk,PhonePe Rewards,VK-INDPST,synthetic_v2,2,direct_apk_2
+522,"प्रिय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-6698-F30 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,mr,link_apk,BlueDart,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+526,"आदरणीय ग्राहक,
+तुमचे SBI केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,pdf_then_apk,SBI,VK-INDPST,synthetic_v2,2,direct_apk_2
+649,"आदरणीय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 200 from QuickLoan Finance.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,mr,pdf_then_apk,QuickLoan Finance,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+677,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 1500. चलन क्रमांक: CH94167865.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] VAHAN_PARIVAHAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,mr,pdf_then_apk,Parivahan / RTO Traffic Police,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+693,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 5000. चलन क्रमांक: CH92469330.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+parivahan-sewa.tk/verify
+ParivahanSewa.apk",spam,apk_fraud,rto_challan,mr,link_apk,Parivahan Sewa,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+782,"प्रिय ग्राहक,
+You have received a cashback of Rs 500 from UPI Rewards.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,UPI Rewards,AD-NETFLX,synthetic_v2,2,direct_apk_2
+809,"Your electricity bill of Rs 2000 with Power Distribution Co is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] PowerPay_App.apk",spam,apk_fraud,electricity,mr,no_explicit_app_word,Power Distribution Co,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+842,"प्रिय ग्राहक,
+Income Tax Department: तुम्ही रु 25000 परतावा मिळण्यास पात्र आहात.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,mr,attached_file_no_link,Income Tax Department,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+869,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 1000. चलन क्रमांक: CH98671386.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+parivahan-gov.xyz/challan
+VAHAN_PARIVAHAN.apk",spam,apk_fraud,rto_challan,mr,link_apk,Parivahan / RTO Traffic Police,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+883,"आदरणीय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 50000 from HR Recruitment Cell.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,loan_job,mr,qr_code,HR Recruitment Cell,AD-NETFLX,synthetic_v2,2,direct_apk_2
+895,"आदरणीय ग्राहक,
+You have received a cashback of Rs 1500 from PhonePe Rewards.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,mr,link_apk,PhonePe Rewards,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+925,"Your electricity bill of Rs 1000 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,mr,vishing_callback,State Electricity Board,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+931,"Netflix: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+netflix-updat-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Netflix,AD-ICICIB,synthetic_v2,2,direct_apk_2
+956,"आदरणीय ग्राहक, Your electricity bill of Rs 2000 with State Electricity Board is pending.. कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल. खालील लिंकवरून अॅप इंस्टॉल करा. bijli-bill-pay.xyz Electricity_Pay.apk",spam,apk_fraud,electricity,mr,link_apk,State Electricity Board,VK-LOANAP,synthetic_v2,2,direct_apk_2
+964,"आदरणीय ग्राहक,
+Income Tax Department: तुम्ही रु 200 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,mr,attached_file_no_link,Income Tax Department,VM-WHATSP,synthetic_v2,2,direct_apk_2
+1064,"Congratulations! You are eligible for a pre-approved offer of Rs 50000 from HR Recruitment Cell.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,loan_job,mr,vishing_callback,HR Recruitment Cell,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+1069,"प्रिय ग्राहक,
+Your WhatsApp account will be suspended due to unusual login activity.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] WhatsApp_Verify.apk  14 MB . APK",spam,apk_fraud,security_verify,mr,pdf_then_apk,WhatsApp,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+1071,"आदरणीय ग्राहक,
+Your electricity bill of Rs 25000 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,Power Distribution Co,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+1077,"You have recieved a cashback of Rs 750 from PhonePe Rewards. कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल. खालील लिंकवरून अॅप इंस्टॉल करा. phonepe-reward.info PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,mr,link_apk,PhonePe Rewards,INFO-GOVT,synthetic_v2,2,direct_apk_2
+1081,"आदरणीय ग्राहक,
+तुमचे ICICI Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_kyc,mr,no_explicit_app_word,ICICI Bank,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+1123,"आदरणीय ग्राहक,
+INR 5000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,mr,attached_file_no_link,Paytm Payments Bank,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+1150,"प्रिय ग्राहक, INR 50000 was debited from your RBL Bank account. If this was not done by you, secure your account now. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process. [Forwarded]",spam,apk_fraud,bank_alert,mr,no_explicit_app_word,RBL Bank,VM-WHATSP,synthetic_v2,2,direct_apk_2
+1156,"प्रिय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 2000. चलन क्रमांक: CH21903576.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+parivahan-sewa.tk/verify
+ParivahanSewa.apk",spam,apk_fraud,rto_challan,mr,link_apk,Parivahan Sewa,VK-INDPST,synthetic_v2,2,direct_apk_2
+1196,"आदरणीय ग्राहक ,
+Congratulations! You are eligible for a pre-approved offer of Rs 5000 from QuickLoan Finance.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,loan_job,mr,no_explicit_app_word,QuickLoan Finance,AD-ICICIB,synthetic_v2,2,direct_apk_2
+1261,"प्रिय ग्राहक,
+Income Tax Department: तुम्ही रु 25000 परतावा मिळण्यास पात्र आहात.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,mr,link_apk,Income Tax Department,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+1264,"Your WhatsApp account will be suspended due to unusual login activity.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] WhatsApp_Verify.apk  14 MB . APK",spam,apk_fraud,security_verify,mr,attached_file_no_link,WhatsApp,VM-WHATSP,synthetic_v2,2,direct_apk_2
+1276,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: तुम्ही रु 25000 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,govt_refund,mr,qr_code,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+1302,"Income Tax Dept e-Filing: तुम्ही रु 750 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,mr,link_apk,Income Tax Dept e-Filing,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+1334,"प्रिय ग्राहक, तुमचे SBI केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे. कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल. खालील लिंकवरून अॅप इंस्टॉल करा. sbi-secure-updat.in SBI_Secure.apk",spam,apk_fraud,bank_kyc,mr,link_apk,SBI,VK-LOANAP,synthetic_v2,2,direct_apk_2
+1337,"Your electricity bill of Rs 1000 with Power Distribution Co is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+1408,"प्रिय ग्राहक,
+तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,mr,vishing_callback,Axis Bank,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+1423,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Netflix,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+1426,"आदरणीय ग्राहक,
+Your electricity bill of Rs 5000 with Power Distribution Co is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+1476,"प्रिय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 1000 from InstaCredit.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,loan_job,mr,qr_code,InstaCredit,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+1489,"तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,pdf_then_apk,Axis Bank,VM-WHATSP,synthetic_v2,2,direct_apk_2
+1515,"प्रिय ग्राहक,
+Your electricity bill of Rs 500 with State Electricity Board is pending..
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,mr,vishing_callback,State Electricity Board,INFO-GOVT,synthetic_v2,2,direct_apk_2
+1556,"तुमचे ICICI Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,ICICI Bank,VK-INDPST,synthetic_v2,2,direct_apk_2
+1582,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 1000. चलन क्रमांक: CH76441201.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+parivahan-gov.xyz/challan
+VAHAN_PARIVAHAN.apk",spam,apk_fraud,rto_challan,mr,link_apk,Parivahan / RTO Traffic Police,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+1602,"आदरणीय ग्राहक,
+Your WhatsApp account will be suspended due to unusual login activity.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] WhatsApp_Verify.apk  14 MB . APK",spam,apk_fraud,security_verify,mr,attached_file_no_link,WhatsApp,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+1608,"आदरणीय ग्राहक,
+You have received a cashback of Rs 25000 from Paytm Cashback.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,upi_cashback,mr,qr_code,Paytm Cashback,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+1666,"आदरणीय ग्राहक,
+Your electricity bill of Rs 5000 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,mr,pdf_then_apk,Power Distribution Co,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+1669,"प्रिय ग्राहक,
+You have received a cashback of Rs 25000 from Paytm Cashback.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,Paytm Cashback,VM-WHATSP,synthetic_v2,2,direct_apk_2
+1704,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Netflix,INFO-GOVT,synthetic_v2,2,direct_apk_2
+1753,"प्रिय ग्राहक,
+तुमचे DTDC Courier पार्सल ट्रॅकिंग कोड GB-5143-H13 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,mr,link_apk,DTDC Courier,AD-ICICIB,synthetic_v2,2,direct_apk_2
+1787,"आदरणीय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 25000 from HR Recruitment Cell.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,mr,attached_file_no_link,HR Recruitment Cell,VK-LOANAP,synthetic_v2,2,direct_apk_2
+1807,"You have received a cashback of Rs 5000 from Paytm Cashback. कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा. [फॉरवर्ड केलेले] Paytm_Cashback.apk 14 MB . APK",spam,apk_fraud,upi_cashback,mr,pdf_then_apk,Paytm Cashback,INFO-GOVT,synthetic_v2,2,direct_apk_2
+1808,"आदरणीय ग्राहक,
+Your WhatsApp account will be suspended due to unusual login activity.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+whatsapp-verify-acc.xyz
+WhatsApp_Verify.apk",spam,apk_fraud,security_verify,mr,link_apk,WhatsApp,VM-WHATSP,synthetic_v2,2,direct_apk_2
+1828,"You have received a cashback of Rs 750 from Paytm Cashback.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,mr,vishing_callback,Paytm Cashback,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+1829,"प्रिय ग्राहक,
+You have received a cashback of Rs 25000 from PhonePe Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,PhonePe Rewards,VM-WHATSP,synthetic_v2,2,direct_apk_2
+1845,"You have received a cashback of Rs 5000 from Paytm Cashback.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,upi_cashback,mr,qr_code,Paytm Cashback,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+1847,"INR 750 was debited from your SBI account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] SBI_Secure.apk",spam,apk_fraud,bank_alert,mr,no_explicit_app_word,SBI,VM-WHATSP,synthetic_v2,2,direct_apk_2
+1864,"प्रिय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 1500 from HR Recruitment Cell.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,mr,attached_file_no_link,HR Recruitment Cell,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+1892,"प्रिय ग्राहक,
+Your electricity bill of Rs 750 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,mr,vishing_callback,Power Distribution Co,VM-WHATSP,synthetic_v2,2,direct_apk_2
+1964,"आदरणीय ग्राहक,
+तुमचे India Post पार्सल ट्रॅकिंग कोड GB-4997-B60 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,India Post,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+2018,"आदरणीय ग्राहक,
+INR 200 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,mr,attached_file_no_link,ICICI Bank,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+2036,"आदरणीय ग्राहक,
+Your electricity bill of Rs 1500 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+2094,"आदरणीय ग्राहक,
+Your WhatsApp account will be suspended due to unusual login activity.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] WhatsApp_Verify.apk  14 MB . APK",spam,apk_fraud,security_verify,mr,pdf_then_apk,WhatsApp,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+2096,"आदरणीय ग्राहक,
+Your electricity bill of Rs 200 with State Electricity Board is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] Electricity_Pay.apk",spam,apk_fraud,electricity,mr,no_explicit_app_word,State Electricity Board,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+2120,"आदरणीय ग्राहक,
+Your electricity bill of Rs 1500 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,mr,link_apk,State Electricity Board,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+2124,"प्रिय ग्राहक,
+तुमचे FedEx पार्सल ट्रॅकिंग कोड GB-3260-G10 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,courier,mr,qr_code,FedEx,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+2126,"Congratulations! You are eligible for a pre-approved offer of Rs 1500 from InstaCredit.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+instacredit-loan.info
+InstaCredit.apk",spam,apk_fraud,loan_job,mr,link_apk,InstaCredit,VM-WHATSP,synthetic_v2,2,direct_apk_2
+2150,"Your Google Account account will be suspended due to unusual login activity.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,security_verify,mr,qr_code,Google Account,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+2153,"Your WhatsApp account will be suspended due to unusual login activity.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+whatsapp-verify-acc.xyz
+WhatsApp_Verify.apk",spam,apk_fraud,security_verify,mr,link_apk,WhatsApp,AD-NETFLX,synthetic_v2,2,direct_apk_2
+2191,"आदरणीय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 1500 from HR Recruitment Cell.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,loan_job,mr,vishing_callback,HR Recruitment Cell,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+2192,"आदरणीय ग्राहक,
+Your electricity bill of Rs 200 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,State Electricity Board,INFO-GOVT,synthetic_v2,2,direct_apk_2
+2212,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 5000. चलन क्रमांक: CH99580808.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,rto_challan,mr,qr_code,Parivahan / RTO Traffic Police,AD-NETFLX,synthetic_v2,2,direct_apk_2
+2217,"आदरणीय ग्राहक,
+Income Tax Department: तुम्ही रु 1500 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,mr,link_apk,Income Tax Department,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+2236,"Netflix: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Netflix,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+2247,"प्रिय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,attached_file_no_link,Disney+ Hotstar,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+2276,"प्रिय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 5000 from QuickLoan Finance.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,loan_job,mr,vishing_callback,QuickLoan Finance,INFO-GOVT,synthetic_v2,2,direct_apk_2
+2290,"तुमचे Bank of Baroda केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,mr,vishing_callback,Bank of Baroda,INFO-GOVT,synthetic_v2,2,direct_apk_2
+2326,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 750. चलन क्रमांक: CH34044459. कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,rto_challan,mr,qr_code,RTO Traffic Police,VM-WHATSP,synthetic_v2,2,direct_apk_2
+2340,"प्रिय ग्राहक,
+INR 25000 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,mr,link_apk,ICICI Bank,AD-NETFLX,synthetic_v2,2,direct_apk_2
+2354,"प्रिय ग्राहक,
+Income Tax Department: तुम्ही रु 2000 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,govt_refund,mr,qr_code,Income Tax Department,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+2388,"प्रिय ग्राहक,
+You have received a cashback of Rs 5000 from PhonePe Rewards.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,PhonePe Rewards,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+2390,"आदरणीय ग्राहक,
+INR 5000 was debited from your SBI account. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,mr,link_apk,SBI,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+2411,"आदरणीय ग्राहक, तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 750. चलन क्रमांक: CH73570259. कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा. [फॉरवर्ड केलेले] RTOCHALAN.apk 14 MB . APK",spam,apk_fraud,rto_challan,mr,attached_file_no_link,RTO Traffic Police,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+2416,"तुमचे PNB केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,mr,vishing_callback,PNB,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+2423,"प्रिय ग्राहक,
+Your WhatsApp account will be suspended due to unusual login activity.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,security_verify,mr,qr_code,WhatsApp,INFO-GOVT,synthetic_v2,2,direct_apk_2
+2436,"Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,ott_subscription,mr,no_explicit_app_word,Netflix,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+2462,"आदरणीय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,pdf_then_apk,Disney+ Hotstar,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+2471,"Your WhatsApp account will be suspended due to unusual login activity.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,security_verify,mr,vishing_callback,WhatsApp,VM-WHATSP,synthetic_v2,2,direct_apk_2
+2498,"आदरणीय ग्राहक,
+You have received a cashback of Rs 200 from UPI Rewards.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,mr,vishing_callback,UPI Rewards,INFO-GOVT,synthetic_v2,2,direct_apk_2
+2502,"आदरणीय ग्राहक,
+तुमचे India Post पार्सल ट्रॅकिंग कोड GB-6541-G27 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,India Post,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+2546,"तुमचे FedEx पार्सल ट्रॅकिंग कोड GB-4460-B98 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा , अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] FedEx_Delivery.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,FedEx,INFO-GOVT,synthetic_v2,2,direct_apk_2
+2567,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: तुम्ही रु 1500 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,mr,pdf_then_apk,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,2,direct_apk_2
+2568,"तुमचे HDFC Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+hdfc-kyc-update.info
+HDFC_KYCUpdate.apk",spam,apk_fraud,bank_kyc,mr,link_apk,HDFC Bank,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+2583,"आदरणीय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-8750-E13 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,mr,link_apk,BlueDart,VK-LOANAP,synthetic_v2,2,direct_apk_2
+2592,"आदरणीय ग्राहक,
+Income Tax Dept e-Filing: तुम्ही रु 500 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,govt_refund,mr,vishing_callback,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+2634,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 1500. चलन क्रमांक: CH48354650.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+parivahan-sewa.tk/verify
+ParivahanSewa.apk",spam,apk_fraud,rto_challan,mr,link_apk,Parivahan Sewa,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+2644,"आदरणीय ग्राहक,
+INR 50000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,mr,vishing_callback,Paytm Payments Bank,AD-NETFLX,synthetic_v2,2,direct_apk_2
+2650,"प्रिय ग्राहक,
+Income Tax Department: तुम्ही रु 2000 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,govt_refund,mr,qr_code,Income Tax Department,VK-INDPST,synthetic_v2,2,direct_apk_2
+2652,"प्रिय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Disney+ Hotstar,AD-ICICIB,synthetic_v2,2,direct_apk_2
+2671,"आदरणीय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 1000 from QuickLoan Finance.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,mr,attached_file_no_link,QuickLoan Finance,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+2678,"प्रिय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 750 from HR Recruitment Cell.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+job-portal-apply.tk
+Job_Portal.apk",spam,apk_fraud,loan_job,mr,link_apk,HR Recruitment Cell,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+2683,"Your Google Account account will be suspended due to unusual login activity.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Google_Secure.apk  14 MB . APK",spam,apk_fraud,security_verify,mr,attached_file_no_link,Google Account,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+2687,"प्रिय ग्राहक,
+Your electricity bill of Rs 25000 with Power Distribution Co is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,VM-WHATSP,synthetic_v2,2,direct_apk_2
+2696,"प्रिय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 1000. चलन क्रमांक: CH32514329.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] eChallan_Pay.apk  14 MB . APK",spam,apk_fraud,rto_challan,mr,pdf_then_apk,e-Challan Dept,AD-ICICIB,synthetic_v2,2,direct_apk_2
+2710,"तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,bank_kyc,mr,qr_code,Axis Bank,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+2730,"प्रिय ग्राहक,
+Income Tax Department: तुम्ही रु 1500 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,govt_refund,mr,qr_code,Income Tax Department,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+2740,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 5000. चलन क्रमांक: CH44403873.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+echallan-pay.xyz
+eChallan_Pay.apk",spam,apk_fraud,rto_challan,mr,link_apk,e-Challan Dept,VM-WHATSP,synthetic_v2,2,direct_apk_2
+2741,"Congratulations! You are eligible for a pre-approved offer of Rs 25000 from HR Recruitment Cell.
+कृपया त्वरित कारवाई करा , अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,loan_job,mr,vishing_callback,HR Recruitment Cell,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+2758,"तुमचे India Post पार्सल ट्रॅकिंग कोड GB-4152-D36 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही. कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल. खालील लिंकवरून अॅप इंस्टॉल करा. indiapost-track.info IndiaPost_Track.apk",spam,apk_fraud,courier,mr,link_apk,India Post,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+2783,"तुमचे HDFC Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा. [फॉरवर्ड केलेले] HDFC_KYCUpdate.apk 14 MB . APK",spam,apk_fraud,bank_kyc,mr,pdf_then_apk,HDFC Bank,INFO-GOVT,synthetic_v2,2,direct_apk_2
+2844,"आदरणीय ग्राहक,
+तुमचे SBI केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,mr,link_apk,SBI,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+2857,"Disney+ Hotstar: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Disney+ Hotstar,AD-NETFLX,synthetic_v2,2,direct_apk_2
+2881,"आदरणीय ग्राहक,
+तुमचे FedEx पार्सल ट्रॅकिंग कोड GB-3658-A23 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+fedex-delivery-in.xyz
+FedEx_Delivery.apk",spam,apk_fraud,courier,mr,link_apk,FedEx,VM-WHATSP,synthetic_v2,2,direct_apk_2
+2885,"प्रिय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,attached_file_no_link,Disney+ Hotstar,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+2888,"आदरणीय ग्राहक,
+You have received a cashback of Rs 1500 from Paytm Cashback.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,pdf_then_apk,Paytm Cashback,VK-INDPST,synthetic_v2,2,direct_apk_2
+2904,"प्रिय ग्राहक, Your electricity bill of Rs 200 with Power Distribution Co is pending.. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा. [फॉरवर्ड केलेले] PowerPay_App.apk 14 MB . APK",spam,apk_fraud,electricity,mr,pdf_then_apk,Power Distribution Co,INFO-GOVT,synthetic_v2,2,direct_apk_2
+2928,"आदरणीय ग्राहक,
+Your WhatsApp account will be suspended due to unusual login activity.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+whatsapp-verify-acc.xyz
+WhatsApp_Verify.apk",spam,apk_fraud,security_verify,mr,link_apk,WhatsApp,INFO-GOVT,synthetic_v2,2,direct_apk_2
+2935,"Netflix: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,attached_file_no_link,Netflix,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+2968,"तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-6001-C97 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,BlueDart,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+2984,"प्रिय ग्राहक,
+INR 750 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,mr,link_apk,ICICI Bank,AD-NETFLX,synthetic_v2,2,direct_apk_2
+2986,"आदरणीय ग्राहक,
+Your Google Account account will be suspended due to unusual login activity.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+google-secure-login.tk
+Google_Secure.apk",spam,apk_fraud,security_verify,mr,link_apk,Google Account,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+2991,"आदरणीय ग्राहक, Your Google Account account will be suspended due to unusual login activity. कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल. खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा. [फॉरवर्ड केलेले] Google_Secure.apk 14 MB . APK",spam,apk_fraud,security_verify,mr,pdf_then_apk,Google Account,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+3011,"Your Google Account account will be suspended due to unusual login activity.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+google-secure-login.tk
+Google_Secure.apk",spam,apk_fraud,security_verify,mr,link_apk,Google Account,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+3017,"You have received a cashback of Rs 50000 from Paytm Cashback.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,upi_cashback,mr,no_explicit_app_word,Paytm Cashback,AD-ICICIB,synthetic_v2,2,direct_apk_2
+3044,"प्रिय ग्राहक,
+तुमचे Bank of Baroda केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,mr,link_apk,Bank of Baroda,VK-LOANAP,synthetic_v2,2,direct_apk_2
+3050,"तुमचे PNB केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,mr,link_apk,PNB,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+3074,"आदरणीय ग्राहक,
+Income Tax Department: तुम्ही रु 1000 परतावा मिळण्यास पात्र आहात.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,mr,pdf_then_apk,Income Tax Department,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+3097,"आदरणीय ग्राहक,
+Your WhatsApp account will be suspended due to unusual login activity.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,security_verify,mr,qr_code,WhatsApp,VM-WHATSP,synthetic_v2,2,direct_apk_2
+3121,"आदरणीय ग्राहक, You have received a cashback of Rs 50000 from UPI Rewards. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा. [फॉरवर्ड केलेले] UPI_Cashback.apk 14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,UPI Rewards,AD-NETFLX,synthetic_v2,2,direct_apk_2
+3126,"प्रिय ग्राहक,
+You have received a cashback of Rs 500 from UPI Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,mr,link_apk,UPI Rewards,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+3232,"तुमचे ICICI Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा , अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,mr,link_apk,ICICI Bank,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+3278,"You have received a cashback of Rs 50000 from Paytm Cashback.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,pdf_then_apk,Paytm Cashback,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+3300,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 1500. चलन क्रमांक: CH42053489.
+कृपया आजच कारवाई करा , अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+parivahan-sewa.tk/verify
+ParivahanSewa.apk",spam,apk_fraud,rto_challan,mr,link_apk,Parivahan Sewa,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+3325,"प्रिय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 750. चलन क्रमांक: CH19196777.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] RTOCHALAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,mr,attached_file_no_link,RTO Traffic Police,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+3327,"Your electricity bill of Rs 1500 with State Electricity Board is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,mr,link_apk,State Electricity Board,AD-ICICIB,synthetic_v2,2,direct_apk_2
+3360,"आदरणीय ग्राहक,
+तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,Axis Bank,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+3361,"प्रिय ग्राहक,
+तुमचे India Post पार्सल ट्रॅकिंग कोड GB-2134-D10 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on teh number below and our representative will guide you through the verification process.",spam,apk_fraud,courier,mr,vishing_callback,India Post,AD-ICICIB,synthetic_v2,2,direct_apk_2
+3367,"आदरणीय ग्राहक,
+INR 200 was debited from your Paytm Payments Bank account.. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_alert,mr,no_explicit_app_word,Paytm Payments Bank,VM-WHATSP,synthetic_v2,2,direct_apk_2
+3406,"तुमचे DTDC Courier पार्सल ट्रॅकिंग कोड GB-2153-E67 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,mr,link_apk,DTDC Courier,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+3408,"प्रिय ग्राहक,
+तुमचे India Post पार्सल ट्रॅकिंग कोड GB-3308-B58 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,mr,link_apk,India Post,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+3469,"प्रिय ग्राहक,
+Your WhatsApp account will be suspended due to unusual login activity.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] WhatsApp_Verify.apk  14 MB . APK",spam,apk_fraud,security_verify,mr,attached_file_no_link,WhatsApp,AD-ICICIB,synthetic_v2,2,direct_apk_2
+3480,"प्रिय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-3125-B15 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,pdf_then_apk,BlueDart,INFO-GOVT,synthetic_v2,2,direct_apk_2
+3485,"प्रिय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 500 from QuickLoan Finance.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open teh document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,loan_job,mr,no_explicit_app_word,QuickLoan Finance,VM-WHATSP,synthetic_v2,2,direct_apk_2
+3518,"INR 750 was debited from your SBI account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_alert,mr,no_explicit_app_word,SBI,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+3616,"प्रिय ग्राहक,
+तुमचे Bank of Baroda केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,mr,link_apk,Bank of Baroda,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+3631,"आदरणीय ग्राहक,
+तुमचे DTDC Courier पार्सल ट्रॅकिंग कोड GB-9533-E18 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,DTDC Courier,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+3635,"प्रिय ग्राहक,
+Your electricity bill of Rs 25000 with Power Distribution Co is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,Power Distribution Co,AD-ICICIB,synthetic_v2,2,direct_apk_2
+3643,"तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-6533-B92 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,BlueDart,VM-WHATSP,synthetic_v2,2,direct_apk_2
+3661,"Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,no_explicit_app_word,Netflix,VM-WHATSP,synthetic_v2,2,direct_apk_2
+3669,"प्रिय ग्राहक, तुमचे DTDC Courier पार्सल ट्रॅकिंग कोड GB-5185-B31 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,courier,mr,qr_code,DTDC Courier,VM-WHATSP,synthetic_v2,2,direct_apk_2
+3676,"आदरणीय ग्राहक,
+You have recieved a cashback of Rs 1500 from UPI Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,UPI Rewards,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+3727,"आदरणीय ग्राहक,
+Income Tax Department: तुम्ही रु 750 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] TaxRefund_IT.apk",spam,apk_fraud,govt_refund,mr,no_explicit_app_word,Income Tax Department,VK-LOANAP,synthetic_v2,2,direct_apk_2
+3784,"INR 25000 was debited from ur RBL Bank acount. If this was not done by you, secure your account now.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,mr,link_apk,RBL Bank,VK-INDPST,synthetic_v2,2,direct_apk_2
+3788,"प्रिय ग्राहक,
+INR 200 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,bank_alert,mr,qr_code,ICICI Bank,VK-INDPST,synthetic_v2,2,direct_apk_2
+3802,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे.. दंड रक्कम: रु 500. चलन क्रमांक: CH66184000. कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा. [फॉरवर्ड केलेले] ParivahanSewa.apk 14 MB . APK",spam,apk_fraud,rto_challan,mr,attached_file_no_link,Parivahan Sewa,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+3827,"प्रिय ग्राहक,
+Your Google Account account will be suspended due to unusual login activity.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,security_verify,mr,qr_code,Google Account,AD-ICICIB,synthetic_v2,2,direct_apk_2
+3832,"प्रिय ग्राहक,
+Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Netflix,VK-LOANAP,synthetic_v2,2,direct_apk_2
+3845,"आदरणीय ग्राहक,
+तुमचे Bank of Baroda केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,Bank of Baroda,AD-NETFLX,synthetic_v2,2,direct_apk_2
+3866,"आदरणीय ग्राहक,
+Your electricity bill of Rs 200 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,mr,link_apk,State Electricity Board,VK-LOANAP,synthetic_v2,2,direct_apk_2
+3877,"Disney+ Hotstar: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Hotstar_Renew.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,attached_file_no_link,Disney+ Hotstar,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+3882,"प्रिय ग्राहक,
+Your Google Account account will be suspended due to unusual login activity.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Google_Secure.apk  14 MB . APK",spam,apk_fraud,security_verify,mr,attached_file_no_link,Google Account,AD-NETFLX,synthetic_v2,2,direct_apk_2
+3918,"आदरणीय ग्राहक, Income Tax Dept e-Filing: तुम्ही रु 5000 परतावा मिळण्यास पात्र आहात. कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. There is an important update regarding your recent request. Please open teh document below and follow the steps to complete the process. [Forwarded]",spam,apk_fraud,govt_refund,mr,no_explicit_app_word,Income Tax Dept e-Filing,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+3933,"आदरणीय ग्राहक,
+Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,mr,vishing_callback,Netflix,INFO-GOVT,synthetic_v2,2,direct_apk_2
+3943,"प्रिय ग्राहक,
+तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,mr,vishing_callback,Axis Bank,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+3963,"प्रिय ग्राहक,
+तुमचे FedEx पार्सल ट्रॅकिंग कोड GB-2619-E94 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] FedEx_Delivery.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,FedEx,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+3985,"Your electricity bill of Rs 200 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,State Electricity Board,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+3989,"प्रिय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 200 from InstaCredit.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+instacredit-loan.info
+InstaCredit.apk",spam,apk_fraud,loan_job,mr,link_apk,InstaCredit,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+4022,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 750. चलन क्रमांक: CH24132859.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] RTOCHALAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,mr,pdf_then_apk,RTO Traffic Police,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+4024,"आदरणीय ग्राहक ,
+Your WhatsApp account will be suspended due to unusual login activity.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+whatsapp-verify-acc.xyz
+WhatsApp_Verify.apk",spam,apk_fraud,security_verify,mr,link_apk,WhatsApp,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+4043,"Your electricity bill of Rs 5000 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,State Electricity Board,AD-NETFLX,synthetic_v2,2,direct_apk_2
+4085,"प्रिय ग्राहक ,
+INR 200 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,mr,link_apk,Paytm Payments Bank,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+4113,"आदरणीय ग्राहक,
+INR 750 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,mr,attached_file_no_link,ICICI Bank,JD-ITAXRF,synthetic_v2,2,direct_apk_2
+4115,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 500. चलन क्रमांक: CH16318342.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] eChallan_Pay.apk  14 MB . APK",spam,apk_fraud,rto_challan,mr,attached_file_no_link,e-Challan Dept,AD-ICICIB,synthetic_v2,2,direct_apk_2
+4134,"प्रिय ग्राहक,
+Your electricity bill of Rs 1000 with Power Distribution Co is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,electricity,mr,no_explicit_app_word,Power Distribution Co,VK-LOANAP,synthetic_v2,2,direct_apk_2
+4144,"प्रिय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 5000 from InstaCredit.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+instacredit-loan.info
+InstaCredit.apk",spam,apk_fraud,loan_job,mr,link_apk,InstaCredit,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+4148,"आदरणीय ग्राहक,
+तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,mr,link_apk,Axis Bank,VK-LOANAP,synthetic_v2,2,direct_apk_2
+4153,"आदरणीय ग्राहक,
+Netflix: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+netflix-update-app.xyz
+Netflix_Update.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Netflix,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+4167,"प्रिय ग्राहक,
+You have received a cashback of Rs 200 from PhonePe Rewards.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,mr,link_apk,PhonePe Rewards,AD-NETFLX,synthetic_v2,2,direct_apk_2
+4190,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 1500. चलन क्रमांक: CH70046150.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+echallan-pay.xyz
+eChallan_Pay.apk",spam,apk_fraud,rto_challan,mr,link_apk,e-Challan Dept,INFO-GOVT,synthetic_v2,2,direct_apk_2
+4200,"Your electricity bill of Rs 750 with State Electricity Board is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,State Electricity Board,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+4278,"तुमचे ICICI Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे. कृपया आजच कारवाई करा , अन्यथा तुमचे कनेक्शन तोडले जाईल. कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा. [फॉरवर्ड केलेले] ICICI_Verify.apk 14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,ICICI Bank,INFO-GOVT,synthetic_v2,2,direct_apk_2
+4298,"Netflix: Your membership has expired.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Netflix_Update.apk  14 MB . APK",spam,apk_fraud,ott_subscription,mr,attached_file_no_link,Netflix,AD-NETFLX,synthetic_v2,2,direct_apk_2
+4311,"आदरणीय ग्राहक, तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे. कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा. [फॉरवर्ड केलेले] Axis_Secure.apk 14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,Axis Bank,VK-INDPST,synthetic_v2,2,direct_apk_2
+4329,"तुमचे ICICI Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,mr,link_apk,ICICI Bank,VK-INDPST,synthetic_v2,2,direct_apk_2
+4351,"Disney+ Hotstar: Your membership has expired.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Disney+ Hotstar,VK-LOANAP,synthetic_v2,2,direct_apk_2
+4353,"प्रिय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 500. चलन क्रमांक: CH44345256.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,mr,vishing_callback,e-Challan Dept,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+4391,"आदरणीय ग्राहक,
+Your Google Account account will be suspended due to unusual login activity.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+google-secure-login.tk
+Google_Secure.apk",spam,apk_fraud,security_verify,mr,link_apk,Google Account,VK-RTOGOV,synthetic_v2,2,direct_apk_2
+4393,"आदरणीय ग्राहक , तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 2000. चलन क्रमांक: CH70953842. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल. कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा. [फॉरवर्ड केलेले] ParivahanSewa.apk 14 MB . APK",spam,apk_fraud,rto_challan,mr,attached_file_no_link,Parivahan Sewa,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+4444,"तुमचे PNB केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,PNB,VM-SBIBNK,synthetic_v2,2,direct_apk_2
+4473,"आदरणीय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-7727-B11 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,BlueDart,AD-NETFLX,synthetic_v2,2,direct_apk_2
+4497,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: तुम्ही रु 200 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,mr,link_apk,Income Tax Dept e-Filing,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+4526,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 500. चलन क्रमांक: CH82296289.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] eChallan_Pay.apk  14 MB . APK",spam,apk_fraud,rto_challan,mr,attached_file_no_link,e-Challan Dept,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+4534,"Netflix: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,ott_subscription,mr,qr_code,Netflix,AX-PWRBIL,synthetic_v2,2,direct_apk_2
+4557,"आदरणीय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-3065-G37 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही..
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+There is an important updat regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,courier,mr,no_explicit_app_word,BlueDart,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+4605,"प्रिय ग्राहक,
+Your Google Account account will be suspended due to unusual login activity.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Google_Secure.apk  14 MB . APK",spam,apk_fraud,security_verify,mr,attached_file_no_link,Google Account,VM-WHATSP,synthetic_v2,2,direct_apk_2
+4620,"आदरणीय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 50000 from QuickLoan Finance.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,loan_job,mr,no_explicit_app_word,QuickLoan Finance,+91 8800XXXX12,synthetic_v2,2,direct_apk_2
+4656,"प्रिय ग्राहक, INR 200 was debited from your SBI account. If this was not done by you, secure your account now. कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. खालील लिंकवरून अॅप इंस्टॉल करा. sbi-secure-update.in SBI_Secure.apk",spam,apk_fraud,bank_alert,mr,link_apk,SBI,VK-INDPST,synthetic_v2,2,direct_apk_2
+4665,"प्रिय ग्राहक, Your Google Account account will be SUSPENDED due to unusual login activity. कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल. खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा. [फॉरवर्ड केलेले] Google_Secure.apk 14 MB . APK",spam,apk_fraud,security_verify,mr,pdf_then_apk,Google Account,INFO-GOVT,synthetic_v2,2,direct_apk_2
+4689,"आदरणीय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 1500 from QuickLoan Finance.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] Loan_Approval.apk",spam,apk_fraud,loan_job,mr,no_explicit_app_word,QuickLoan Finance,VK-INDPST,synthetic_v2,2,direct_apk_2
+4694,"आदरणीय ग्राहक,
+Disney+ Hotstar: Your membership has expired.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+hotstar-renew.info
+Hotstar_Renew.apk",spam,apk_fraud,ott_subscription,mr,link_apk,Disney+ Hotstar,AD-NETFLX,synthetic_v2,2,direct_apk_2
+4719,"प्रिय ग्राहक,
+Your WhatsApp account will be suspended due to unusual login activity.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,security_verify,mr,vishing_callback,WhatsApp,VM-WHATSP,synthetic_v2,2,direct_apk_2
+4752,"तुमचे India Post पार्सल ट्रॅकिंग कोड GB-8702-D61 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,mr,link_apk,India Post,VM-WHATSP,synthetic_v2,2,direct_apk_2
+4800,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 750. चलन क्रमांक: CH19791079.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] RTOCHALAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,mr,attached_file_no_link,RTO Traffic Police,AD-ICICIB,synthetic_v2,2,direct_apk_2
+4836,"आदरणीय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 750 from InstaCredit.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+instacredit-loan.info
+InstaCredit.apk",spam,apk_fraud,loan_job,mr,link_apk,InstaCredit,AD-NETFLX,synthetic_v2,2,direct_apk_2
+4837,"Income Tax Department: तुम्ही रु 200 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,mr,link_apk,Income Tax Department,VK-LOANAP,synthetic_v2,2,direct_apk_2
+4899,"आदरणीय ग्राहक,
+Congratulations! You are eligible for a pre-approved offer of Rs 1000 from QuickLoan Finance.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,mr,link_apk,QuickLoan Finance,+91 7700XXXX45,synthetic_v2,2,direct_apk_2
+4940,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 5000. चलन क्रमांक: CH14967155.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,mr,vishing_callback,Parivahan / RTO Traffic Police,INFO-GOVT,synthetic_v2,2,direct_apk_2
+4969,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 200. चलन क्रमांक: CH18426588.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,rto_challan,mr,no_explicit_app_word,Parivahan Sewa,INFO-GOVT,synthetic_v2,2,direct_apk_2
+4977,"प्रिय ग्राहक,
+INR 5000 was debited from your SBI account. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,mr,pdf_then_apk,SBI,VK-UPIRWD,synthetic_v2,2,direct_apk_2
+4985,"Congratulations! You are eligible for a pre-approved offer of Rs 200 from HR Recruitment Cell. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल. या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,loan_job,mr,qr_code,HR Recruitment Cell,AD-ICICIB,synthetic_v2,2,direct_apk_2

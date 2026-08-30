@@ -1,0 +1,74 @@
+[
+  {
+    "cluster_label": "aadhaar_pan_kyc_fraud",
+    "count": 248,
+    "file": "cluster_aadhaar_pan_kyc_fraud.csv",
+    "sample": "Dear Vehicle Owner, Income Tax Dept e-Filing: You are eligible for a refund of Rs 2000. Kindly respo"
+  },
+  {
+    "cluster_label": "banking_kyc_phishing",
+    "count": 260,
+    "file": "cluster_banking_kyc_phishing.csv",
+    "sample": "Your OTP for a transaction of INR 200 is 8262. Do not share this OTP with anyone including bank offi"
+  },
+  {
+    "cluster_label": "callback_vishing_fraud",
+    "count": 517,
+    "file": "cluster_callback_vishing_fraud.csv",
+    "sample": "আপনার SBI কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।\nঅনুগ্রহ করে ২৪ ঘন্টার মধ্যে"
+  },
+  {
+    "cluster_label": "delivery_parcel_fraud",
+    "count": 319,
+    "file": "cluster_delivery_parcel_fraud.csv",
+    "sample": "Hello Amit, your FEDEX package with tracking code GB-4970-F64 is waiting for you to set delivery pre"
+  },
+  {
+    "cluster_label": "direct_apk_download",
+    "count": 208,
+    "file": "cluster_direct_apk_download.csv",
+    "sample": "Namaste Customer, Aapka India Post parcel tracking GB-3394-C90 address adhura hone ki wajah se deliv"
+  },
+  {
+    "cluster_label": "electricity_utility_fraud",
+    "count": 232,
+    "file": "cluster_electricity_utility_fraud.csv",
+    "sample": "শ্রদ্ধেয় গ্রাহক,\nYour electricity bill of Rs 50000 with Power Distribution Co is pending.\nঅনুগ্রহ ক"
+  },
+  {
+    "cluster_label": "govt_challan_apk",
+    "count": 251,
+    "file": "cluster_govt_challan_apk.csv",
+    "sample": "عزیز صارف،\nآپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 25000 روپے۔ چالان نمب"
+  },
+  {
+    "cluster_label": "loan_app_fraud",
+    "count": 374,
+    "file": "cluster_loan_app_fraud.csv",
+    "sample": "Priya Grahak, Aapka ICICI Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya tu"
+  },
+  {
+    "cluster_label": "lottery_reward_cashback_scam",
+    "count": 295,
+    "file": "cluster_lottery_reward_cashback_scam.csv",
+    "sample": "Congratulations! You have WON a cash prize of Rs 25000. Claim now at e5nbu.xyz/claim before it expir"
+  },
+  {
+    "cluster_label": "qr_code_sideload_scam",
+    "count": 233,
+    "file": "cluster_qr_code_sideload_scam.csv",
+    "sample": "Dear Customer, Netflix: Your membership has expired. Please act today itself or legal action will be"
+  },
+  {
+    "cluster_label": "telecom_recharge_fraud",
+    "count": 250,
+    "file": "cluster_telecom_recharge_fraud.csv",
+    "sample": "ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ WhatsApp ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।\nਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ"
+  },
+  {
+    "cluster_label": "upi_payment_fraud",
+    "count": 313,
+    "file": "cluster_upi_payment_fraud.csv",
+    "sample": "ICICI Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: bedy13.com/update"
+  }
+]

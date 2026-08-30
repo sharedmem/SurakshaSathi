@@ -1,0 +1,45 @@
+{
+  "title": "CUSTOM USER TEST SET",
+  "accuracy": 0.9973333333333333,
+  "macro_f1": 0.9968172868006518,
+  "macro_precision": 0.9981024667931688,
+  "macro_recall": 0.9955555555555555,
+  "weighted_f1": 0.9973299158066269,
+  "roc_auc": 0.9993058201058201,
+  "avg_latency_ms": 0.20301974741631143,
+  "confusion_matrix": {
+    "TN": 223,
+    "FP": 2,
+    "FN": 0,
+    "TP": 525
+  },
+  "optimal_threshold_99pct": 0.606281042098999,
+  "precision_at_threshold": 0.9885931558935361,
+  "per_class": {
+    "Ham": {
+      "precision": 1.0,
+      "recall": 0.9911111111111112,
+      "f1-score": 0.9955357142857143,
+      "support": 225.0
+    },
+    "Spam (Sideloading)": {
+      "precision": 0.9962049335863378,
+      "recall": 1.0,
+      "f1-score": 0.9980988593155894,
+      "support": 525.0
+    },
+    "accuracy": 0.9973333333333333,
+    "macro avg": {
+      "precision": 0.9981024667931688,
+      "recall": 0.9955555555555555,
+      "f1-score": 0.9968172868006518,
+      "support": 750.0
+    },
+    "weighted avg": {
+      "precision": 0.9973434535104364,
+      "recall": 0.9973333333333333,
+      "f1-score": 0.9973299158066269,
+      "support": 750.0
+    }
+  }
+}

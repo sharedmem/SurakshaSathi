@@ -1,0 +1,881 @@
+id,text,label,subtype,category,language,delivery_mode,brand_used,sender_id,source,cluster_id,cluster_label
+27,"শ্রদ্ধেয় গ্রাহক,
+Your electricity bill of Rs 50000 with Power Distribution Co is pending.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,bn,link_apk,Power Distribution Co,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+44,"प्रिय उपयोगकर्ता,
+आपका State Electricity Board बिजली बिल रु 500 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,State Electricity Board,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+60,"Attention Customer, Your electricity bill of Rs 1500 with State Electricity Board is pending. Kindly respond within 3 days or legal action will be taken, otherwise your service will be suspended permanently. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,en,vishing_callback,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+68,"प्रिय ग्राहक,
+Your electricity bill of Rs 200 with Power Distribution Co is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,Power Distribution Co,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+75,"ਪਿਆਰੇ ਗਾਹਕ,
+Your electricity bill of Rs 1500 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] PowerPay_App.apk",spam,apk_fraud,electricity,pa,no_explicit_app_word,Power Distribution Co,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+83,"Priya Grahak, Aapka Power Distribution Co bijli bill Rs 500 pending hai. 24 ghante ke andar jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hg,link_apk,Power Distribution Co,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+95,"Your electricity bill of Rs 500 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,State Electricity Board,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+129,"प्रिय ग्राहक,
+Your electricity bill of Rs 500 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+153,"आदरणीय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 5000 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,electricity,hi,vishing_callback,State Electricity Board,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+162,"প্রিয় গ্রাহক,
+Your electricity bill of Rs 2000 with Power Distribution Co is pending.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,bn,attached_file_no_link,Power Distribution Co,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+183,"Your electricity bill of Rs 200 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,Power Distribution Co,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+196,"आपका Power Distribution Co बिजली बिल रु 1000 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+powerpay-bill..in
+PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+211,"Your electricity bill of Rs 25000 with Power Distribution Co is pending.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check your details.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,ta,pdf_then_apk,Power Distribution Co,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+240,"प्रिय ग्राहक,
+Your electricity bill of Rs 2000 with Power Distribution Co is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+253,"आदरणीय ग्राहक,
+Your electricity bill of Rs 750 with State Electricity Board is pending..
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,mr,pdf_then_apk,State Electricity Board,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+259,"Your electricity bill of Rs 50000 with Power Distribution Co is pending. Please act today itself or legal action will be taken against you. Please check the attached file for full details and open it to proceed.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,Power Distribution Co,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+261,"محترم گاہک،
+آپ کا Power Distribution Co بجلی کا بل 2000 روپے واجب الادا ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,ur,link_apk,Power Distribution Co,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+268,"Dear Customer, Your electricity bill of Rs 5000 with Power Distribution Co is pending. Please act right now to avoid penalty or legal action will be taken against you. Click the link below and install the app to proceed.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,en,link_apk,Power Distribution Co,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+271,"प्रिय ग्राहक, Your electricity bill OF Rs 50000 with State Electricity Board is pending. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल. या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,electricity,mr,qr_code,State Electricity Board,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+289,"Dear Vehicle Owner, Your electricity bill of Rs 1500 with Power Distribution Co is pending. Kindly respond immediately, otherwise you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,Power Distribution Co,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+314,"आदरणीय ग्राहक,
+आपका Power Distribution Co बिजली बिल रु 5000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+350,"Aapka Power Distribution Co bijli bill Rs 750 pending hai.. Kripya turant action le, warna connection cut ho jayega. Niche diye link SE app install kare. powerpay-bill.in PowerPay_App.apk",spam,apk_fraud,electricity,hg,link_apk,Power Distribution Co,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+356,"Dear Customer, Your electricity bill of Rs 1500 with Power Distribution Co is pending. Kindly respond immediatly, OTHERWISE your account will be blocked. Click the link below and install the app to proceed. powerpay-bill.in PowerPay_App.apk",spam,apk_fraud,electricity,en,link_apk,Power Distribution Co,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+383,"Dear Vehicle Owner, Your electricity bill of Rs 25000 with Power Distribution Co is pending.. Please act right now to avoid penalty or you will lose this offer. Click the link below and install the app to proceed.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,en,link_apk,Power Distribution Co,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+423,"শ্রদ্ধেয় গ্রাহক,
+Your electricity bill of Rs 50000 with Power Distribution Co is pending.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,bn,link_apk,Power Distribution Co,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+444,"শ্রদ্ধেয় গ্রাহক,
+Your electricity bill of Rs 1000 with State Electricity Board is pending.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,bn,pdf_then_apk,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+453,"प्रिय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 500 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,hi,link_apk,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+510,"प्रिय उपयोगकर्ता,
+आपका State Electricity Board बिजली बिल रु 500 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+514,"आपका Power Distribution Co बिजली बिल रु 25000 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,electricity,hi,vishing_callback,Power Distribution Co,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+529,"Priya Grahak , Aapka State Electricity Board bijli bill Rs 200 pending hai. Kripya aaj hi action le, warna aapka acount block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hg,pdf_then_apk,State Electricity Board,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+574,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 1000 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,pa,link_apk,Power Distribution Co,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+624,"Dear Vehicle Owner, Your electricity bill of Rs 750 with State Electricity Board is pending. Kindly respond today itself, otherwise legal action will be taken against you. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,en,vishing_callback,State Electricity Board,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+652,"Your electricity bill of Rs 1500 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,pa,link_apk,State Electricity Board,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+727,"Dear User, Your electricity bill of Rs 1000 with State Electricity Board is pending. Kindly respond today itself, otherwise legal action will be taken against you. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+733,"प्रिय उपयोगकर्ता,
+आपका Power Distribution Co बिजली बिल रु 750 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,electricity,hi,vishing_callback,Power Distribution Co,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+771,"Your electricity bill of Rs 500 with State Electricity Board is pending. Please act within 24 hours or ur connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,State Electricity Board,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+809,"Your electricity bill of Rs 2000 with Power Distribution Co is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] PowerPay_App.apk",spam,apk_fraud,electricity,mr,no_explicit_app_word,Power Distribution Co,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+893,"Dear Customer, Your electricity bill of Rs 750 with State Electricity Board is pending. Please act within 3 days or legal action will be taken or your connection will be disconnected. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+901,"শ্রদ্ধেয় গ্রাহক,
+Your electricity bill of Rs 25000 with State Electricity Board is pending.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,bn,pdf_then_apk,State Electricity Board,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+910,"Dear Vehicle Owner, Your electricity bill of Rs 1000 with State Electricity Board is pending. Kindly respond today itself, otherwise your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,State Electricity Board,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+915,"Your electricity bill of Rs 25000 with State Electricity Board is pending.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,bn,attached_file_no_link,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+925,"Your electricity bill of Rs 1000 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,mr,vishing_callback,State Electricity Board,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+948,"Your electricity bill of Rs 2000 with State Electricity Board is pending.. ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ। bijli-bill-pay.xyz Electricity_Pay.apk",spam,apk_fraud,electricity,pa,link_apk,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+956,"आदरणीय ग्राहक, Your electricity bill of Rs 2000 with State Electricity Board is pending.. कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल. खालील लिंकवरून अॅप इंस्टॉल करा. bijli-bill-pay.xyz Electricity_Pay.apk",spam,apk_fraud,electricity,mr,link_apk,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+994,"ਪਿਆਰੇ ਗਾਹਕ,
+Your electricity bill of Rs 1500 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,pa,link_apk,Power Distribution Co,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+1009,"आपका Power Distribution Co बिजली बिल रु 750 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+powerpay-bill..in
+PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+1050,"आदरणीय ग्राहक , आपका Power Distribution Co बिजली बिल रु 1500 बकाया है। कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। powerpay-bill.in PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+1061,"Dear Vehicle Owner, Your electricity bill of Rs 1000 with Power Distribution Co is pending. Kindly respond within 24 hours, otherwise legal action will be taken against you. Click and open the pdf file below and check your details.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,en,pdf_then_apk,Power Distribution Co,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+1068,"Dear Customer, Your electricity bill of Rs 750 with State Electricity Board is pending. Kindly respond right now to avoid penalty, otherwise legal action will be taken against you. Click and open the pdf file below and check your details.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,en,pdf_then_apk,State Electricity Board,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+1071,"आदरणीय ग्राहक,
+Your electricity bill of Rs 25000 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,Power Distribution Co,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+1084,"Your electricity bill of Rs 5000 with Power Distribution Co is pending. Kindly respond within 24 hours, otherwise your service will be suspended permanently. Click and open the pdf file below and check your details.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,en,pdf_then_apk,Power Distribution Co,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+1092,"आदरणीय ग्राहक,
+आपका Power Distribution Co बिजली बिल रु 25000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+1099,"Attention Customer, Your electricity bill of Rs 1500 with State Electricity Board is pending. Please act before midnight or your account will be blocked. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+1110,"प्रिय ग्राहक,
+आपका Power Distribution Co बिजली बिल रु 25000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,Power Distribution Co,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+1127,"आदरणीय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 1000 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,hi,link_apk,State Electricity Board,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+1139,"Dear Customer, Your electricity bill of Rs 1000 with Power Distribution Co is pending. Kindly respond within 24 hours, otherwise your connection will be disconnected. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,en,vishing_callback,Power Distribution Co,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+1158,"Your electricity bill of Rs 200 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,Power Distribution Co,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+1189,"عزیز صارف،
+آپ کا State Electricity Board بجلی کا بل 1500 روپے واجب الادا ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,ur,link_apk,State Electricity Board,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+1208,"आपका Power Distribution Co बिजली बिल रु 2000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,electricity,hi,vishing_callback,Power Distribution Co,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+1324,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 5000 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,pa,link_apk,State Electricity Board,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+1329,"Attention Customer, Your electricity bill of Rs 25000 with State Electricity Board is pending. Please act today itself or you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+1330,"Dear Customer, Aapka State Electricity Board bijli bill Rs 5000 pending hai. aaj hi jawab de, nahi to aapka acount block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hg,attached_file_no_link,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+1337,"Your electricity bill of Rs 1000 with Power Distribution Co is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+1397,"Your electricity bill of Rs 50000 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,pa,link_apk,State Electricity Board,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+1409,"Attention Customer, Your electricity bill of Rs 50000 with Power Distribution Co is pending. Please act immediately or your account will be blocked. Click the link below and install the app to proceed.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,en,link_apk,Power Distribution Co,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+1418,"প্রিয় গ্রাহক,
+Your electricity bill of Rs 750 with Power Distribution Co is pending.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,bn,link_apk,Power Distribution Co,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+1426,"आदरणीय ग्राहक,
+Your electricity bill of Rs 5000 with Power Distribution Co is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+1473,"आदरणीय ग्राहक,
+आपका Power Distribution Co बिजली बिल रु 1000 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+1479,"आपका State Electricity Board बिजली बिल रु 1500 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,hi,link_apk,State Electricity Board,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+1499,Your electricity bill of Rs 500 with State Electricity Board is pending. Please act right now to avoid penalty or you will lose this offer. Click and open THE pdf file below and check your details. [Forwarded] Electricity_Pay.apk 14 MB . APK,spam,apk_fraud,electricity,en,pdf_then_apk,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+1510,"Your electricity bill of Rs 50000 with State Electricity Board is pending. Please act within 24 hours or you will lose this offer. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+1515,"प्रिय ग्राहक,
+Your electricity bill of Rs 500 with State Electricity Board is pending..
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,mr,vishing_callback,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+1519,"Your electricity bill of Rs 1000 with Power Distribution Co is pending. ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ। [ਅੱਗੇ ਭੇਜਿਆ] PowerPay_App.apk 14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+1557,"आदरणीय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 1000 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,hi,link_apk,State Electricity Board,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+1559,"आदरणीय ग्राहक,
+आपका Power Distribution Co बिजली बिल रु 500 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,Power Distribution Co,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+1561,"عزیز صارف،
+آپ کا State Electricity Board بجلی کا بل 5000 روپے واجب الادا ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,ur,pdf_then_apk,State Electricity Board,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+1578,"प्रिय उपयोगकर्ता, आपका State Electricity Board बिजली बिल रु 500 बकाया है। कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] Electricity_Pay.apk 14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,State Electricity Board,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+1636,"Dear Vehicle Owner, Your electricity bill of Rs 750 with State Electricity Board is pending.. Please act before MIDNIGHT or your service will be suspended permanently. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,electricity,en,qr_code,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+1666,"आदरणीय ग्राहक,
+Your electricity bill of Rs 5000 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,mr,pdf_then_apk,Power Distribution Co,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+1673,"आपका State Electricity Board बिजली बिल रु 50000 बकाया है। कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] Electricity_Pay.apk 14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,State Electricity Board,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+1708,"محترم گاہک،
+آپ کا Power Distribution Co بجلی کا بل 50000 روپے واجب الادا ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,ur,link_apk,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+1720,"শ্রদ্ধেয় গ্রাহক,
+Your electricity bill of Rs 750 with State Electricity Board is pending.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,bn,attached_file_no_link,State Electricity Board,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+1726,"Dear User, Your electricity bill of Rs 50000 with State Electricity Board is pending. Please act today itself or legal action will be taken against you. Click and open the pdf file below and check your details.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,en,pdf_then_apk,State Electricity Board,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+1733,"आपका Power Distribution Co बिजली बिल रु 1000 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,Power Distribution Co,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+1777,"Dear Vehicle Owner, Your electricity bill of Rs 750 with State Electricity Board is PENDING. Please act before midnight or your connection will be disconnected. Click the link below and install the app to proceed. bijli-bill-pay.xyz Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+1784,"Dear Vehicle Owner, Your electricity bill of Rs 1000 with Power Distribution Co is pending. Please act within 24 hours or you will lose this offer. Click the link below and install the app to proceed.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,en,link_apk,Power Distribution Co,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+1815,"Dear Sir/Madam, Your electricity bill of Rs 200 with Power Distribution Co is pending. Please act right now to avoid penalty or legal action will be taken against you. Click the link below and install the app to proceed.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,en,link_apk,Power Distribution Co,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+1820,"Your electricity bill of Rs 2000 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,Power Distribution Co,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+1865,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 50000 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,pa,link_apk,Power Distribution Co,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+1885,"प्रिय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 750 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,electricity,hi,no_explicit_app_word,State Electricity Board,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+1892,"प्रिय ग्राहक,
+Your electricity bill of Rs 750 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,mr,vishing_callback,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+1899,"Your electricity bill of Rs 1500 with State Electricity Board is pending.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,bn,attached_file_no_link,State Electricity Board,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+1911,Your electricity bill of Rs 1000 with Power Distribution Co is pending. Please act today itself or your account will be blocked. Scan the QR code attached to this message to complete verification instantly.,spam,apk_fraud,electricity,en,qr_code,Power Distribution Co,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+1921,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 200 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,Power Distribution Co,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+1931,"आपका State Electricity Board बिजली बिल रु 1500 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,State Electricity Board,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+1960,"Your electricity bill of Rs 50000 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ , ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,pa,pdf_then_apk,State Electricity Board,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+2000,"Your electricity bill of Rs 500 with Power Distribution Co is pending. Kindly respond within 24 hours, otherwise ur service will be suspended permanently. Please check the attached file for full details and open it to proceed. [Forwarded] PowerPay_App.apk 14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,Power Distribution Co,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+2030,"Dear Customer, Your electricity bill of Rs 2000 with State Electricity Board is pending. Please act before midnight or you will lose this offer. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+2036,"आदरणीय ग्राहक,
+Your electricity bill of Rs 1500 with Power Distribution Co is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+2043,"Dear Vehicle Owner, Your electricity bill of Rs 2000 with Power Distribution Co is pending. Please act within 3 days or legal action will be taken or your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,Power Distribution Co,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+2096,"आदरणीय ग्राहक,
+Your electricity bill of Rs 200 with State Electricity Board is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] Electricity_Pay.apk",spam,apk_fraud,electricity,mr,no_explicit_app_word,State Electricity Board,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+2120,"आदरणीय ग्राहक,
+Your electricity bill of Rs 1500 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,mr,link_apk,State Electricity Board,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+2130,"প্রিয় গ্রাহক,
+Your electricity bill of Rs 50000 with Power Distribution Co is pending..
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,electricity,bn,qr_code,Power Distribution Co,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+2131,آپ کا POWER Distribution Co بجلی کا بل 5000 روپے واجب الادا ہے۔ براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔ نیچے دیے گئے لنک سے ایپ انسٹال کریں۔ powerpay-bill.in PowerPay_App.apk,spam,apk_fraud,electricity,ur,link_apk,Power Distribution Co,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+2148,"عزیز صارف،
+آپ کا State Electricity Board بجلی کا بل 2000 روپے واجب الادا ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] Electricity_Pay.apk",spam,apk_fraud,electricity,ur,no_explicit_app_word,State Electricity Board,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+2192,"आदरणीय ग्राहक,
+Your electricity bill of Rs 200 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+2195,"प्रिय उपयोगकर्ता,
+आपका State Electricity Board बिजली बिल रु 5000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,electricity,hi,qr_code,State Electricity Board,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+2204,"ਪਿਆਰੇ ਗਾਹਕ,
+Your electricity bill of Rs 50000 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,pa,vishing_callback,State Electricity Board,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+2205,"प्रिय ग्राहक,
+आपका Power Distribution Co बिजली बिल रु 750 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+2214,"Dear User, Your electricity bill of Rs 500 with State Electricity Board is pending. Kindly respond within 24 hours, otherwise your account will be blocked. Click and open the pdf file below and check your details.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,en,pdf_then_apk,State Electricity Board,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+2222,"प्रिय उपयोगकर्ता,
+आपका State Electricity Board बिजली बिल रु 25000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,State Electricity Board,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+2230,"শ্রদ্ধেয় গ্রাহক ,
+Your electricity bill of Rs 750 with Power Distribution Co is pending.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,bn,link_apk,Power Distribution Co,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+2262,"Dear Customer, Aapka Power Distribution Co bijli bill Rs 750 pending hai. turant jawab de, NAHI to aapka account block ho jayega. Niche diye link se app install kare. powerpay-bill.in PowerPay_App.apk",spam,apk_fraud,electricity,hg,link_apk,Power Distribution Co,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+2278,"आपका State Electricity Board बिजली बिल रु 200 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Electricity_Pay..apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,State Electricity Board,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+2351,"प्रिय उपयोगकर्ता,
+आपका Power Distribution Co बिजली बिल रु 200 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,Power Distribution Co,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+2368,"Attention Customer, Your electricity bill of Rs 50000 with State Electricity Board is pending.. Please act within 3 days or legal action will be taken or your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,State Electricity Board,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+2377,"आदरणीय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 2000 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,electricity,hi,qr_code,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+2395,"Dear Sir/Madam, Your electricity bill of Rs 200 with State Electricity Board is pending. Kindly respond right now to avoid penalty, otherwise you will lose this offer. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+2468,"محترم گاہک،
+آپ کا Power Distribution Co بجلی کا بل 200 روپے واجب الادا ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,ur,attached_file_no_link,Power Distribution Co,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+2474,"প্রিয় গ্রাহক ,
+Your electricity bill of Rs 5000 with Power Distribution Co is pending.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,bn,attached_file_no_link,Power Distribution Co,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+2486,"Your electricity bill of Rs 500 with State Electricity Board is pending.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,ta,link_apk,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+2510,"শ্রদ্ধেয় গ্রাহক,
+Your electricity bill of Rs 750 with State Electricity Board is pending.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,bn,pdf_then_apk,State Electricity Board,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+2537,"প্রিয় গ্রাহক,
+Your electricity bill of Rs 5000 with State Electricity Board is pending.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,bn,pdf_then_apk,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+2584,"ਪਿਆਰੇ ਗਾਹਕ,
+Your electricity bill of Rs 50000 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+2616,"आपका State Electricity Board बिजली बिल रु 1500 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,electricity,hi,qr_code,State Electricity Board,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+2639,"प्रिय उपयोगकर्ता,
+आपका Power Distribution Co बिजली बिल रु 50000 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,electricity,hi,vishing_callback,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+2687,"प्रिय ग्राहक,
+Your electricity bill of Rs 25000 with Power Distribution Co is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,mr,link_apk,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+2697,"प्रिय उपयोगकर्ता,
+आपका State Electricity Board बिजली बिल रु 5000 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,electricity,hi,vishing_callback,State Electricity Board,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+2708,"প্রিয় গ্রাহক,
+Your electricity bill of Rs 50000 with Power Distribution Co is pending.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,bn,pdf_then_apk,Power Distribution Co,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+2722,"Dear Sir/Madam, Your electricity bill of Rs 1500 with Power Distribution Co is pending. Kindly respond immediately, otherwise your service will be suspended permanently. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,en,vishing_callback,Power Distribution Co,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+2725,"Attention Customer, Your electricity bill of Rs 200 with State Electricity Board is pending. Kindly respond right now to avoid penalty, otherwise you will lose this offer. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+2728,"आपका Power DISTRIBUTION Co बिजली बिल रु 50000 बकाया है। कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें। [अग्रेषित] PowerPay_App.apk 14 MB . APK",spam,apk_fraud,electricity,hi,pdf_then_apk,Power Distribution Co,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+2755,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 500 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,pa,pdf_then_apk,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+2760,"ਪਿਆਰੇ ਗਾਹਕ,
+Your electricity bill of Rs 25000 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,electricity,pa,qr_code,Power Distribution Co,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+2779,"Dear Customer, Your electricity bill of Rs 1000 with Power Distribution Co is pending. Please act within 3 days or legal action will be taken or your service will be suspended permanently. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,en,vishing_callback,Power Distribution Co,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+2800,"Your electricity bill of Rs 500 with State Electricity Board is pending. Kindly respond within 24 hours, otherwise your account will be blocked. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+2807,"Dear Sir/Madam, Your electricity bill of Rs 1500 with State Electricity Board is pending. Kindly respond right now to avoid penalty, otherwise your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+2830,"Dear User, Your electricity bill of Rs 500 with State Electricity Board is pending. Please act immediately or you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+2852,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ, Your ELECTRICITY bill of Rs 750 with State Electricity Board is pending. ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ। Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,electricity,pa,qr_code,State Electricity Board,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+2882,"Aapka Power Distribution Co bijli bill Rs 50000 pending hai. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hg,link_apk,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+2904,"प्रिय ग्राहक, Your electricity bill of Rs 200 with Power Distribution Co is pending.. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा. [फॉरवर्ड केलेले] PowerPay_App.apk 14 MB . APK",spam,apk_fraud,electricity,mr,pdf_then_apk,Power Distribution Co,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+2919,"आपका Power Distribution Co बिजली बिल रु 5000 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+2922,"Dear User, Your electricity bill of Rs 750 with State Electricity Board is pending. Kindly respond before midnight, otherwise you will lose this offer. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+2934,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 2000 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,pa,link_apk,State Electricity Board,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+2939,"அன்புள்ள வாடிக்கையாளர்,
+Your electricity bill of Rs 50000 with Power Distribution Co is pending.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,ta,attached_file_no_link,Power Distribution Co,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+2940,"Your electricity bill of Rs 200 with Power Distribution Co is pending.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,electricity,bn,qr_code,Power Distribution Co,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+2970,"Dear Customer, YOUR electricity bill of Rs 50000 with Power Distribution Co is pending. Please act before midnight or your account will be blocked. Click the link below and install the app to proceed. powerpay-bill.in PowerPay_App.apk",spam,apk_fraud,electricity,en,link_apk,Power Distribution Co,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+2998,"Dear Sir/Madam, Your electricity bill of Rs 5000 with Power Distribution Co is pending. Please act before midnight or legal action will be taken against you. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] PowerPay_App.apk",spam,apk_fraud,electricity,en,no_explicit_app_word,Power Distribution Co,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+3047,"শ্রদ্ধেয় গ্রাহক ,
+Your electricity bill of Rs 50000 with State Electricity Board is pending.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,electricity,bn,qr_code,State Electricity Board,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+3075,"عزیز صارف،
+آپ کا State Electricity Board بجلی کا بل 200 روپے واجب الادا ہے۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details..
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,ur,pdf_then_apk,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+3080,"Your electricity bill of Rs 500 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,pa,link_apk,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+3082,"प्रिय उपयोगकर्ता,
+आपका Power Distribution Co बिजली बिल रु 5000 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+3124,"শ্রদ্ধেয় গ্রাহক, Your electricity bill of Rs 200 with Power Distribution Co is pending. অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে। অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন। [ফরওয়ার্ড করা হয়েছে] PowerPay_App.apk 14 MB . APK",spam,apk_fraud,electricity,bn,attached_file_no_link,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+3145,"அன்புள்ள வாடிக்கையாளர்,
+Your electricity bill of Rs 25000 with Power Distribution Co is pending.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,ta,link_apk,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+3220,"آپ کا Power Distribution Co بجلی کا بل 5000 روپے واجب الادا ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,ur,link_apk,Power Distribution Co,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+3240,"प्रिय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 1000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,hi,link_apk,State Electricity Board,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+3277,"Your electricity bill of Rs 200 with Power Distribution Co is pending.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,ta,attached_file_no_link,Power Distribution Co,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+3283,"প্রিয় গ্রাহক,
+Your electricity bill of Rs 50000 with State Electricity Board is pending.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] Electricity_Pay.apk",spam,apk_fraud,electricity,bn,no_explicit_app_word,State Electricity Board,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+3327,"Your electricity bill of Rs 1500 with State Electricity Board is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,mr,link_apk,State Electricity Board,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+3366,"आदरणीय ग्राहक,
+आपका Power Distribution Co बिजली बिल रु 750 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+3409,"आपका State Electricity Board बिजली बिल रु 50000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,electricity,hi,vishing_callback,State Electricity Board,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+3413,"Your electricity bill of Rs 750 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,pa,pdf_then_apk,Power Distribution Co,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+3437,"Dear User, Your electricity bill of Rs 750 with Power Distribution Co is pending. Kindly respond within 24 hours, otherwise you will lose this offer. Click the link below and install the app to proceed.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,en,link_apk,Power Distribution Co,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+3472,"ਪਿਆਰੇ ਗਾਹਕ,
+Your electricity bill of Rs 50000 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,electricity,pa,qr_code,State Electricity Board,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+3514,"प्रिय उपयोगकर्ता,
+आपका State Electricity Board बिजली बिल रु 5000 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,State Electricity Board,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+3517,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 750 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,pa,vishing_callback,Power Distribution Co,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+3549,"ਪਿਆਰੇ ਗਾਹਕ,
+Your electricity bill of Rs 5000 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+3611,"आपका State Electricity Board बिजली बिल रु 1500 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,State Electricity Board,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+3635,"प्रिय ग्राहक,
+Your electricity bill of Rs 25000 with Power Distribution Co is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,Power Distribution Co,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+3668,"শ্রদ্ধেয় গ্রাহক,
+Your electricity bill of Rs 1000 with State Electricity Board is pending.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,bn,vishing_callback,State Electricity Board,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+3671,"عزیز صارف،
+آپ کا Power Distribution Co بجلی کا بل 2000 روپے واجب الادا ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,ur,link_apk,Power Distribution Co,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+3678,"आपका State Electricity Board बिजली बिल रु 25000 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+3689,"प्रिय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 500 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,electricity,hi,vishing_callback,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+3705,"آپ کا State Electricity Board بجلی کا بل 1000 روپے واجب الادا ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,ur,pdf_then_apk,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+3755,"Your electricity bill of Rs 50000 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,Power Distribution Co,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+3760,"आदरणीय ग्राहक,
+आपका Power Distribution Co बिजली बिल रु 5000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,electricity,hi,no_explicit_app_word,Power Distribution Co,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+3807,"प्रिय ग्राहक,
+आपका Power Distribution Co बिजली बिल रु 50000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,Power Distribution Co,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+3831,"Priya Grahak, Aapka State Electricity Board bijli bill Rs 2000 pending hai. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hg,pdf_then_apk,State Electricity Board,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+3860,"Dear Vehicle Owner, Your electricity bill of Rs 1500 with Power Distribution Co is pending. Kindly respond within 3 days or legal action will be taken, otherwise your account will be blocked. Click the link below and install the app to proceed.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,en,link_apk,Power Distribution Co,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+3866,"आदरणीय ग्राहक,
+Your electricity bill of Rs 200 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,mr,link_apk,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+3874,"आपका Power Distribution Co बिजली बिल रु 500 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,electricity,hi,qr_code,Power Distribution Co,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+3911,"प्रिय ग्राहक, आपका Power Distribution Co बिजली बिल रु 200 बकाया है। कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,electricity,hi,qr_code,Power Distribution Co,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+3914,"आदरणीय ग्राहक,
+आपका Power Distribution Co बिजली बिल रु 2000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hi,pdf_then_apk,Power Distribution Co,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+3956,"Your electricity bill of Rs 5000 with State Electricity Board is pending. Kindly respond today itself, otherwise your service will be suspended permanently. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,electricity,en,no_explicit_app_word,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+3957,"Attention Customer, Your electricity bill of Rs 750 with State Electricity Board is pending. Kindly respond right now to avoid penalty, otherwise you will lose this offer. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+3985,"Your electricity bill of Rs 200 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,State Electricity Board,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+4043,"Your electricity bill of Rs 5000 with State Electricity Board is pending.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+4101,"Your electricity bill of Rs 2000 with Power Distribution Co is pending.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,bn,pdf_then_apk,Power Distribution Co,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+4129,"ਪਿਆਰੇ ਗਾਹਕ , Your electricity bill of Rs 1000 with Power Distribution Co is pending. ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ। [ਅੱਗੇ ਭੇਜਿਆ] PowerPay_App.apk 14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,Power Distribution Co,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+4134,"प्रिय ग्राहक,
+Your electricity bill of Rs 1000 with Power Distribution Co is pending.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,electricity,mr,no_explicit_app_word,Power Distribution Co,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+4165,"Dear Customer, Aapka State Electricity Board bijli bill Rs 1500 pending hai. jaldi se jaldi jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,hg,link_apk,State Electricity Board,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+4177,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 5000 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,electricity,pa,qr_code,Power Distribution Co,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+4200,"Your electricity bill of Rs 750 with State Electricity Board is pending.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,mr,attached_file_no_link,State Electricity Board,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+4213,"Your electricity bill of Rs 25000 with State Electricity Board is pending.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,bn,pdf_then_apk,State Electricity Board,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+4214,"প্রিয় গ্রাহক,
+Your electricity bill of Rs 500 with Power Distribution Co is pending.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,bn,pdf_then_apk,Power Distribution Co,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+4237,"आदरणीय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 500 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,electricity,hi,qr_code,State Electricity Board,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+4251,"प्रिय उपयोगकर्ता,
+आपका State Electricity Board बिजली बिल रु 5000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hi,pdf_then_apk,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+4260,"ਪਿਆਰੇ ਗਾਹਕ,
+Your electricity bill of Rs 200 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,pa,link_apk,State Electricity Board,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+4263,"عزیز صارف،
+آپ کا State Electricity Board بجلی کا بل 1000 روپے واجب الادا ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,ur,link_apk,State Electricity Board,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+4310,"प्रिय उपयोगकर्ता, आपका State Electricity Board बिजली बिल रु 2000 बकाया है। कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] Electricity_Pay.apk 14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,State Electricity Board,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+4313,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 50000 with State Electricity Board is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,State Electricity Board,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+4340,"শ্রদ্ধেয় গ্রাহক , Your electricity bill of Rs 5000 with POWER Distribution Co is pending. অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে। অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন। [ফরওয়ার্ড করা হয়েছে] PowerPay_App.apk 14 MB . APK",spam,apk_fraud,electricity,bn,attached_file_no_link,Power Distribution Co,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+4341,"Aapka State Electricity Board bijli bill Rs 50000 pending hai. Kripya jaldi se jaldi action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hg,attached_file_no_link,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+4343,Your electricity bill of Rs 500 with State Electricity Board is pending. Please act right now to avoid penalty or your service will be suspended permanently. Click the link below and install the app TO proceed. bijli-bill-pay.xyz Electricity_Pay.apk,spam,apk_fraud,electricity,en,link_apk,State Electricity Board,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+4363,"Your electricity bill of Rs 25000 with State Electricity Board is pending.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,ta,link_apk,State Electricity Board,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+4379,"ਪਿਆਰੇ ਗਾਹਕ,
+Your electricity bill of Rs 5000 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,Power Distribution Co,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+4404,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 200 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,pa,attached_file_no_link,Power Distribution Co,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+4412,"आपका State Electricity Board बिजली बिल रु 25000 बकाया है। कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। bijli-bill-pay.xyz Electricity_Pay.apk",spam,apk_fraud,electricity,hi,link_apk,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+4472,"Dear Customer, Aapka State Electricity Board bijli bill Rs 2000 pending hai. Kripya aaj hi action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hg,pdf_then_apk,State Electricity Board,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+4482,"प्रिय ग्राहक,
+आपका Power Distribution Co बिजली बिल रु 1500 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+powerpay-bill..in
+PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+4519,"प्रिय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 750 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,hi,link_apk,State Electricity Board,AX-PWRBIL,synthetic_v2,7,electricity_utility_fraud
+4553,"आपका State Electricity Board बिजली बिल रु 2000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,electricity,hi,qr_code,State Electricity Board,+91 7700XXXX45,synthetic_v2,7,electricity_utility_fraud
+4599,"प्रिय उपयोगकर्ता,
+आपका Power Distribution Co बिजली बिल रु 750 बकाया है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hi,link_apk,Power Distribution Co,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+4633,"Dear Sir/Madam, Your electricity bill of Rs 500 with State Electricity Board is pending. Please act today itself or your account will be blocked. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+4641,"Dear Customer, Your electricity bill of Rs 50000 with State Electricity Board is pending. Kindly respond within 24 hours, otherwise your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,State Electricity Board,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+4679,"Dear Vehicle Owner , Your electricity bill of Rs 5000 with State Electricity Board is pending. Please act immediately or you will lose this offer. We tried to reach you regarding your pending issue. Call us back on teh number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,en,vishing_callback,State Electricity Board,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+4682,"प्रिय उपयोगकर्ता,
+आपका State Electricity Board बिजली बिल रु 25000 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,hi,link_apk,State Electricity Board,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+4705,"Attention Customer , Your electricity bill of Rs 5000 with Power Distribution Co is pending. Please act within 24 hours or your account will be blocked. Please check teh attached file for full details and open it to proceed. [Forwarded] PowerPay_App.apk 14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,Power Distribution Co,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+4769,"Your electricity bill of Rs 1000 with State Electricity Board is pending.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,bn,attached_file_no_link,State Electricity Board,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+4774,"প্রিয় গ্রাহক,
+Your electricity bill of Rs 200 with Power Distribution Co is pending.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,electricity,bn,qr_code,Power Distribution Co,VK-RTOGOV,synthetic_v2,7,electricity_utility_fraud
+4787,"Attention Customer, Your electricity bill of Rs 50000 with Power Distribution Co is pending. Please act immediately or your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,Power Distribution Co,VK-INDPST,synthetic_v2,7,electricity_utility_fraud
+4809,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 50000 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,pa,link_apk,Power Distribution Co,VM-SBIBNK,synthetic_v2,7,electricity_utility_fraud
+4863,"ਪਿਆਰੇ ਗਾਹਕ, Your electricity bill of Rs 200 with State Electricity Board is pending. ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ। bijli-bill-pay.xyz Electricity_Pay.apk",spam,apk_fraud,electricity,pa,link_apk,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud
+4883,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your electricity bill of Rs 1500 with Power Distribution Co is pending.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,pa,vishing_callback,Power Distribution Co,AD-NETFLX,synthetic_v2,7,electricity_utility_fraud
+4922,"Attention Customer , Your electricity bill of Rs 5000 with State Electricity Board is pending. Kindly respond within 24 hours, otherwise your account will be blocked. Click the link below and install the app to proceed.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,en,link_apk,State Electricity Board,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+4941,"Your electricity bill of Rs 1000 with Power Distribution Co is pending.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,bn,pdf_then_apk,Power Distribution Co,JD-ITAXRF,synthetic_v2,7,electricity_utility_fraud
+4948,"محترم گاہک،
+آپ کا Power Distribution Co بجلی کا بل 500 روپے واجب الادا ہے۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,ur,link_apk,Power Distribution Co,VK-UPIRWD,synthetic_v2,7,electricity_utility_fraud
+4957,"Dear User, Your electricity bill of Rs 750 with Power Distribution Co is pending. Kindly respond today itself, otherwise you will lose this offer. Click the link below and install the app to proceed.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,en,link_apk,Power Distribution Co,+91 8800XXXX12,synthetic_v2,7,electricity_utility_fraud
+4959,"प्रिय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 2000 बकाया है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,hi,link_apk,State Electricity Board,VK-LOANAP,synthetic_v2,7,electricity_utility_fraud
+4981,"प्रिय उपयोगकर्ता ,
+आपका Power Distribution Co बिजली बिल रु 500 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hi,attached_file_no_link,Power Distribution Co,AD-ICICIB,synthetic_v2,7,electricity_utility_fraud
+4994,"Dear Vehicle Owner, Your electricity bill of Rs 2000 with State Electricity Board is pending. Kindly respond within 24 hours, otherwise you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,en,attached_file_no_link,State Electricity Board,VM-WHATSP,synthetic_v2,7,electricity_utility_fraud
+5000,"प्रिय ग्राहक,
+आपका State Electricity Board बिजली बिल रु 25000 बकाया है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,electricity,hi,vishing_callback,State Electricity Board,INFO-GOVT,synthetic_v2,7,electricity_utility_fraud

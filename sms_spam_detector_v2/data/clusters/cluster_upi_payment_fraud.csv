@@ -1,0 +1,1060 @@
+id,text,label,subtype,category,language,delivery_mode,brand_used,sender_id,source,cluster_id,cluster_label
+28,"ICICI Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: bedy13.com/update",spam,link_fraud,fake_billing_link,en,link_only,,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+40,"SBI Free Msg: Your bill is paid. Thanks, here's a little gift for you: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+97,"You have received a cashback of Rs 500 from Paytm Cashback..
+कृपया त्वरित कारवाई करा , अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,pdf_then_apk,Paytm Cashback,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+98,"आदरणीय ग्राहक,
+You have received a cashback of Rs 2000 from UPI Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,mr,link_apk,UPI Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+110,"You have received a cashback of Rs 25000 from UPI Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,mr,link_apk,UPI Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+122,"Axis Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: E5NBU.XYZ/CLAIM",spam,link_fraud,fake_billing_link,en,link_only,,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+151,"You have received a cashback of Rs 25000 from UPI Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,UPI Rewards,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+173,"Dear Customer, You have received a cashback of Rs 500 from Paytm Cashback. Kindly respond today itself, otherwise your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,attached_file_no_link,Paytm Cashback,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+177,"Dear Vehicle Owner, INR 1000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now. Kindly respond right now to avoid penalty, otherwise you will lose this offer. Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,pdf_then_apk,Paytm Payments Bank,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+191,"प्रिय ग्राहक,
+You have received a cashback of Rs 200 from PhonePe Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,mr,vishing_callback,PhonePe Rewards,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+194,"শ্রদ্ধেয় গ্রাহক,
+INR 500 was debited from your Paytm Payments Bank account.. If this was not done by you, secure your account now.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,bn,attached_file_no_link,Paytm Payments Bank,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+198,"Dear Sir/Madam, You have received a cashback of Rs 200 from Paytm Cashback. Kindly respond immediately, otherwise your account will be blocked. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,upi_cashback,en,qr_code,Paytm Cashback,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+206,"Dear Customer, You have received a cashback of Rs 1000 from PhonePe Rewards. Please act right now to avoid penalty or your connection will be disconnected. Click and open the pdf file below and check your details.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,pdf_then_apk,PhonePe Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+220,"Dear User, You have received a cashback of Rs 1000 from UPI Rewards. Please act today itself or your connection will be disconnected. Click the link below and install the app to proceed. UPI-CASHBACK-CLAIM.XYZ UPI_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,UPI Rewards,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+283,"प्रिय ग्राहक,
+INR 25000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,mr,link_apk,Paytm Payments Bank,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+287,"You have received a cashback of Rs 5000 from PhonePe Rewards.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,bn,link_apk,PhonePe Rewards,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+323,"SBI Free Msg: Your bill is paid. Thanks, here's a little gift for you: bit.ly/3xK9pL",spam,link_fraud,fake_billing_link,en,link_only,,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+332,"You have received a cashback of Rs 50000 from UPI Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,UPI Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+338,"You have received a cashback of Rs 2000 from Paytm Cashback.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,bn,attached_file_no_link,Paytm Cashback,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+359,"PNB Free Msg: Your bill is paid. Thanks, here's a little gift for you: tinyurl.com/y8mfraud",spam,link_fraud,fake_billing_link,en,link_only,,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+363,"You have received a cashback of Rs 2000 from UPI Rewards..
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,upi_cashback,hi,qr_code,UPI Rewards,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+368,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+You have received a cashback of Rs 25000 from Paytm Cashback.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,attached_file_no_link,Paytm Cashback,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+399,"You have received a cashback of Rs 1500 from UPI Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,pa,link_apk,UPI Rewards,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+422,"You have received a cashback of Rs 5000 from Paytm Cashback.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,attached_file_no_link,Paytm Cashback,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+430,"प्रिय ग्राहक,
+You have received a cashback of Rs 500 from UPI Rewards.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,mr,link_apk,UPI Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+433,"SBI Free Msg: Your bill is paid. Thanks, here's a little gift for you: tinyurl.com/y8mfraud",spam,link_fraud,fake_billing_link,en,link_only,,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+461,"ICICI Bank Free Msg: Your bill is paid.. Thanks, here's a little gift for you: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+473,"SBI Free Msg: Your bill is paid. Thanks, here's a little gift for you: e3fmr.info/track",spam,link_fraud,fake_billing_link,en,link_only,,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+475,"عزیز صارف،
+You have recieved a cashback of Rs 50000 from Paytm Cashback.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,ur,link_apk,Paytm Cashback,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+478,"You have received a cashback of Rs 2000 from PhonePe Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,PhonePe Rewards,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+501,"आदरणीय ग्राहक,
+You have received a cashback of Rs 1500 from PhonePe Rewards.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,mr,link_apk,PhonePe Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+513,"INR 200 was debited from your Paytm Payments Bank account.. If this was not done by you, SECURE your account now. براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔ Click and open the pdf file below and check your details. [Forwarded] Paytm_Secure.apk 14 MB . APK",spam,apk_fraud,bank_alert,ur,pdf_then_apk,Paytm Payments Bank,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+559,"শ্রদ্ধেয় গ্রাহক,
+INR 750 was debited from your Paytm Payments Bank account.. If this was not done by you, secure your account now.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,bn,attached_file_no_link,Paytm Payments Bank,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+571,"Dear Sir/Madam, You have received a cashback of Rs 1500 from UPI Rewards. Kindly respond immediately, otherwise your service will be suspended permanently. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,en,vishing_callback,UPI Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+591,"प्रिय ग्राहक,
+You have received a cashback of Rs 1000 from PhonePe Rewards.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+614,"Axis Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: bit.ly/3xK9pL",spam,link_fraud,fake_billing_link,en,link_only,,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+646,"आदरणीय ग्राहक ,
+You have received a cashback of Rs 5000 from Paytm Cashback.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,pdf_then_apk,Paytm Cashback,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+648,"Dear Customer, You have received a cashback of Rs 200 from Paytm Cashback. Please act immediatly or you will lose this offer. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,en,vishing_callback,Paytm Cashback,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+699,"You have recieved a cashback of Rs 1500 from UPI Rewards.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,ur,link_apk,UPI Rewards,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+713,"Axis Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: e5nbu.xyz/claim",spam,link_fraud,fake_billing_link,en,link_only,,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+738,"শ্রদ্ধেয় গ্রাহক,
+You have received a cashback of Rs 50000 from UPI Rewards.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,bn,attached_file_no_link,UPI Rewards,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+739,"عزیز صارف،
+You have received a cashback of Rs 200 from Paytm Cashback.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+There is an important updat regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,upi_cashback,ur,no_explicit_app_word,Paytm Cashback,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+762,"ਪਿਆਰੇ ਗਾਹਕ,
+INR 200 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,pa,link_apk,Paytm Payments Bank,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+765,"SBI Free Msg: Your bill is paid. Thanks , here's a little GIFT for you: e5nbu.xyz/claim",spam,link_fraud,fake_billing_link,en,link_only,,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+766,"শ্রদ্ধেয় গ্রাহক,
+আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 1500 টাকা। চালান নম্বর: CH68737908।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+echallan-pay.xyz
+eChallan_Pay.apk",spam,apk_fraud,rto_challan,bn,link_apk,e-Challan Dept,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+767,"HDFC Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: bedy13.com/update",spam,link_fraud,fake_billing_link,en,link_only,,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+782,"प्रिय ग्राहक,
+You have received a cashback of Rs 500 from UPI Rewards.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,UPI Rewards,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+784,"Dear Vehicle Owner, You have received a cashback of Rs 1500 from Paytm Cashback. Please act immediately or your service will be suspended permanently. Click the link below and install the app to proceed.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,Paytm Cashback,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+787,"Axis Bank Free Msg: Your bill IS paid.. Thanks, here's a little gift for you: bit.ly/3xK9pL",spam,link_fraud,fake_billing_link,en,link_only,,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+800,"SBI Free Msg: Your bill is PAID.. Thanks, here's a little gift for you: bit.ly/3xK9pL",spam,link_fraud,fake_billing_link,en,link_only,,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+812,"प्रिय ग्राहक,
+You have received a cashback of Rs 1500 from PhonePe Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,PhonePe Rewards,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+819,"HDFC Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: e5nbu.xyz/claim",spam,link_fraud,fake_billing_link,en,link_only,,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+833,"Dear User, INR 500 was debited from your Paytm Payments Bank account.. If this was not done by you, secure your account now. Please act before midnight or you will lose this offer. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_alert,en,qr_code,Paytm Payments Bank,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+840,"प्रिय उपयोगकर्ता,
+You have received a cashback of Rs 750 from UPI Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,pdf_then_apk,UPI Rewards,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+845,"SBI Free Msg: Your bill is paid. Thanks, here's a little gift for YOU: e3fmr.info/track",spam,link_fraud,fake_billing_link,en,link_only,,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+887,"You have received A cashback of Rs 1000 from Paytm Cashback. कृपया आज ही कार्रवाई करें , अन्यथा आपका कनेक्शन काट दिया जाएगा। हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,upi_cashback,hi,vishing_callback,Paytm Cashback,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+890,"Dear Customer, You have received a cashback of Rs 500 from PhonePe Rewards. Kindly respond before midnight, otherwise legal action will be taken against you. Please check the attached file for full details and open it to proceed.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,attached_file_no_link,PhonePe Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+891,"ICICI Bank Free Msg: Your bill is PAID. Thanks, here's a little gift for you: bedy13.com/update",spam,link_fraud,fake_billing_link,en,link_only,,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+895,"आदरणीय ग्राहक,
+You have received a cashback of Rs 1500 from PhonePe Rewards.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,mr,link_apk,PhonePe Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+926,"عزیز صارف،
+You have received a cashback of Rs 25000 from Paytm Cashback.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,attached_file_no_link,Paytm Cashback,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+950,"শ্রদ্ধেয় গ্রাহক,
+You have received a cashback of Rs 2000 from UPI Rewards.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,bn,attached_file_no_link,UPI Rewards,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+957,"ਪਿਆਰੇ ਗਾਹਕ,
+You have received a cashback of Rs 1500 from UPI Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,pa,link_apk,UPI Rewards,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+996,"ICICI Bank FREE Msg: Your bill is paid.. Thanks, here's a little gift for you: bedy13.com/updat",spam,link_fraud,fake_billing_link,en,link_only,,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+1041,"You have received a cashback of Rs 750 from PhonePe Rewards.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+1055,"INR 5000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_alert,pa,qr_code,Paytm Payments Bank,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+1058,"प्रिय उपयोगकर्ता,
+You have received a cashback of Rs 25000 from PhonePe Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,upi_cashback,hi,qr_code,PhonePe Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+1076,"محترم گاہک،
+You have received a cashback of Rs 1500 from Paytm Cashback.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,pdf_then_apk,Paytm Cashback,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+1077,"You have recieved a cashback of Rs 750 from PhonePe Rewards. कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल. खालील लिंकवरून अॅप इंस्टॉल करा. phonepe-reward.info PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,mr,link_apk,PhonePe Rewards,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+1104,"ਪਿਆਰੇ ਗਾਹਕ,
+You have received a cashback of Rs 5000 from PhonePe Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,attached_file_no_link,PhonePe Rewards,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+1106,"प्रिय ग्राहक,
+You have received a cashback of Rs 50000 from PhonePe Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,upi_cashback,hi,vishing_callback,PhonePe Rewards,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+1111,"प्रिय ग्राहक,
+You have received a cashback of Rs 50000 from PhonePe Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,upi_cashback,hi,no_explicit_app_word,PhonePe Rewards,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+1123,"आदरणीय ग्राहक,
+INR 5000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,mr,attached_file_no_link,Paytm Payments Bank,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+1203,"PNB Free Msg: Your bill is paid. Thanks , here's a little gift for you: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+1216,"عزیز صارف،
+You have received a cashback of Rs 200 from Paytm Cashback.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,ur,link_apk,Paytm Cashback,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+1245,"عزیز صارف،
+You have received a cashback of Rs 500 from UPI Rewards.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,pdf_then_apk,UPI Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+1248,"ਪਿਆਰੇ ਗਾਹਕ,
+You have received a cashback of Rs 5000 from UPI Rewards.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,pdf_then_apk,UPI Rewards,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+1251,"ICICI Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: tinyurl.com/y8mfraud",spam,link_fraud,fake_billing_link,en,link_only,,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+1256,"प्रिय ग्राहक ,
+You have received a cashback of Rs 500 from Paytm Cashback.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,Paytm Cashback,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+1263,"ICICI Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+1333,"You have received a cashback of Rs 25000 from UPI Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,pa,link_apk,UPI Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+1349,"Dear User, You have received a cashback of Rs 200 from UPI Rewards. Kindly respond before midnight, otherwise your connection will be disconnected. Click and open the pdf file below and check your details.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,pdf_then_apk,UPI Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+1366,"आदरणीय ग्राहक,
+You have received a cashback of Rs 1000 from PhonePe Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+1377,"INR 5000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,bn,link_apk,Paytm Payments Bank,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+1396,"You have received a cashback of Rs 750 from UPI Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,pa,link_apk,UPI Rewards,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+1398,"ਪਿਆਰੇ ਗਾਹਕ,
+You have received a cashback of Rs 50000 from PhonePe Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,pdf_then_apk,PhonePe Rewards,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+1411,"প্রিয় গ্রাহক, You have received a cashback of Rs 500 from UPI Rewards. অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে। নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন। [ফরওয়ার্ড করা হয়েছে] UPI_Cashback.apk 14 MB . APK",spam,apk_fraud,upi_cashback,bn,pdf_then_apk,UPI Rewards,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+1422,"You have received a cashback of Rs 25000 from PhonePe Rewards.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,pa,vishing_callback,PhonePe Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+1434,"प्रिय उपयोगकर्ता,
+You have received a cashback of Rs 5000 from PhonePe Rewards.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,upi_cashback,hi,vishing_callback,PhonePe Rewards,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+1458,"শ্রদ্ধেয় গ্রাহক,
+You have received a cashback of Rs 1500 from Paytm Cashback.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,bn,link_apk,Paytm Cashback,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+1469,"அன்புள்ள வாடிக்கையாளர்,
+INR 50000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_alert,ta,qr_code,Paytm Payments Bank,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+1470,"You have received a cashback of Rs 50000 from UPI Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,attached_file_no_link,UPI Rewards,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+1471,"प्रिय ग्राहक,
+You have received a cashback of Rs 1000 from Paytm Cashback.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,pdf_then_apk,Paytm Cashback,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+1492,"HDFC Bank Free Msg: Your bill is paid. Thanks, here's A little gift for you: bedy13.com/updat",spam,link_fraud,fake_billing_link,en,link_only,,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+1529,"You have received a cashback of Rs 200 from PhonePe Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,pa,link_apk,PhonePe Rewards,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+1545,"प्रिय उपयोगकर्ता,
+You have recieved a cashback of Rs 25000 from PhonePe Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+1560,"Axis Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: bedy13.com/update",spam,link_fraud,fake_billing_link,en,link_only,,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+1566,"HDFC Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: bit.ly/3xK9pL",spam,link_fraud,fake_billing_link,en,link_only,,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+1571,"প্রিয় গ্রাহক,
+You have received a cashback of Rs 500 from UPI Rewards.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,upi_cashback,bn,no_explicit_app_word,UPI Rewards,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+1608,"आदरणीय ग्राहक,
+You have received a cashback of Rs 25000 from Paytm Cashback.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,upi_cashback,mr,qr_code,Paytm Cashback,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+1612,"You have received a cashback of Rs 1000 from UPI Rewards.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,UPI Rewards,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+1629,"PhonePe Rewards இலிருந்து ரூ 1000 கேஷ்பேக் பெற்றுள்ளீர்கள்.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும் , இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check ur details.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ta,pdf_then_apk,PhonePe Rewards,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+1634,"You have received a cashback of Rs 1000 from Paytm Cashback.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,pdf_then_apk,Paytm Cashback,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+1639,"SBI Free Msg: Your bill is paid. Thanks, here's a little gift for you: bedy13.com/update",spam,link_fraud,fake_billing_link,en,link_only,,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+1647,"INR 200 was debited from your Paytm Payments Bank account. If this was not done by you , secure your account now.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,bn,attached_file_no_link,Paytm Payments Bank,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+1651,"عزیز صارف،
+You have received a cashback of Rs 5000 from UPI Rewards.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,upi_cashback,ur,qr_code,UPI Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+1668,"प्रिय ग्राहक,
+You have received a cashback of Rs 5000 from Paytm Cashback.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,Paytm Cashback,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+1669,"प्रिय ग्राहक,
+You have received a cashback of Rs 25000 from Paytm Cashback.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,Paytm Cashback,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+1674,"You have received a cashback of Rs 200 from Paytm Cashback. कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। paytm-cashback-claim.tk Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,Paytm Cashback,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+1691,"Dear Sir/Madam, INR 25000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now. Kindly respond today itself, otherwise you will lose this offer. Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,pdf_then_apk,Paytm Payments Bank,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+1692,"You have received a cashback of Rs 1000 from Paytm Cashback. Please act within 24 hours or your connection will be disconnected. Click the link below and install the app to proceed.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,Paytm Cashback,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+1701,"HDFC BANK Free Msg: Your bill is paid. Thanks, here's a little gift for you: e5nbu.xyz/claim",spam,link_fraud,fake_billing_link,en,link_only,,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+1713,"You have received a cashback of Rs 1500 from PhonePe Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,pa,link_apk,PhonePe Rewards,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+1727,"শ্রদ্ধেয় গ্রাহক,
+You have received a cashback of Rs 500 from PhonePe Rewards.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,bn,link_apk,PhonePe Rewards,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+1785,"ਪਿਆਰੇ ਗਾਹਕ,
+INR 5000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,pa,link_apk,Paytm Payments Bank,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+1786,"PNB Free Msg: Your bill is paid.. Thanks, here's a little gift for you: bedy13.com/update",spam,link_fraud,fake_billing_link,en,link_only,,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+1807,"You have received a cashback of Rs 5000 from Paytm Cashback. कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा. [फॉरवर्ड केलेले] Paytm_Cashback.apk 14 MB . APK",spam,apk_fraud,upi_cashback,mr,pdf_then_apk,Paytm Cashback,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+1825,"প্রিয় গ্রাহক , INR 1500 was debited from your Paytm Payments Bank account.. If this was not done by you, secure your account now. অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে। অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন। [ফরওয়ার্ড করা হয়েছে] Paytm_Secure.apk 14 MB . APK",spam,apk_fraud,bank_alert,bn,attached_file_no_link,Paytm Payments Bank,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+1828,"You have received a cashback of Rs 750 from Paytm Cashback.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,mr,vishing_callback,Paytm Cashback,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+1829,"प्रिय ग्राहक,
+You have received a cashback of Rs 25000 from PhonePe Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,PhonePe Rewards,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+1835,"ICICI Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: e5nbu.xyz/claim",spam,link_fraud,fake_billing_link,en,link_only,,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+1845,"You have received a cashback of Rs 5000 from Paytm Cashback.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,upi_cashback,mr,qr_code,Paytm Cashback,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+1846,"आदरणीय ग्राहक,
+You have received a cashback of Rs 5000 from Paytm Cashback.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,Paytm Cashback,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+1869,"प्रिय उपयोगकर्ता, You have received a cashback of Rs 25000 from PhonePe Rewards.. कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,upi_cashback,hi,vishing_callback,PhonePe Rewards,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+1872,"Dear Vehicle Owner, You have received a cashback of Rs 1500 from UPI Rewards. Please act immediately or your account will be blocked. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,upi_cashback,en,qr_code,UPI Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+1904,"You have received a cashback of Rs 750 from UPI Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,UPI Rewards,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+1909,"INR 1500 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,ta,attached_file_no_link,Paytm Payments Bank,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+1930,"HDFC Bank Free MSG: Your bill is paid. Thanks, here's a little gift for you: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+1948,"You have received a cashback of Rs 25000 from Paytm Cashback.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,pdf_then_apk,Paytm Cashback,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+1953,"प्रिय ग्राहक,
+You have received a cashback of Rs 25000 from Paytm Cashback.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,Paytm Cashback,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+1988,"प्रिय ग्राहक,
+You have received a cashback of Rs 25000 from UPI Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,UPI Rewards,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+2011,"Dear Vehicle Owner, You have received a cashback of Rs 50000 from PhonePe Rewards. Please act immediately or legal action will be taken against you. Click the link below and install the app to proceed.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,en,link_apk,PhonePe Rewards,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+2038,"You have received a cashback of Rs 2000 from PhonePe Rewards. कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] PhonePe_Reward.apk 14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,PhonePe Rewards,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+2040,"You have received a cashback of Rs 1000 from PhonePe Rewards.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,upi_cashback,ur,qr_code,PhonePe Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+2045,"प्रिय उपयोगकर्ता,
+You have received a cashback of Rs 1000 from Paytm Cashback.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,Paytm Cashback,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+2046,"Axis Bank Free Msg: Your bill is PAID. Thanks, here's a little gift for you: tinyurl.com/y8mfraud",spam,link_fraud,fake_billing_link,en,link_only,,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+2050,"प्रिय उपयोगकर्ता, You have received a cashback of RS 200 from PhonePe Rewards. कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। phonepe-reward.info PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+2051,"You have received a cashback of Rs 50000 from Paytm Cashback.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,attached_file_no_link,Paytm Cashback,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+2081,"You have recieved a cashback of Rs 1000 from PhonePe Rewards. Kindly respond today itself , otherwise your account will be blocked. Click the link below and install the app to proceed.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,en,link_apk,PhonePe Rewards,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+2089,"শ্রদ্ধেয় গ্রাহক,
+You have received a cashback of Rs 2000 from UPI Rewards.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,bn,vishing_callback,UPI Rewards,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+2100,"Dear User, INR 200 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now. Kindly respond right now to avoid penalty, otherwise your connection will be disconnected. Click the link below and install the app to proceed.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,en,link_apk,Paytm Payments Bank,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+2109,"प्रिय ग्राहक,
+You have received a cashback of Rs 50000 from UPI Rewards.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,upi_cashback,hi,no_explicit_app_word,UPI Rewards,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+2128,"Axis Bank Free Msg: Your bill is paid. Thanks, here's a little gift for YOU: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+2135,"प्रिय ग्राहक,
+You have received a cashback of Rs 1000 from PhonePe Rewards.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,PhonePe Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+2147,"HDFC Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+2158,"Dear Vehicle Owner, You have received a cashback of Rs 750 from Paytm Cashback. Kindly respond before midnight, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,Paytm Cashback,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+2161,"प्रिय ग्राहक,
+You have received a cashback of Rs 200 from PhonePe Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+2187,"PNB Free Msg: Your bill is paid. Thanks, here's a little GIFT for you: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+2194,"PNB Free Msg: Your bill is paid. Thanks, here's a little gift for you: bedy13.com/update",spam,link_fraud,fake_billing_link,en,link_only,,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+2234,"You have received a cashback of Rs 750 from PhonePe Rewards..
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,pa,link_apk,PhonePe Rewards,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+2239,"You have received a cashback of Rs 500 from UPI Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,UPI Rewards,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+2265,"Attention Customer, You have received a cashback of Rs 1000 from Paytm Cashback. Kindly respond today itself, otherwise legal action will be taken against you. Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,pdf_then_apk,Paytm Cashback,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+2287,"PNB Free Msg: Your bill is paid. Thanks, here's a little gift for you: e3fmr.info/track",spam,link_fraud,fake_billing_link,en,link_only,,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+2300,"প্রিয় গ্রাহক,
+You have received a cashback of Rs 5000 from Paytm Cashback.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,bn,link_apk,Paytm Cashback,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+2303,"Dear Customer, You have received a cashback of Rs 500 from Paytm Cashback. Please act within 3 days or legal action will be taken or you will lose this offer. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,upi_cashback,en,qr_code,Paytm Cashback,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+2315,"प्रिय ग्राहक, You have received a cashback of Rs 50000 from PhonePe Rewards. कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। phonepe-reward.info PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+2350,"आदरणीय ग्राहक, You have recieved a cashback of Rs 1000 from PhonePe Rewards. कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] PHONEPE_REWARD.APK 14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,PhonePe Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+2356,"HDFC Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: tinyurl.com/y8mfraud",spam,link_fraud,fake_billing_link,en,link_only,,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+2371,"प्रिय ग्राहक,
+You have received a cashback of Rs 5000 from Paytm Cashback.
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,upi_cashback,hi,vishing_callback,Paytm Cashback,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+2388,"प्रिय ग्राहक,
+You have received a cashback of Rs 5000 from PhonePe Rewards.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,PhonePe Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+2420,"You have received a cashback of Rs 1000 from Paytm Cashback. Kindly respond today itself, otherwise you will lose this offer. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,en,vishing_callback,Paytm Cashback,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+2424,محترم گاہک، You have received a cashback of Rs 750 from PhonePe Rewards. براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔ نیچے دیے گئے لنک سے ایپ انسٹال کریں۔ phonepe-reward.info PhonePe_Reward.apk,spam,apk_fraud,upi_cashback,ur,link_apk,PhonePe Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+2447,"प्रिय ग्राहक,
+You have received a cashback of Rs 50000 from UPI Rewards.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,upi_cashback,hi,qr_code,UPI Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+2448,"ਪਿਆਰੇ ਗਾਹਕ,
+You have received a cashback of Rs 500 from Paytm Cashback.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,attached_file_no_link,Paytm Cashback,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+2494,"INR 500 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,pa,link_apk,Paytm Payments Bank,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+2498,"आदरणीय ग्राहक,
+You have received a cashback of Rs 200 from UPI Rewards.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,mr,vishing_callback,UPI Rewards,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+2504,"INR 750 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,bn,attached_file_no_link,Paytm Payments Bank,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+2516,"प्रिय ग्राहक,
+You have received a cashback of Rs 1500 from UPI Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,pdf_then_apk,UPI Rewards,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+2547,"PhonePe Rewards இலிருந்து ரூ 1000 கேஷ்பேக் பெற்றுள்ளீர்கள்.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ta,attached_file_no_link,PhonePe Rewards,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+2550,"ICICI Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: bit.ly/3xK9pL",spam,link_fraud,fake_billing_link,en,link_only,,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+2552,"Dear User, You have received a cashback of Rs 500 from Paytm Cashback. Kindly respond immediatly, otherwise your connection will be disconnected. Click the link below and install the app to proceed.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,Paytm Cashback,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+2554,"அன்புள்ள வாடிக்கையாளர்,
+INR 1000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_alert,ta,no_explicit_app_word,Paytm Payments Bank,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+2576,"Dear Customer, You have received a cashback of Rs 750 from Paytm Cashback. Kindly respond within 3 days or legal action will be taken, otherwise your service will be suspended permanently. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,en,no_explicit_app_word,Paytm Cashback,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+2636,"محترم گاہک،
+You have received a cashback of Rs 50000 from PhonePe Rewards.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,attached_file_no_link,PhonePe Rewards,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+2644,"आदरणीय ग्राहक,
+INR 50000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,mr,vishing_callback,Paytm Payments Bank,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+2672,"عزیز صارف،
+INR 25000 was debited from your Paytm Payments Bank account.. If this was not done by you, secure your account now.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,ur,pdf_then_apk,Paytm Payments Bank,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+2674,"You have received a cashback of Rs 1000 from PhonePe Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+2682,"You have received a cashback of Rs 5000 from PhonePe Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,pdf_then_apk,PhonePe Rewards,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+2713,"Axis Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: e3fmr.info/track",spam,link_fraud,fake_billing_link,en,link_only,,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+2734,"அன்புள்ள வாடிக்கையாளர்,
+Paytm Cashback இலிருந்து ரூ 200 கேஷ்பேக் பெற்றுள்ளீர்கள்.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,ta,link_apk,Paytm Cashback,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+2745,"PhonePe Rewards இலிருந்து ரூ 500 கேஷ்பேக் பெற்றுள்ளீர்கள்.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ta,attached_file_no_link,PhonePe Rewards,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+2746,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+You have received a cashback of Rs 500 from Paytm Cashback.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,pdf_then_apk,Paytm Cashback,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+2762,"प्रिय ग्राहक,
+You have received a cashback of Rs 500 from UPI Rewards.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,UPI Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+2785,"आदरणीय ग्राहक,
+You have received a cashback of Rs 2000 from PhonePe Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+2791,"You have received a cashback of Rs 2000 from UPI Rewards. Kindly respond before midnight, otherwise your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,attached_file_no_link,UPI Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+2834,"Dear Vehicle Owner, You have received a cashback of Rs 1000 from Paytm Cashback. Please act within 24 hours or legal action will be taken against you. Please check the attached file for full details and open it to proceed.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,attached_file_no_link,Paytm Cashback,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+2843,"Dear Sir/Madam, INR 500 was debited from your RBL Bank account. If this was not done by you, secure your account now. Kindly respond immediately, otherwise you will lose this offer. Click and open the pdf file below and check your details.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,pdf_then_apk,RBL Bank,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+2854,"প্রিয় গ্রাহক,
+INR 50000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,bn,link_apk,Paytm Payments Bank,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+2888,"आदरणीय ग्राहक,
+You have received a cashback of Rs 1500 from Paytm Cashback.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,pdf_then_apk,Paytm Cashback,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+2901,"You have received a cashback of Rs 200 from Paytm Cashback.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,ur,link_apk,Paytm Cashback,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+2910,"Dear Sir/Madam, You have received a cashback of Rs 25000 from PhonePe Rewards. Kindly respond before midnight, otherwise you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,attached_file_no_link,PhonePe Rewards,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+2918,"प्रिय ग्राहक,
+You have received a cashback of Rs 25000 from Paytm Cashback.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,upi_cashback,hi,vishing_callback,Paytm Cashback,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+2921,"You have received a cashback of Rs 5000 from Paytm Cashback.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,Paytm Cashback,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+2967,"Dear User, You have received a cashback of Rs 2000 from PhonePe Rewards. Please act before midnight or your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,attached_file_no_link,PhonePe Rewards,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+2974,"प्रिय उपयोगकर्ता,
+You have received a cashback of Rs 50000 from PhonePe Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,upi_cashback,hi,no_explicit_app_word,PhonePe Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+2979,"You have received a cashback of Rs 750 from Paytm Cashback.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,bn,link_apk,Paytm Cashback,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+2985,"You have received a cashback of Rs 50000 from UPI Rewards.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,UPI Rewards,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+2989,"You have RECEIVED a cashback of Rs 50000 from PhonePe Rewards. অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন , নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে। নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন। phonepe-reward.info PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,bn,link_apk,PhonePe Rewards,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+3006,"ICICI Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: bedy13.com/updat",spam,link_fraud,fake_billing_link,en,link_only,,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+3012,"You have received a cashback of Rs 1500 from Paytm Cashback.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,ur,no_explicit_app_word,Paytm Cashback,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+3016,"Attention Customer, You have received a cashback of Rs 500 from UPI Rewards. Please act within 24 hours or legal action will be taken against you. Click the link below and install the app to proceed.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,UPI Rewards,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+3017,"You have received a cashback of Rs 50000 from Paytm Cashback.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,upi_cashback,mr,no_explicit_app_word,Paytm Cashback,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+3032,"You have received a cashback of Rs 1000 from UPI Rewards. ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ। [ਅੱਗੇ ਭੇਜਿਆ] UPI_Cashback.apk 14 MB . APK",spam,apk_fraud,upi_cashback,pa,attached_file_no_link,UPI Rewards,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+3040,"You have received a cashback of Rs 1500 from PhonePe Rewards.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,ur,link_apk,PhonePe Rewards,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+3093,"आदरणीय ग्राहक, You have received a cashback of Rs 750 from PhonePe Rewards. कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] PhonePe_Reward.apk 14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,PhonePe Rewards,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+3096,"Dear Customer, You have received a cashback of Rs 5000 from UPI Rewards. Kindly respond before midnight, otherwise you will lose this offer. Click the link below and install the app to proceed.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,UPI Rewards,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+3103,"Dear Customer, You have received a cashback of Rs 200 from PhonePe Rewards. Kindly respond today itself, otherwise you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,attached_file_no_link,PhonePe Rewards,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+3121,"आदरणीय ग्राहक, You have received a cashback of Rs 50000 from UPI Rewards. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा. [फॉरवर्ड केलेले] UPI_Cashback.apk 14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,UPI Rewards,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+3126,"प्रिय ग्राहक,
+You have received a cashback of Rs 500 from UPI Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,mr,link_apk,UPI Rewards,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+3130,"You have received a cashback of Rs 1000 from PhonePe Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+3162,"Dear Vehicle Owner, INR 1000 was debited from ur Paytm Payments Bank account. If this was NOT done by you, secure your account now. Kindly respond within 3 days or legal action will be taken, otherwise you will lose this offer. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_alert,en,qr_code,Paytm Payments Bank,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+3183,"INR 50000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,ta,pdf_then_apk,Paytm Payments Bank,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+3184,"You have received a cashback of Rs 1000 from PhonePe Rewards.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,ur,link_apk,PhonePe Rewards,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+3189,"आदरणीय ग्राहक , You have received a cashback of Rs 25000 from PhonePe Rewards. कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें। [अग्रेषित] PhonePe_Reward.apk 14 MB . APK",spam,apk_fraud,upi_cashback,hi,pdf_then_apk,PhonePe Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+3193,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+You have received a cashback of Rs 200 from UPI Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,attached_file_no_link,UPI Rewards,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+3250,"محترم گاہک،
+You have received a cashback of Rs 50000 from Paytm Cashback.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,attached_file_no_link,Paytm Cashback,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+3278,"You have received a cashback of Rs 50000 from Paytm Cashback.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,pdf_then_apk,Paytm Cashback,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+3328,"प्रिय उपयोगकर्ता,
+You have received a cashback of Rs 1000 from PhonePe Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+3333,"ICICI Bank Free Msg: Your bill is paid. Thanks , here's a little gift for you: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+3338,"ਪਿਆਰੇ ਗਾਹਕ,
+You have received a cashback of Rs 2000 from PhonePe Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,upi_cashback,pa,qr_code,PhonePe Rewards,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+3367,"आदरणीय ग्राहक,
+INR 200 was debited from your Paytm Payments Bank account.. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_alert,mr,no_explicit_app_word,Paytm Payments Bank,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+3369,"Dear Vehicle Owner, You have received a cashback of Rs 1000 from PhonePe Rewards. Kindly respond before midnight, otherwise you will lose this offer. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,upi_cashback,en,qr_code,PhonePe Rewards,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+3392,"محترم گاہک،
+You have received a cashback of Rs 25000 from PhonePe Rewards.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,attached_file_no_link,PhonePe Rewards,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+3420,"Dear User, You have received a cashback of Rs 2000 from PhonePe Rewards.. Please act today itself or you will lose this offer. There is an important updat regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,en,no_explicit_app_word,PhonePe Rewards,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+3434,"ਪਿਆਰੇ ਗਾਹਕ,
+You have received a cashback of Rs 1500 from Paytm Cashback.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,pdf_then_apk,Paytm Cashback,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+3438,"প্রিয় গ্রাহক,
+You have received a cashback of Rs 500 from UPI Rewards.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,bn,link_apk,UPI Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+3440,"ਪਿਆਰੇ ਗਾਹਕ,
+You have received a cashback of Rs 1500 from PhonePe Rewards.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,pdf_then_apk,PhonePe Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+3444,"ICICI Bank Free Msg: Your bill is paid.. Thanks, here's a little gift for you: e5nbu.xyz/claim",spam,link_fraud,fake_billing_link,en,link_only,,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+3460,"PNB Free Msg: Your bill is paid. Thanks , here's a little gift for you: bit.ly/3xK9pL",spam,link_fraud,fake_billing_link,en,link_only,,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+3504,"محترم گاہک،
+You have recieved a cashback of Rs 50000 from Paytm Cashback.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,attached_file_no_link,Paytm Cashback,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+3515,"அன்புள்ள வாடிக்கையாளர், Paytm Cashback இலிருந்து ரூ 5000 கேஷ்பேக் பெற்றுள்ளீர்கள். தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும். தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும். [அனுப்பப்பட்டது] Paytm_Cashback.apk 14 MB . APK",spam,apk_fraud,upi_cashback,ta,attached_file_no_link,Paytm Cashback,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+3522,"INR 1000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] Paytm_Secure.apk",spam,apk_fraud,bank_alert,ta,no_explicit_app_word,Paytm Payments Bank,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+3545,"You have received a cashback of Rs 1000 from Paytm Cashback.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,Paytm Cashback,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+3552,"INR 1500 was debited from ur Paytm Payments Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,bn,link_apk,Paytm Payments Bank,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+3567,"प्रिय ग्राहक,
+You have received a cashback of Rs 750 from PhonePe Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,upi_cashback,hi,no_explicit_app_word,PhonePe Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+3641,"প্রিয় গ্রাহক,
+You have received a cashback of Rs 50000 from UPI Rewards.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,bn,attached_file_no_link,UPI Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+3656,"आदरणीय ग्राहक,
+You have received a cashback of Rs 200 from Paytm Cashback.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,upi_cashback,hi,qr_code,Paytm Cashback,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+3676,"आदरणीय ग्राहक,
+You have recieved a cashback of Rs 1500 from UPI Rewards.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,mr,attached_file_no_link,UPI Rewards,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+3725,"INR 5000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now. Kindly respond within 24 hours, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,en,link_apk,Paytm Payments Bank,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+3790,"प्रिय उपयोगकर्ता,
+You have received a cashback of Rs 2000 from PhonePe Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+3792,"শ্রদ্ধেয় গ্রাহক,
+You have received a cashback of Rs 50000 from UPI Rewards.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,bn,link_apk,UPI Rewards,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+3851,"You have RECEIVED a cashback of Rs 2000 from Paytm Cashback. ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ। paytm-cashback-claim.tk Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,pa,link_apk,Paytm Cashback,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+3863,"Dear Customer, You have received a cashback of Rs 25000 from UPI Rewards. Kindly respond before midnight, otherwise you will lose this offer. Click the link below and install the app to proceed.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,UPI Rewards,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+3876,"PNB Free MSG: Your bill is paid. Thanks, here's a little gift for you: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+3881,"Attention Customer, You have received a cashback of Rs 750 from Paytm Cashback. Please act within 24 hours or ur connection will be disconnected. Click teh link below and INSTALL the app to proceed. paytm-cashback-claim.tk Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,Paytm Cashback,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+3888,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+You have received a cashback of Rs 200 from Paytm Cashback.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,attached_file_no_link,Paytm Cashback,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+3908,"You have received a cashback of Rs 1500 from Paytm Cashback.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,attached_file_no_link,Paytm Cashback,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+3922,"प्रिय ग्राहक,
+You have received a cashback of Rs 5000 from Paytm Cashback.
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,pdf_then_apk,Paytm Cashback,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+3929,"Dear Vehicle Owner, You have received a cashback of Rs 5000 from PhonePe Rewards. Please act right now to avoid penalty or ur account will be blocked. Click and open the pdf file below and check your details.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,pdf_then_apk,PhonePe Rewards,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+3978,"You have received a cashback of Rs 750 from PhonePe Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,upi_cashback,hi,qr_code,PhonePe Rewards,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+3993,"ਪਿਆਰੇ ਗਾਹਕ,
+INR 1000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,pa,link_apk,Paytm Payments Bank,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+4014,"শ্রদ্ধেয় গ্রাহক,
+You have received a cashback of Rs 750 from PhonePe Rewards.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,bn,link_apk,PhonePe Rewards,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+4019,"आदरणीय ग्राहक,
+You have recieved a cashback of Rs 500 from PhonePe Rewards..
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hi,link_apk,PhonePe Rewards,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+4027,"You have received a cashback of Rs 500 from UPI Rewards.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,UPI Rewards,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+4036,"HDFC Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: e3fmr.info/track",spam,link_fraud,fake_billing_link,en,link_only,,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+4066,"PNB Free Msg: Your bill is paid. Thanks, here's a little gift for you: e5nbu.xyz/claim",spam,link_fraud,fake_billing_link,en,link_only,,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+4074,"Dear User, You have received a cashback of Rs 50000 from PhonePe Rewards. Please act immediately or your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,attached_file_no_link,PhonePe Rewards,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+4085,"प्रिय ग्राहक ,
+INR 200 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,mr,link_apk,Paytm Payments Bank,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+4089,"You have received a cashback of Rs 750 from PhonePe Rewards..
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,pa,link_apk,PhonePe Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+4097,"INR 750 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] Paytm_Secure.apk",spam,apk_fraud,bank_alert,ur,no_explicit_app_word,Paytm Payments Bank,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+4124,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ ,
+You have received a cashback of Rs 200 from UPI Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Scan teh QR code attached to this message to complete verification instantly.",spam,apk_fraud,upi_cashback,pa,qr_code,UPI Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+4141,"You have received a cashback of Rs 1000 from PhonePe Rewards.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,pa,vishing_callback,PhonePe Rewards,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+4143,"SBI Free Msg: Your bill is paid. Thanks, here's a little gift for you: e5nbu.xyz/claim",spam,link_fraud,fake_billing_link,en,link_only,,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+4150,"Dear User, You have received a cashback of Rs 1000 from UPI Rewards.. Please act immediately or your connection will be disconnected. Click the link below and install the app to proceed.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,UPI Rewards,VK-UPIRWD,synthetic_v2,1,upi_payment_fraud
+4151,"Dear Sir/Madam, You have received a cashback of Rs 50000 from PhonePe Rewards. Please act within 24 hours or your connection will be disconnected. Click the link below and install the app to proceed.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,en,link_apk,PhonePe Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+4167,"प्रिय ग्राहक,
+You have received a cashback of Rs 200 from PhonePe Rewards.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,mr,link_apk,PhonePe Rewards,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+4185,"You have received a cashback of Rs 1500 from Paytm Cashback.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,upi_cashback,pa,qr_code,Paytm Cashback,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+4192,"PNB Free Msg: Your bill is PAID. Thanks , here's a little gift for you: bit.ly/3xK9pL",spam,link_fraud,fake_billing_link,en,link_only,,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+4216,"You have received a cashback of Rs 1000 from PhonePe Rewards.
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,pdf_then_apk,PhonePe Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+4234,"SBI FREE Msg: Your bill is paid. Thanks, here's a little gift for you: e5nbu.xyz/claim",spam,link_fraud,fake_billing_link,en,link_only,,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+4249,"ICICI Bank FREE Msg: Your bill is paid. Thanks , here's a little gift for you: tinyurl.com/y8mfraud",spam,link_fraud,fake_billing_link,en,link_only,,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+4268,"Attention Customer, YOU have recieved a cashback of Rs 200 from PhonePe Rewards. Please act today itself or your account will be blocked. Click the link below and install the app to proceed. phonepe-reward.info PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,en,link_apk,PhonePe Rewards,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+4275,"PNB Free Msg: Your bill is paid. Thanks, here's a little gift for you: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+4284,"Axis Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: tinyurl.com/y8mfraud",spam,link_fraud,fake_billing_link,en,link_only,,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+4299,"Dear User, INR 5000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now. Please act before midnight or your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,attached_file_no_link,Paytm Payments Bank,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+4319,"You have received a cashback of Rs 25000 from Paytm Cashback.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,attached_file_no_link,Paytm Cashback,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+4349,"You have received a cashback of Rs 5000 from PhonePe Rewards.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,pdf_then_apk,PhonePe Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+4355,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ, You have received a cashback of Rs 50000 from UPI Rewards. ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। WE tried to reach you regarding your pending issue. Call us back on teh number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,pa,vishing_callback,UPI Rewards,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+4377,"Dear Vehicle Owner, INR 500 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now. Kindly respond immediately, otherwise your service will be suspended permanently. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_alert,en,qr_code,Paytm Payments Bank,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+4380,"শ্রদ্ধেয় গ্রাহক,
+You have received a cashback of Rs 50000 from UPI Rewards..
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,bn,attached_file_no_link,UPI Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+4384,"Dear User, You have received a cashback of Rs 1500 from UPI Rewards. Kindly respond within 24 hours, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,UPI Rewards,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+4389,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+You have received a cashback of Rs 50000 from PhonePe Rewards.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,pdf_then_apk,PhonePe Rewards,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+4392,"HDFC Bank FREE Msg: Your bill is paid. Thanks , here's a little gift for you: bedy13.com/update",spam,link_fraud,fake_billing_link,en,link_only,,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+4410,"PhonePe Rewards இலிருந்து ரூ 200 கேஷ்பேக் பெற்றுள்ளீர்கள்.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check your details.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ta,pdf_then_apk,PhonePe Rewards,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+4421,"ICICI Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: e3fmr.info/track",spam,link_fraud,fake_billing_link,en,link_only,,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+4435,"HDFC Bank Free Msg: Your bill is paid. Thanks , here's a little gift for you: e3fmr.info/track",spam,link_fraud,fake_billing_link,en,link_only,,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+4442,"அன்புள்ள வாடிக்கையாளர்,
+INR 500 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,ta,link_apk,Paytm Payments Bank,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+4464,"Axis Bank Free Msg: Your bill is paid. Thanks, here's a little gift for you: cutt.ly/fakeapp",spam,link_fraud,fake_billing_link,en,link_only,,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+4466,"Dear Sir/Madam, You have received a cashback of Rs 200 from UPI Rewards. Kindly respond immediatly, otherwise your account will be blocked. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,en,vishing_callback,UPI Rewards,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+4471,"Axis Bank Free Msg: Your bill is paid. THANKS, here's a little gift for you: tinyurl.com/y8mfraud",spam,link_fraud,fake_billing_link,en,link_only,,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+4505,"You have received a cashback of Rs 750 from PhonePe Rewards. Kindly respond within 3 days or legal action will be taken, otherwise you will lose this offer. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,en,vishing_callback,PhonePe Rewards,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+4520,"PNB Free MSG: Your bill is paid. Thanks, here's a little gift for you: bedy13.com/update",spam,link_fraud,fake_billing_link,en,link_only,,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+4545,"শ্রদ্ধেয় গ্রাহক,
+You have received a cashback of Rs 1000 from PhonePe Rewards.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,bn,vishing_callback,PhonePe Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+4551,"Dear Vehicle Owner , You have recieved a cashback of Rs 25000 from Paytm Cashback. Kindly respond within 24 hours, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,en,link_apk,Paytm Cashback,+91 7700XXXX45,synthetic_v2,1,upi_payment_fraud
+4556,"HDFC Bank FREE Msg: Your bill is paid. Thanks, here's a little gift for you: tinyurl.com/y8mfraud",spam,link_fraud,fake_billing_link,en,link_only,,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+4561,"Dear Vehicle Owner, You have received a cashback of Rs 500 from Paytm Cashback. Please act within 24 hours or your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,en,attached_file_no_link,Paytm Cashback,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+4588,"आदरणीय ग्राहक,
+You have received a cashback of Rs 2000 from Paytm Cashback.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,upi_cashback,hi,vishing_callback,Paytm Cashback,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud
+4601,"அன்புள்ள வாடிக்கையாளர்,
+PhonePe Rewards இலிருந்து ரூ 1500 கேஷ்பேக் பெற்றுள்ளீர்கள்.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ta,attached_file_no_link,PhonePe Rewards,VK-INDPST,synthetic_v2,1,upi_payment_fraud
+4655,"You have received a cashback of Rs 50000 from UPI Rewards.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,upi_cashback,hi,vishing_callback,UPI Rewards,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+4658,"You have received a cashback of Rs 1000 from Paytm Cashback.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,pdf_then_apk,Paytm Cashback,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+4715,"Dear Sir/Madam, INR 50000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now. Please act within 3 days or legal action will be taken or you will lose this offer. Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,pdf_then_apk,Paytm Payments Bank,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+4744,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+INR 1500 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,pa,link_apk,Paytm Payments Bank,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+4758,"Dear Customer, You have received a cashback of Rs 500 from PhonePe Rewards. Please act immediately or legal action will be taken against you. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,upi_cashback,en,no_explicit_app_word,PhonePe Rewards,VM-SBIBNK,synthetic_v2,1,upi_payment_fraud
+4786,"You have received a cashback of Rs 25000 from Paytm Cashback.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,pa,pdf_then_apk,Paytm Cashback,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+4791,"INR 500 was debited from your Paytm Payments Bank acount. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_alert,pa,no_explicit_app_word,Paytm Payments Bank,JD-ITAXRF,synthetic_v2,1,upi_payment_fraud
+4830,"You have received a cashback of Rs 25000 from Paytm Cashback.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,bn,link_apk,Paytm Cashback,AD-ICICIB,synthetic_v2,1,upi_payment_fraud
+4843,"محترم گاہک،
+You have received a cashback of Rs 50000 from UPI Rewards.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ur,pdf_then_apk,UPI Rewards,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+4857,"PhonePe Rewards இலிருந்து ரூ 200 கேஷ்பேக் பெற்றுள்ளீர்கள்.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ta,attached_file_no_link,PhonePe Rewards,+91 8800XXXX12,synthetic_v2,1,upi_payment_fraud
+4873,"You have received a cashback of Rs 1500 from UPI Rewards.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,pa,link_apk,UPI Rewards,AD-NETFLX,synthetic_v2,1,upi_payment_fraud
+4901,"आदरणीय ग्राहक,
+You have received a cashback of Rs 50000 from Paytm Cashback.
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hi,pdf_then_apk,Paytm Cashback,INFO-GOVT,synthetic_v2,1,upi_payment_fraud
+4929,"PNB Free Msg: Your bill is paid. Thanks, here's a little gift for you: bit.ly/3xK9pL",spam,link_fraud,fake_billing_link,en,link_only,,VK-LOANAP,synthetic_v2,1,upi_payment_fraud
+4953,"You have received a cashback of Rs 500 from PhonePe Rewards.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,bn,attached_file_no_link,PhonePe Rewards,VK-RTOGOV,synthetic_v2,1,upi_payment_fraud
+4960,"INR 5000 was debited from your Paytm Payments Bank account.. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,pa,link_apk,Paytm Payments Bank,VM-WHATSP,synthetic_v2,1,upi_payment_fraud
+4963,"प्रिय ग्राहक,
+You have received a cashback of Rs 25000 from UPI Rewards.
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hi,link_apk,UPI Rewards,AX-PWRBIL,synthetic_v2,1,upi_payment_fraud

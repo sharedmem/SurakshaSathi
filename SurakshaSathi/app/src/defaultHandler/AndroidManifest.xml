@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Manifest overlay for the "defaultHandler" product flavor ONLY (§1.2).
+
+     This is the RESTRICTED SMS-permission path: full READ_SMS/RECEIVE_SMS
+     access via SmsBroadcastReceiver + the RoleManager ROLE_SMS default-handler
+     flow (see DefaultHandlerSmsStrategy). Google Play only allows these
+     permissions if the app is registered as the default SMS handler or is
+     granted an explicit Permissions Declaration Form exception.
+
+     Do NOT ship this flavor to the Play Store without that approval. Use it
+     for enterprise/sideload distribution, or after Play grants the exception.
+     The "notificationOnly" flavor (default, src/main/AndroidManifest.xml) never
+     declares these permissions and needs no such review.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+
+    <application>
+        <receiver
+            android:name=".feature.messagescan.data.receiver.SmsBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true"
+            tools:node="merge"
+            tools:replace="android:enabled" />
+    </application>
+
+</manifest>

@@ -1,0 +1,93 @@
+# Malicious domain blocklist — SMS Sideloading Spam Detector
+# ============================================================
+# One domain per line (lowercase, no scheme/path). Lines starting with '#'
+# are comments and blank lines are ignored (loader in url_intelligence.py
+# does a plain substring/set lookup, so keep entries as bare registrable
+# domains, e.g. "sbi-secure-update.in" not "https://sbi-secure-update.in/x").
+#
+# These are synthetic/illustrative fraud domains matching the patterns used
+# in this project's synthetic training & evaluation datasets (fake banking
+# KYC portals, fake govt e-challan sites, fake courier/delivery trackers,
+# fake loan apps, fake OTT/telecom renewal pages) plus common shortener
+# -abuse and brand-impersonation patterns seen in real Indian smishing
+# campaigns. None of these are live/active malware infrastructure — this
+# is a defensive heuristic seed list, meant to be extended with real
+# threat-intel feeds (e.g. PhishTank, OpenPhish, CERT-In advisories) in
+# production.
+
+# ── Banking / KYC phishing ──────────────────────────────────────────────
+sbi-secure-update.in
+sbi-secure-updat.in
+sbi-update-kyc.top
+sbi-kyc-update.xyz
+sbi-verify-update.xyz
+hdfc-secure-login.icu
+hdfc-kyc-update.in
+icici-verify.xyz
+icici-verify-kyc.xyz
+icici-verifiy-kyc.xyz
+axis-secure-bank.tk
+axis-netbanking.fun
+kotak-secure-kyc.xyz
+pnb-ekyc-verify.xyz
+pnb-ekyc-verifiy.xyz
+bob-update-kyc.in
+rbl-protect-acc.in
+rbl-protect-acc.icu
+rbl-secure.icu
+canara-kyc-update.xyz
+federal-secure-bank.tk
+indusind-kyc-verify.xyz
+
+# ── UPI / wallet / payment fraud ────────────────────────────────────────
+paytm-cashback-claim.cc
+paytm-cashback-claim.tk
+paytm-secure-acc.xyz
+gpay-reward.buzz
+phonepe-cashback.store
+phonepe-reward.in
+upi-cashback-claim.xyz
+bhim-reward-claim.xyz
+powerpay-bill.in
+
+# ── Government / transport impersonation ────────────────────────────────
+aadhaar-update.site
+uidai-verify-update.xyz
+epfo-claim-status.online
+incometax-refund.xyz
+it-refund-portal.in
+pan-verification.live
+e-challan-pay.icu
+echallan-pay.xyz
+rto-echallan.in
+mparivahan-dl.xyz
+parivahan-gov.xyz
+parivahan-sewa.tk
+
+# ── Telecom / recharge fraud ─────────────────────────────────────────────
+jio-recharge-offer.top
+airtel-kyc-update.xyz
+vi-sim-verify.xyz
+
+# ── Delivery / courier fraud ─────────────────────────────────────────────
+fedex-delivery-in.xyz
+bluedart-track.tk
+dtdc-parcel-track.in
+indiapost-track.in
+
+# ── Loan app fraud ────────────────────────────────────────────────────────
+instacredit-loan.in
+quickloan-approve.xyz
+loan-app-instant.xyz
+
+# ── OTT / app-update impersonation ───────────────────────────────────────
+netflix-update-app.xyz
+netflix-updat-app.xyz
+whatsapp-verify-acc.xyz
+whatsapp-verifiy-acc.xyz
+google-secure-login.tk
+
+# ── Fake-app sideloading (direct APK hosting, generic patterns) ─────────
+secure-app-update.xyz
+app-update-secure.top
+bank-app-install.icu

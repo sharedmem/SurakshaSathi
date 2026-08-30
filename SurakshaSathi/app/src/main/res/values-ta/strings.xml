@@ -1,0 +1,19 @@
+<resources>
+    <!-- Tamil (தமிழ்) translations -->
+    <string name="app_name">சுரக்ஷா சாதி</string>
+    <string name="app_tagline">வங்கி ஆன்டி-ஃபிஷிங் கவசம்</string>
+    <string name="rag_warning_notification_title">⚠️ இது போலி வங்கி/YONO செய்தியாக இருக்கலாம்</string>
+    <string name="rag_warning_notification_report_action">புகார் செய்</string>
+    <string name="label_protected">பாதுகாக்கப்பட்டது ✓</string>
+    <string name="label_safe">பாதுகாப்பானது ✓</string>
+    <string name="label_suspicious">சந்தேகத்திற்குரியது ⚠️</string>
+    <string name="label_malicious">தீங்கிழைக்கும் 🚨</string>
+    <string name="action_report">சைபர் குற்றத்தை புகாரளிக்கவும்</string>
+    <string name="action_learn_more">மேலும் அறிக</string>
+    <string name="action_dismiss">மூடு</string>
+    <string name="nav_home">முகப்பு</string>
+    <string name="nav_alerts">எச்சரிக்கைகள்</string>
+    <string name="nav_dashboard">டாஷ்போர்டு</string>
+    <string name="nav_learn">கற்றுக்கொள்</string>
+    <string name="error_network">இணைய இணைப்பு இல்லை. ஆஃப்லைனில் செயல்படுகிறது.</string>
+</resources>

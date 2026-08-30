@@ -1,0 +1,36 @@
+# Python
+.venv/
+__pycache__/
+
+# Large Binary Files (>100MB) and Models
+*.ptl
+*.tflite
+
+# Android Build / IDE Metadata
+.gradle/
+build/
+app/build/
+.kotlin/
+.idea/
+local.properties
+*.jks
+*.iml
+*.log
+
+# Logs and Backups
+*.log
+*.bak
+captures/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*firebase-adminsdk*.json
+google-services.json
+
+# Database backups
+azure_db_full_backup.json
+
+# Others
+Rag_model/scratch/

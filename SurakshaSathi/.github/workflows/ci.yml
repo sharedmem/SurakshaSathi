@@ -1,0 +1,124 @@
+name: SurakshaSathi CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  build-and-test:
+    name: Lint-Detekt-Unit_Tests-Assemble
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+          cache: gradle
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v3
+        with:
+          gradle-version: wrapper
+
+      # Write local.properties from CI secrets (no secrets in source)
+      - name: Create local.properties
+        run: |
+          echo "BACKEND_BASE_URL=${{ secrets.BACKEND_BASE_URL }}" >> local.properties
+          echo "MAPS_API_KEY=${{ secrets.MAPS_API_KEY }}" >> local.properties
+          echo "VIRUSTOTAL_API_KEY=${{ secrets.VIRUSTOTAL_API_KEY }}" >> local.properties
+          echo "USE_OFFLINE_FALLBACK=false" >> local.properties
+
+      - name: Grant Gradle execute permission
+        run: chmod +x gradlew
+
+      # Static Analysis
+      - name: Run Android Lint
+        run: ./gradlew lintNotificationOnlyDebug
+        continue-on-error: false
+
+      - name: Run Detekt
+        run: ./gradlew detekt
+        continue-on-error: false
+
+      - name: Upload lint report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lint-report
+          path: app/build/reports/lint-results-notificationOnlyDebug.html
+
+      # Unit Tests
+      # CI validates the Play-publishable flavor (notificationOnly). The
+      # defaultHandler flavor is exercised locally / in enterprise pipelines.
+      - name: Run unit tests
+        run: ./gradlew testNotificationOnlyDebugUnitTest
+
+      - name: Upload test results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results
+          path: app/build/reports/tests/testNotificationOnlyDebugUnitTest/
+
+      # Build
+      - name: Assemble debug APK
+        run: ./gradlew assembleNotificationOnlyDebug
+
+      - name: Upload debug APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-apk
+          path: app/build/outputs/apk/notificationOnlyDebug/app-notificationOnly-debug.apk
+
+  # Release build (only on main)
+  release-build:
+    name: Signed Release AAB
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    needs: build-and-test
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+          cache: gradle
+
+      - name: Create local.properties
+        run: |
+          echo "BACKEND_BASE_URL=${{ secrets.BACKEND_BASE_URL }}" >> local.properties
+          echo "MAPS_API_KEY=${{ secrets.MAPS_API_KEY }}" >> local.properties
+          echo "VIRUSTOTAL_API_KEY=${{ secrets.VIRUSTOTAL_API_KEY }}" >> local.properties
+          echo "USE_OFFLINE_FALLBACK=false" >> local.properties
+          echo "KEYSTORE_PATH=keystore.jks" >> local.properties
+          echo "KEYSTORE_PASSWORD=${{ secrets.KEYSTORE_PASSWORD }}" >> local.properties
+          echo "KEY_ALIAS=${{ secrets.KEY_ALIAS }}" >> local.properties
+          echo "KEY_PASSWORD=${{ secrets.KEY_PASSWORD }}" >> local.properties
+
+      - name: Decode keystore
+        run: echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 --decode > keystore.jks
+
+      - name: Grant execute permission
+        run: chmod +x gradlew
+
+      # Play Store release — the "notificationOnly" flavor only. The
+      # "defaultHandler" flavor is built via a separate enterprise pipeline.
+      - name: Build release AAB
+        run: ./gradlew bundleNotificationOnlyRelease
+
+      - name: Upload release AAB
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-aab
+          path: app/build/outputs/bundle/notificationOnlyRelease/app-notificationOnly-release.aab

@@ -1,0 +1,726 @@
+id,text,label,subtype,category,language,delivery_mode,brand_used,sender_id,source,cluster_id,cluster_label
+26,"Namaste Customer, Aapka India Post parcel tracking GB-3394-C90 address adhura hone ki wajah se deliver nahi ho paya. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,courier,hg,qr_code,India Post,VK-INDPST,synthetic_v2,0,direct_apk_download
+66,"Namaste Customer, Aapka BlueDart parcel tracking GB-2008-D79 address adhura hone ki wajah se deliver nahi ho paya. aaj hi jawab de, nahi to connection cut ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] BlueDart_Track.apk",spam,apk_fraud,courier,hg,no_explicit_app_word,BlueDart,AD-ICICIB,synthetic_v2,0,direct_apk_download
+117,"শ্রদ্ধেয় গ্রাহক,
+আপনার BlueDart পার্সেল ট্র্যাকিং কোড GB-2667-E61 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,bn,pdf_then_apk,BlueDart,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+133,"आदरणीय ग्राहक,
+आपका India Post पार्सल ट्रैकिंग कोड GB-4027-G18 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,hi,link_apk,India Post,AD-NETFLX,synthetic_v2,0,direct_apk_download
+156,"Dear User, Your DTDC Courier parcel with tracking code GB-2340-A38 could not be delivered due to incomplete address. Kindly respond immediately, otherwise your service will be suspended permanently. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,courier,en,vishing_callback,DTDC Courier,VK-INDPST,synthetic_v2,0,direct_apk_download
+170,"प्रिय ग्राहक, आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-5070-E27 अधूरे पते के कारण वितरित नहीं किया जा सका। कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। dtdc-parcel-track.in DTDC_Parcel.apk",spam,apk_fraud,courier,hi,link_apk,DTDC Courier,VK-LOANAP,synthetic_v2,0,direct_apk_download
+178,"ਪਿਆਰੇ ਗਾਹਕ ,
+Your BlueDart parcel with tracking code GB-5202-F67 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,pa,attached_file_no_link,BlueDart,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+180,"प्रिय उपयोगकर्ता,
+आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-7293-E78 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,hi,attached_file_no_link,DTDC Courier,VK-INDPST,synthetic_v2,0,direct_apk_download
+182,"प्रिय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-8859-H15 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,BlueDart,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+192,"Attention Customer, Your India Post parcel with tracking code GB-2719-G29 could not be delivered due to incomplete address. Kindly respond before midnight, otherwise you will lose this offer. Click and open the pdf file below and check your details.
+[Forwarded] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,en,pdf_then_apk,India Post,VK-UPIRWD,synthetic_v2,0,direct_apk_download
+229,"عزیز صارف،
+Your BlueDart parcel with tracking code GB-3911-C66 could not be delivered due to incomplete address.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,courier,ur,qr_code,BlueDart,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+254,"प्रिय उपयोगकर्ता,
+आपका India Post पार्सल ट्रैकिंग कोड GB-5230-G97 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,courier,hi,qr_code,India Post,VK-LOANAP,synthetic_v2,0,direct_apk_download
+304,"عزیز صارف،
+Your India Post parcel with tracking code GB-5616-A59 could not be delivered due to incomplete address.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,ur,attached_file_no_link,India Post,VK-LOANAP,synthetic_v2,0,direct_apk_download
+320,"प्रिय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-6310-H79 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,BlueDart,VM-WHATSP,synthetic_v2,0,direct_apk_download
+335,"प्रिय उपयोगकर्ता, आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-8821-F93 अधूरे पते के कारण वितरित नहीं किया जा सका। कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। dtdc-parcel-track.in DTDC_Parcel.apk",spam,apk_fraud,courier,hi,link_apk,DTDC Courier,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+341,"Dear User, Your BlueDart parcel with tracking code GB-9346-G96 could not be delivered due to incomplete address. Kindly respond immediately, otherwise legal action will be taken against you. Click the link below and install the app to proceed.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,en,link_apk,BlueDart,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+349,"ਪਿਆਰੇ ਗਾਹਕ,
+Your India Post parcel with tracking code GB-1393-B48 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,pa,attached_file_no_link,India Post,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+437,"Priya Grahak, Aapka FedEx parcel tracking GB-8784-G10 address adhura hone ki wajah se deliver nahi ho paya.. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,courier,hg,qr_code,FedEx,VK-LOANAP,synthetic_v2,0,direct_apk_download
+440,"तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-3748-A29 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,pdf_then_apk,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+452,"அன்புள்ள வாடிக்கையாளர்,
+Your BlueDart parcel with tracking code GB-2606-C43 could not be delivered due to incomplete address.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,ta,attached_file_no_link,BlueDart,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+487,"तुमचे India Post पार्सल ट्रॅकिंग कोड GB-7401-B59 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,India Post,VM-WHATSP,synthetic_v2,0,direct_apk_download
+500,"Dear Sir/Madam, Your BlueDart parcel with tracking code GB-8556-E88 could not be delivered due to incomplete address. Please act before midnight or your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,en,attached_file_no_link,BlueDart,AD-ICICIB,synthetic_v2,0,direct_apk_download
+522,"प्रिय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-6698-F30 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,mr,link_apk,BlueDart,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+530,"Aapka BlueDart parcel tracking GB-7519-A64 address adhura hone ki wajah se deliver nahi ho paya. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,BlueDart,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+544,"ਪਿਆਰੇ ਗਾਹਕ,
+Your India Post parcel with tracking code GB-4846-B80 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,pa,link_apk,India Post,INFO-GOVT,synthetic_v2,0,direct_apk_download
+549,"Aapka FedEx parcel tracking GB-1482-C48 address adhura hone ki wajah se deliver nahi ho paya. turant jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] FedEx_Delivery.apk  14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,FedEx,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+580,"Dear Vehicle Owner, Your DTDC Courier parcel with tracking code GB-8516-F13 could not be delivered due to incomplete address. Please act within 24 hours or your service will be suspended permanently. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,courier,en,qr_code,DTDC Courier,VM-WHATSP,synthetic_v2,0,direct_apk_download
+597,"Priya Grahak, Aapka India Post parcel tracking GB-6409-F94 address adhura hone ki wajah se deliver nahi ho paya. aaj hi jawab de, nahi to connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,hg,pdf_then_apk,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+600,"அன்புள்ள வாடிக்கையாளர்,
+Your DTDC Courier parcel with tracking code GB-6871-B10 could not be delivered due to incomplete address.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,ta,attached_file_no_link,DTDC Courier,AD-ICICIB,synthetic_v2,0,direct_apk_download
+639,"आदरणीय ग्राहक,
+आपका India Post पार्सल ट्रैकिंग कोड GB-2901-D85 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] IndiaPost_Track.apk",spam,apk_fraud,courier,hi,no_explicit_app_word,India Post,VK-UPIRWD,synthetic_v2,0,direct_apk_download
+726,"प्रिय उपयोगकर्ता,
+आपका BlueDart पार्सल ट्रैकिंग कोड GB-2374-H51 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,hi,link_apk,BlueDart,VM-WHATSP,synthetic_v2,0,direct_apk_download
+728,"Dear Customer, Aapka BlueDart parcel tracking GB-5054-G59 address adhura hone ki wajah se deliver nahi ho paya. aaj hi jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,hg,link_apk,BlueDart,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+749,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your DTDC Courier parcel with tracking code GB-5647-B16 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,pa,attached_file_no_link,DTDC Courier,VM-WHATSP,synthetic_v2,0,direct_apk_download
+794,"आपका India Post पार्सल ट्रैकिंग कोड GB-8023-G97 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,hi,attached_file_no_link,India Post,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+826,"प्रिय उपयोगकर्ता,
+आपका BlueDart पार्सल ट्रैकिंग कोड GB-6990-A92 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,courier,hi,vishing_callback,BlueDart,AD-ICICIB,synthetic_v2,0,direct_apk_download
+849,"Dear Sir/Madam, Your BlueDart parcel with tracking code GB-9115-C35 could not be delivered due to incomplete address. Kindly respond right now to avoid penalty, otherwise your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,en,attached_file_no_link,BlueDart,VK-LOANAP,synthetic_v2,0,direct_apk_download
+853,"Dear Customer, Aapka DTDC Courier parcel tracking GB-5826-H73 address adhura hone ki wajah se deliver nahi ho paya. turant jawab de, nahi to legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,courier,hg,vishing_callback,DTDC Courier,VM-WHATSP,synthetic_v2,0,direct_apk_download
+879,"आदरणीय ग्राहक,
+आपका BlueDart पार्सल ट्रैकिंग कोड GB-6292-A28 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,courier,hi,vishing_callback,BlueDart,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+900,"Your India Post parcel with tracking code GB-5892-G63 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,pa,attached_file_no_link,India Post,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+912,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your BlueDart parcel with tracking code GB-8924-A68 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,pa,attached_file_no_link,BlueDart,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+917,محترم گاہک، Your DTDC Courier parcel with tracking code GB-3734-H70 could not be delivered due to incomplete address. براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔ نیچے دیے گئے لنک سے ایپ انسٹال کریں۔ dtdc-parcel-track.in DTDC_Parcel.apk,spam,apk_fraud,courier,ur,link_apk,DTDC Courier,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+929,"Priya Grahak, Aapka FedEx parcel tracking GB-8192-A47 address adhura hone ki wajah se deliver nahi ho paya. Kripya aaj hi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+fedex-delivery-in.xyz
+FedEx_Delivery.apk",spam,apk_fraud,courier,hg,link_apk,FedEx,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+932,"আপনার DTDC Courier পার্সেল ট্র্যাকিং কোড GB-8005-G15 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,bn,link_apk,DTDC Courier,VK-LOANAP,synthetic_v2,0,direct_apk_download
+933,"প্রিয় গ্রাহক,
+আপনার India Post পার্সেল ট্র্যাকিং কোড GB-7567-E36 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,bn,attached_file_no_link,India Post,VK-UPIRWD,synthetic_v2,0,direct_apk_download
+941,"প্রিয় গ্রাহক,
+আপনার DTDC Courier পার্সেল ট্র্যাকিং কোড GB-7308-D72 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,bn,link_apk,DTDC Courier,INFO-GOVT,synthetic_v2,0,direct_apk_download
+983,"Priya Grahak, Aapka DTDC Courier parcel tracking GB-5244-A33 address adhura hone ki wajah se deliver nahi ho paya. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,courier,hg,qr_code,DTDC Courier,AD-NETFLX,synthetic_v2,0,direct_apk_download
+984,"Namaste Customer, Aapka FedEx parcel tracking GB-4281-G39 address adhura hone ki wajah se deliver nahi ho paya. Kripya aaj hi action le, warna aapka account block ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] FedEx_Delivery.apk",spam,apk_fraud,courier,hg,no_explicit_app_word,FedEx,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+989,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your India Post parcel with tracking code GB-6251-G79 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,pa,link_apk,India Post,VK-LOANAP,synthetic_v2,0,direct_apk_download
+1000,"Your DTDC Courier parcel with tracking code GB-6499-E63 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,pa,link_apk,DTDC Courier,INFO-GOVT,synthetic_v2,0,direct_apk_download
+1063,"Your BlueDart parcel with tracking code GB-9029-E97 could not be delivered due to incomplete address.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] BlueDart_Track.apk",spam,apk_fraud,courier,ur,no_explicit_app_word,BlueDart,AD-ICICIB,synthetic_v2,0,direct_apk_download
+1105,"ਪਿਆਰੇ ਗਾਹਕ,
+Your DTDC Courier parcel with tracking code GB-6339-F11 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,courier,pa,qr_code,DTDC Courier,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+1135,"Your BlueDart parcel with tracking code GB-3816-A75 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,pa,attached_file_no_link,BlueDart,VK-INDPST,synthetic_v2,0,direct_apk_download
+1137,"आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-6684-D39 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,hi,pdf_then_apk,DTDC Courier,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+1202,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your India Post parcel with tracking code GB-9259-E41 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,pa,pdf_then_apk,India Post,VK-RTOGOV,synthetic_v2,0,direct_apk_download
+1229,"प्रिय ग्राहक,
+आपका BlueDart पार्सल ट्रैकिंग कोड GB-1469-G58 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hi,pdf_then_apk,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+1249,"Aapka BlueDart parcel tracking GB-1533-E53 address adhura hone ki wajah se deliver nahi ho paya. turant jawab de, nahi to aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hg,pdf_then_apk,BlueDart,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+1259,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your India Post parcel with tracking code GB-9749-D34 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,pa,attached_file_no_link,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+1281,"Namaste Customer, Aapka India Post parcel tracking GB-7852-C53 address adhura hone ki wajah se deliver nahi ho paya. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,hg,link_apk,India Post,INFO-GOVT,synthetic_v2,0,direct_apk_download
+1296,"आदरणीय ग्राहक, आपका India Post पार्सल ट्रैकिंग कोड GB-2861-C71 अधूरे पते के कारण वितरित नहीं किया जा सका। कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। indiapost-track.info IndiaPost_Track.apk",spam,apk_fraud,courier,hi,link_apk,India Post,VK-RTOGOV,synthetic_v2,0,direct_apk_download
+1312,"आपका BlueDart पार्सल ट्रैकिंग कोड GB-6902-H30 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hi,attached_file_no_link,BlueDart,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+1371,"Priya Grahak, Aapka India Post parcel tracking GB-4492-G23 address adhura hone ki wajah se deliver nahi ho paya. turant jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,hg,link_apk,India Post,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+1385,"Your BlueDart parcel with tracking code GB-1198-G91 could not be delivered due to incomplete address. Kindly respond immediately, otherwise your connection will be disconnected. Click and open the pdf file below and check your details.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,en,pdf_then_apk,BlueDart,VK-UPIRWD,synthetic_v2,0,direct_apk_download
+1399,"عزیز صارف،
+Your DTDC Courier parcel with tracking code GB-3082-F90 could not be delivered due to incomplete address.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,courier,ur,vishing_callback,DTDC Courier,VK-UPIRWD,synthetic_v2,0,direct_apk_download
+1402,"Namaste Customer, Aapka India Post parcel tracking GB-3292-A34 address adhura hone ki wajah se deliver nahi ho paya. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,India Post,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+1436,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your India Post parcel with tracking code GB-6752-G68 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,pa,link_apk,India Post,VK-LOANAP,synthetic_v2,0,direct_apk_download
+1449,"Namaste Customer, Aapka India Post parcel tracking GB-1334-A81 address adhura hone ki wajah se deliver nahi ho paya.. jaldi se JALDI jawab de, nahi to aapka account block ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare. [Forwarded] IndiaPost_Track.apk",spam,apk_fraud,courier,hg,no_explicit_app_word,India Post,VK-LOANAP,synthetic_v2,0,direct_apk_download
+1456,"आपका India Post पार्सल ट्रैकिंग कोड GB-1076-A58 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,hi,link_apk,India Post,VK-INDPST,synthetic_v2,0,direct_apk_download
+1518,"Dear Sir/Madam, Your India Post parcel with tracking code GB-7346-F27 could not be delivered due to incomplete address. Please act within 24 hours or your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,en,attached_file_no_link,India Post,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+1546,"Dear User, Your India Post parcel with tracking code GB-3750-C15 could not be delivered due to incomplete address. Please act within 24 hours or your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,en,attached_file_no_link,India Post,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+1552,"प्रिय उपयोगकर्ता, आपका India Post पार्सल ट्रैकिंग कोड GB-4873-G41 अधूरे पते के कारण वितरित नहीं किया जा सका। कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें। [अग्रेषित] IndiaPost_Track.apk 14 MB . APK",spam,apk_fraud,courier,hi,pdf_then_apk,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+1592,"Dear User, Your BlueDart parcel with tracking code GB-7875-G16 could not be delivered due to incomplete address. Please act immediately or you will lose this offer. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,courier,en,qr_code,BlueDart,VK-INDPST,synthetic_v2,0,direct_apk_download
+1594,"அன்புள்ள வாடிக்கையாளர்,
+Your India Post parcel with tracking code GB-1359-G45 could not be delivered due to incomplete address.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,courier,ta,vishing_callback,India Post,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+1607,"عزیز صارف،
+Your BlueDart parcel with tracking code GB-6166-H49 could not be delivered due to incomplete address.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,ur,attached_file_no_link,BlueDart,VK-RTOGOV,synthetic_v2,0,direct_apk_download
+1657,"Attention Customer, Your India Post parcel with tracking code GB-4149-G33 could not be delivered due to incomplete address. Kindly respond before midnight, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,en,link_apk,India Post,VK-LOANAP,synthetic_v2,0,direct_apk_download
+1658,"प्रिय ग्राहक,
+आपका India Post पार्सल ट्रैकिंग कोड GB-9882-H17 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,courier,hi,qr_code,India Post,AD-NETFLX,synthetic_v2,0,direct_apk_download
+1682,"Your DTDC Courier parcel with tracking code GB-2759-F64 could not be delivered due to incomplete address.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,ur,pdf_then_apk,DTDC Courier,AD-NETFLX,synthetic_v2,0,direct_apk_download
+1690,"Dear Customer, Your BlueDart parcel with tracking code GB-8279-D87 could not be DELIVERED due to incomplete address. Please act right now to avoid penalty or legal action will be taken against you. Click and open teh pdf file below and check your details. [Forwarded] BlueDart_Track.apk 14 MB . APK",spam,apk_fraud,courier,en,pdf_then_apk,BlueDart,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+1709,"Dear Vehicle Owner, Your DTDC Courier parcel with tracking code GB-2097-B59 could not be delivered due to incomplete address. Kindly respond right now to avoid penalty, otherwise your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,en,attached_file_no_link,DTDC Courier,VM-WHATSP,synthetic_v2,0,direct_apk_download
+1725,"Dear Customer, Your India Post parcel with tracking code GB-9558-C68 could not be delivered due to incomplete address. Please act immediately or your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,en,attached_file_no_link,India Post,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+1729,"Your India Post parcel with tracking code GB-2457-F52 could not be delivered due to incomplete address. Please act within 3 days or legal action will be taken or your service will be suspended permanently. Click the link below and install the app to proceed.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,en,link_apk,India Post,VK-INDPST,synthetic_v2,0,direct_apk_download
+1744,"محترم گاہک،
+Your India Post parcel with tracking code GB-5166-A72 could not be delivered due to incomplete address.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,ur,link_apk,India Post,INFO-GOVT,synthetic_v2,0,direct_apk_download
+1746,"आदरणीय ग्राहक,
+आपका BlueDart पार्सल ट्रैकिंग कोड GB-8067-A87 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hi,pdf_then_apk,BlueDart,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+1753,"प्रिय ग्राहक,
+तुमचे DTDC Courier पार्सल ट्रॅकिंग कोड GB-5143-H13 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,mr,link_apk,DTDC Courier,AD-ICICIB,synthetic_v2,0,direct_apk_download
+1782,"आदरणीय ग्राहक, आपका India Post पार्सल ट्रैकिंग कोड GB-5956-F75 अधूरे पते के कारण वितरित नहीं किया जा सका। कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। indiapost-track..info IndiaPost_Track.apk",spam,apk_fraud,courier,hi,link_apk,India Post,AD-NETFLX,synthetic_v2,0,direct_apk_download
+1783,"Dear Customer, Your India Post parcel with tracking code GB-1137-G73 could not be delivered due to incomplete address. Kindly respond today itself, otherwise you will lose this offer. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,courier,en,qr_code,India Post,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+1817,"আপনার India Post পার্সেল ট্র্যাকিং কোড GB-4123-E70 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,bn,link_apk,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+1840,"आपका BlueDart पार्सल ट्रैकिंग कोड GB-8857-E22 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hi,attached_file_no_link,BlueDart,AD-ICICIB,synthetic_v2,0,direct_apk_download
+1884,"Namaste Customer, Aapka BlueDart parcel tracking GB-6230-D19 address adhura hone ki wajah se deliver nahi ho paya. aaj hi jawab de, nahi to aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,courier,hg,vishing_callback,BlueDart,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+1887,"प्रिय उपयोगकर्ता,
+आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-2083-G69 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,courier,hi,qr_code,DTDC Courier,AD-ICICIB,synthetic_v2,0,direct_apk_download
+1927,"Dear User, Your DTDC Courier parcel with tracking code GB-1120-D17 could not be delivered due to incomplete address. Please act within 3 days or legal action will be taken or your service will be suspended permanently. Click the link below and install the app to proceed.
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,en,link_apk,DTDC Courier,AD-NETFLX,synthetic_v2,0,direct_apk_download
+1964,"आदरणीय ग्राहक,
+तुमचे India Post पार्सल ट्रॅकिंग कोड GB-4997-B60 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,India Post,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+1968,"Aapka BlueDart parcel tracking GB-8084-C69 address adhura hone ki wajah se deliver nahi ho paya. turant jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,BlueDart,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+1973,"Namaste Customer, Aapka DTDC Courier parcel tracking GB-4649-E96 address adhura hone ki wajah se deliver nahi ho paya. turant jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,courier,hg,qr_code,DTDC Courier,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+1989,"அன்புள்ள வாடிக்கையாளர்,
+Your India Post parcel with tracking code GB-7299-C24 could not be delivered due to incomplete address.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,courier,ta,qr_code,India Post,AD-NETFLX,synthetic_v2,0,direct_apk_download
+1998,"শ্রদ্ধেয় গ্রাহক, আপনার BlueDart পার্সেল ট্র্যাকিং কোড GB-4497-F82 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি। অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে। অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন। [ফরওয়ার্ড করা হয়েছে] BlueDart_Track.apk 14 MB . APK",spam,apk_fraud,courier,bn,attached_file_no_link,BlueDart,VK-RTOGOV,synthetic_v2,0,direct_apk_download
+2012,"Priya Grahak, Aapka BlueDart parcel tracking GB-9071-A79 address adhura hone ki wajah se deliver nahi ho paya. turant jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,hg,link_apk,BlueDart,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+2025,"Dear Customer, Aapka BlueDart parcel tracking GB-5390-H87 address adhura hone ki wajah se deliver nahi ho paya. Kripya turant action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hg,pdf_then_apk,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+2026,"प्रिय उपयोगकर्ता,
+आपका India Post पार्सल ट्रैकिंग कोड GB-3805-B44 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,hi,attached_file_no_link,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+2056,"Dear Customer, Aapka FedEx parcel tracking GB-9261-A64 address adhura hone ki wajah se deliver nahi ho paya. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] FedEx_Delivery.apk  14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,FedEx,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+2071,"आदरणीय ग्राहक,
+आपका BlueDart पार्सल ट्रैकिंग कोड GB-5540-B15 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,hi,link_apk,BlueDart,AD-ICICIB,synthetic_v2,0,direct_apk_download
+2083,"Dear Customer, Aapka BlueDart parcel tracking GB-4486-C78 address adhura hone ki wajah SE deliver nahi ho paya.. aaj hi jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe. [Forwarded] BlueDart_Track.apk 14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+2160,"ਪਿਆਰੇ ਗਾਹਕ, Your India Post parcel with tracking code GB-9463-H51 could not be delivered due to incomplete address. ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। We tried to reach you regarding your pending issue. Call us back on teh NUMBER below and our representative will guide you through the verification process.",spam,apk_fraud,courier,pa,vishing_callback,India Post,INFO-GOVT,synthetic_v2,0,direct_apk_download
+2245,"Your India Post parcel with tracking code GB-8904-D59 could not be delivered due to incomplete address.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,ta,attached_file_no_link,India Post,INFO-GOVT,synthetic_v2,0,direct_apk_download
+2375,"प्रिय उपयोगकर्ता,
+आपका India Post पार्सल ट्रैकिंग कोड GB-3262-G45 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,hi,link_apk,India Post,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+2380,"প্রিয় গ্রাহক,
+আপনার DTDC Courier পার্সেল ট্র্যাকিং কোড GB-9500-F86 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,bn,attached_file_no_link,DTDC Courier,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+2407,"শ্রদ্ধেয় গ্রাহক ,
+আপনার India Post পার্সেল ট্র্যাকিং কোড GB-6045-E31 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,bn,link_apk,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+2437,"Dear Vehicle Owner, Your BlueDart parcel with tracking code GB-9199-H75 could not be delivered due to incomplete address. Kindly respond immediately, otherwise your service will be suspended permanently. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,courier,en,qr_code,BlueDart,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+2460,"Dear Customer , Aapka BlueDart parcel tracking GB-5786-C91 address adhura hone ki wajah se deliver nahi ho paya. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. ATTACHED file check kare aur use khol kar aage badhe. [Forwarded] BlueDart_Track.apk 14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,BlueDart,AD-NETFLX,synthetic_v2,0,direct_apk_download
+2502,"आदरणीय ग्राहक,
+तुमचे India Post पार्सल ट्रॅकिंग कोड GB-6541-G27 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,India Post,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+2507,"প্রিয় গ্রাহক,
+আপনার BlueDart পার্সেল ট্র্যাকিং কোড GB-1863-D11 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,bn,attached_file_no_link,BlueDart,VM-WHATSP,synthetic_v2,0,direct_apk_download
+2528,"Your BlueDart parcel with tracking code GB-7125-E57 could not be delivered due to incomplete address. Kindly respond within 3 days or legal action will be taken, otherwise your service will be suspended permanently. Click and open the pdf file below and check your details.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,en,pdf_then_apk,BlueDart,VK-UPIRWD,synthetic_v2,0,direct_apk_download
+2542,"Dear Customer, Your DTDC Courier parcel with tracking code GB-9148-A23 could not be delivered due to incomplete address. Please act before midnight or your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,en,attached_file_no_link,DTDC Courier,VK-RTOGOV,synthetic_v2,0,direct_apk_download
+2548,"Priya Grahak, Aapka BlueDart parcel tracking GB-4765-E37 address adhura hone ki wajah se deliver nahi ho paya. aaj hi jawab de, nahi to connection CUT ho jayega. Attached file check kare aur use khol kar aage badhe. [Forwarded] BlueDart_Track.apk 14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,BlueDart,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+2583,"आदरणीय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-8750-E13 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,mr,link_apk,BlueDart,VK-LOANAP,synthetic_v2,0,direct_apk_download
+2601,"عزیز صارف،
+Your DTDC Courier parcel with tracking code GB-1522-C14 could not be delivered due to incomplete address.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,ur,attached_file_no_link,DTDC Courier,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+2635,"Dear User, Your BlueDart parcel with tracking code GB-9457-F33 could not be delivered due to incomplete address. Kindly respond within 24 hours, otherwise legal action will be taken against you. Please check the attached file for full details and open it to proceed.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,en,attached_file_no_link,BlueDart,VM-WHATSP,synthetic_v2,0,direct_apk_download
+2646,"प्रिय ग्राहक,
+आपका India Post पार्सल ट्रैकिंग कोड GB-7930-D91 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,hi,attached_file_no_link,India Post,VK-LOANAP,synthetic_v2,0,direct_apk_download
+2663,"प्रिय उपयोगकर्ता,
+आपका BlueDart पार्सल ट्रैकिंग कोड GB-7790-E43 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,hi,link_apk,BlueDart,VK-INDPST,synthetic_v2,0,direct_apk_download
+2679,"Dear Sir/Madam, Your BlueDart parcel with tracking code GB-7933-E89 could not be delivered due to incomplete address. Kindly respond before midnight, otherwise you will lose this offer. Click the link below and install the app to proceed.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,en,link_apk,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+2694,"प्रिय ग्राहक,
+आपका BlueDart पार्सल ट्रैकिंग कोड GB-7388-E60 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hi,attached_file_no_link,BlueDart,VK-INDPST,synthetic_v2,0,direct_apk_download
+2701,"Priya Grahak, Aapka FedEx parcel tracking GB-2454-H16 address adhura hone ki wajah se deliver nahi ho paya. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] FedEx_Delivery.apk  14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,FedEx,AD-NETFLX,synthetic_v2,0,direct_apk_download
+2719,"Dear Customer, Your DTDC Courier parcel with tracking code GB-2632-G75 could not be delivered due to incomplete address. Kindly respond within 24 hours, otherwise legal action will be taken against you. Please check the attached file for full details and open it to proceed.
+[Forwarded] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,en,attached_file_no_link,DTDC Courier,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+2723,"आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-2155-D45 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,hi,link_apk,DTDC Courier,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+2732,"Priya Grahak, Aapka DTDC Courier parcel tracking GB-5745-D59 address adhura hone ki wajah se deliver nahi ho paya. Kripya aaj hi action le, warna legal action hoga. Attached file CHECK kare aur use khol kar aage badhe. [Forwarded] DTDC_Parcel.apk 14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,DTDC Courier,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+2747,"Aapka DTDC Courier parcel tracking GB-9851-G73 address adhura hone ki wajah se deliver nahi ho paya. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,courier,hg,qr_code,DTDC Courier,VK-LOANAP,synthetic_v2,0,direct_apk_download
+2758,"तुमचे India Post पार्सल ट्रॅकिंग कोड GB-4152-D36 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही. कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल. खालील लिंकवरून अॅप इंस्टॉल करा. indiapost-track.info IndiaPost_Track.apk",spam,apk_fraud,courier,mr,link_apk,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+2796,"आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-2293-G14 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें , अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,courier,hi,qr_code,DTDC Courier,INFO-GOVT,synthetic_v2,0,direct_apk_download
+2824,"Your India Post parcel with tracking code GB-7651-F46 could not be delivered due to incomplete address. Kindly respond before midnight, otherwise ur service will be suspended permanently. Click the link below and install the app to proceed. indiapost-track.info IndiaPost_Track.apk",spam,apk_fraud,courier,en,link_apk,India Post,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+2864,"Dear Vehicle Owner, Your DTDC Courier parcel with tracking code GB-4994-A79 could not be delivered due to incomplete address. Please act today itself or legal action will be taken against you. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,courier,en,qr_code,DTDC Courier,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+2883,"Attention Customer, Your BlueDart parcel with tracking code GB-4065-B93 could not be delivered due to incomplete address. Please act within 24 hours or your account will be blocked. Click and OPEN the pdf file below and check your details. [Forwarded] BlueDart_Track.apk 14 MB . APK",spam,apk_fraud,courier,en,pdf_then_apk,BlueDart,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+2923,"प्रिय ग्राहक,
+आपका BlueDart पार्सल ट्रैकिंग कोड GB-5153-F97 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,hi,link_apk,BlueDart,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+2968,"तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-6001-C97 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,BlueDart,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+3024,"Aapka FedEx parcel tracking GB-7132-B16 address adhura hone ki wajah se deliver nahi ho paya. turant jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+fedex-delivery-in.xyz
+FedEx_Delivery.apk",spam,apk_fraud,courier,hg,link_apk,FedEx,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+3045,"Your India Post parcel with tracking code GB-6467-C88 could not be delivered due to incomplete address. ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ। [ਅੱਗੇ ਭੇਜਿਆ] IndiaPost_Track.apk 14 MB . APK",spam,apk_fraud,courier,pa,attached_file_no_link,India Post,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+3086,"Dear Customer, Aapka BlueDart parcel tracking GB-5166-D87 address adhura hone ki wajah se deliver nahi ho paya. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Niche diye link se app install kare.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,hg,link_apk,BlueDart,VK-UPIRWD,synthetic_v2,0,direct_apk_download
+3111,"प्रिय उपयोगकर्ता,
+आपका BlueDart पार्सल ट्रैकिंग कोड GB-3426-C32 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,hi,link_apk,BlueDart,VM-WHATSP,synthetic_v2,0,direct_apk_download
+3122,"আপনার BlueDart পার্সেল ট্র্যাকিং কোড GB-1670-G24 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,bn,link_apk,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+3142,"শ্রদ্ধেয় গ্রাহক ,
+আপনার India Post পার্সেল ট্র্যাকিং কোড GB-3639-D94 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,bn,attached_file_no_link,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+3175,"প্রিয় গ্রাহক,
+আপনার BlueDart পার্সেল ট্র্যাকিং কোড GB-3868-H99 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,bn,pdf_then_apk,BlueDart,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+3188,"Aapka India Post parcel tracking GB-8901-H59 address adhura hone ki wajah se deliver nahi ho paya. Kripya aaj hi action le, warna legal action hoga. Niche diye link se app install kare.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,hg,link_apk,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+3204,"Aapka DTDC Courier parcel tracking GB-7201-H98 address adhura hone ki wajah se deliver nahi ho paya. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,DTDC Courier,AD-ICICIB,synthetic_v2,0,direct_apk_download
+3226,"Namaste Customer, Aapka FedEx parcel tracking GB-8590-D16 address adhura hone ki wajah se deliver nahi ho paya. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] FedEx_Delivery.apk  14 MB . APK",spam,apk_fraud,courier,hg,pdf_then_apk,FedEx,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+3237,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ ,
+Your India Post parcel with tracking code GB-1284-H54 could not be delivered due to incomplete address..
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,pa,attached_file_no_link,India Post,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+3239,"प्रिय उपयोगकर्ता ,
+आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-9178-D94 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,hi,link_apk,DTDC Courier,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+3241,"Your DTDC Courier parcel with tracking code GB-2723-G66 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on teh number below and our representative will guide you through the verification process.",spam,apk_fraud,courier,pa,vishing_callback,DTDC Courier,AD-ICICIB,synthetic_v2,0,direct_apk_download
+3269,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Your BlueDart parcel with tracking code GB-8552-B24 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,pa,link_apk,BlueDart,AD-NETFLX,synthetic_v2,0,direct_apk_download
+3285,"Your India Post parcel with tracking code GB-2492-G28 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,pa,link_apk,India Post,VM-WHATSP,synthetic_v2,0,direct_apk_download
+3306,"Aapka BlueDart parcel tracking GB-1613-D95 address adhura hone ki wajah se deliver nahi ho paya. Kripya aaj hi action le, warna aapka account block ho jayega. Aapse contact karne ki koshish KI thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,courier,hg,vishing_callback,BlueDart,VK-LOANAP,synthetic_v2,0,direct_apk_download
+3330,"প্রিয় গ্রাহক,
+আপনার BlueDart পার্সেল ট্র্যাকিং কোড GB-3753-F80 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,bn,attached_file_no_link,BlueDart,VK-RTOGOV,synthetic_v2,0,direct_apk_download
+3359,"Attention Customer, Your DTDC Courier parcel with tracking code GB-1282-B47 could not be delivered due to incomplete address.. Please act within 24 hours or your service will be suspended permanently. Click and open the pdf file below and check your details.
+[Forwarded] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,en,pdf_then_apk,DTDC Courier,VK-LOANAP,synthetic_v2,0,direct_apk_download
+3406,"तुमचे DTDC Courier पार्सल ट्रॅकिंग कोड GB-2153-E67 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,mr,link_apk,DTDC Courier,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+3408,"प्रिय ग्राहक,
+तुमचे India Post पार्सल ट्रॅकिंग कोड GB-3308-B58 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,mr,link_apk,India Post,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+3480,"प्रिय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-3125-B15 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,pdf_then_apk,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+3481,"प्रिय उपयोगकर्ता,
+आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-9631-A42 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,courier,hi,qr_code,DTDC Courier,VK-RTOGOV,synthetic_v2,0,direct_apk_download
+3512,"आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-2463-C59 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,courier,hi,vishing_callback,DTDC Courier,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+3551,"Aapka FedEx parcel tracking GB-8824-G65 address adhura hone ki wajah se deliver nahi ho paya. 24 ghante ke andar jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+fedex-delivery-in.xyz
+FedEx_Delivery.apk",spam,apk_fraud,courier,hg,link_apk,FedEx,AD-NETFLX,synthetic_v2,0,direct_apk_download
+3599,"Namaste Customer, Aapka BlueDart parcel tracking GB-1729-E78 address adhura hone ki wajah se deliver nahi ho paya. aaj hi jawab de, nahi to legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hg,pdf_then_apk,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+3631,"आदरणीय ग्राहक,
+तुमचे DTDC Courier पार्सल ट्रॅकिंग कोड GB-9533-E18 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,DTDC Courier,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+3643,"तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-6533-B92 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,BlueDart,VM-WHATSP,synthetic_v2,0,direct_apk_download
+3669,"प्रिय ग्राहक, तुमचे DTDC Courier पार्सल ट्रॅकिंग कोड GB-5185-B31 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,courier,mr,qr_code,DTDC Courier,VM-WHATSP,synthetic_v2,0,direct_apk_download
+3700,"आदरणीय ग्राहक,
+आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-2252-F93 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] DTDC_Parcel.apk",spam,apk_fraud,courier,hi,no_explicit_app_word,DTDC Courier,VK-LOANAP,synthetic_v2,0,direct_apk_download
+3728,"Your BlueDart parcel with tracking code GB-1849-F65 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,pa,link_apk,BlueDart,VK-RTOGOV,synthetic_v2,0,direct_apk_download
+3746,"प्रिय ग्राहक,
+आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-2104-G76 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,hi,pdf_then_apk,DTDC Courier,VK-INDPST,synthetic_v2,0,direct_apk_download
+3754,"عزیز صارف،
+Your BlueDart parcel with tracking code GB-3469-D48 could not be delivered due to incomplete address.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,ur,link_apk,BlueDart,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+3764,"Aapka BlueDart parcel tracking GB-8657-A21 address adhura hone ki wajah se deliver nahi ho paya. Kripya 24 ghante ke andar action le, warna legal action hoga. Niche diye link se app install kare.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,hg,link_apk,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+3767,"আপনার India Post পার্সেল ট্র্যাকিং কোড GB-8967-C84 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+There is an important update regarding ur recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] IndiaPost_Track.apk",spam,apk_fraud,courier,bn,no_explicit_app_word,India Post,VK-INDPST,synthetic_v2,0,direct_apk_download
+3775,"Dear Sir/Madam, Your India Post parcel with tracking code GB-6607-D84 could not be delivered due to incomplete address. Please act within 3 days or legal action will be taken or your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,en,attached_file_no_link,India Post,AD-ICICIB,synthetic_v2,0,direct_apk_download
+3787,"Dear Customer, Aapka India Post parcel tracking GB-6349-G45 address adhura hone ki wajah se deliver nahi ho paya. jaldi se jaldi jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,courier,hg,qr_code,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+3815,"Priya Grahak, Aapka FedEx parcel tracking GB-8381-H47 address adhura hone ki wajah se deliver nahi ho paya. turant jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+fedex-delivery-in.xyz
+FedEx_Delivery.apk",spam,apk_fraud,courier,hg,link_apk,FedEx,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+3842,"அன்புள்ள வாடிக்கையாளர்,
+Your DTDC Courier parcel with tracking code GB-8629-G22 could not be delivered due to incomplete address.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check your details.
+[Forwarded] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,ta,pdf_then_apk,DTDC Courier,VM-WHATSP,synthetic_v2,0,direct_apk_download
+3878,"Dear Customer, Aapka India Post parcel tracking GB-3163-F18 address adhura hone ki wajah se deliver nahi ho paya. jaldi se jaldi jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,hg,link_apk,India Post,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+3937,"Dear Customer, Aapka BlueDart parcel tracking GB-2545-H47 address adhura hone ki wajah se deliver nahi ho paya. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Niche diye link se app INSTALL kare. bluedart-track.tk BlueDart_Track.apk",spam,apk_fraud,courier,hg,link_apk,BlueDart,VK-INDPST,synthetic_v2,0,direct_apk_download
+4010,"ਪਿਆਰੇ ਗਾਹਕ,
+Your DTDC Courier parcel with tracking code GB-6269-B77 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,pa,link_apk,DTDC Courier,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+4083,"Dear Customer, Aapka FedEx parcel tracking GB-6396-D46 address adhura hone ki wajah se deliver nahi ho paya. Kripya aaj hi action le, warna connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,courier,hg,qr_code,FedEx,AD-ICICIB,synthetic_v2,0,direct_apk_download
+4084,"Priya Grahak, Aapka BlueDart parcel tracking GB-9817-D83 address adhura hone ki wajah se deliver nahi ho paya. aaj hi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,hg,link_apk,BlueDart,VK-INDPST,synthetic_v2,0,direct_apk_download
+4094,"Your DTDC Courier parcel with tracking code GB-6668-H40 could not be delivered due to incomplete address.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,ur,pdf_then_apk,DTDC Courier,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+4095,"Namaste Customer, Aapka BlueDart parcel tracking GB-7705-D80 address adhura hone ki wajah se deliver nahi ho paya. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,BlueDart,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+4136,"प्रिय ग्राहक,
+आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-3291-A38 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,hi,pdf_then_apk,DTDC Courier,VM-WHATSP,synthetic_v2,0,direct_apk_download
+4152,"عزیز صارف،
+Your DTDC Courier parcel with tracking code GB-6809-F42 could not be delivered due to incomplete address.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+dtdc-parcel-track.in
+DTDC_Parcel.apk",spam,apk_fraud,courier,ur,link_apk,DTDC Courier,AD-NETFLX,synthetic_v2,0,direct_apk_download
+4223,"Your India Post parcel with tracking code GB-5971-H95 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,courier,pa,qr_code,India Post,VM-WHATSP,synthetic_v2,0,direct_apk_download
+4236,"प्रिय उपयोगकर्ता, आपका India Post पार्सल ट्रैकिंग कोड GB-9930-D11 अधूरे पते के कारण वितरित नहीं किया जा सका। कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] IndiaPost_Track.apk 14 MB . APK",spam,apk_fraud,courier,hi,attached_file_no_link,India Post,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+4239,"Dear Customer, Aapka India Post parcel tracking GB-6661-A56 address adhura hone ki wajah se deliver nahi ho paya. Kripya jaldi se jaldi action le, warna legal action hoga. Niche diye link se app install kare.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,hg,link_apk,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+4293,"Namaste Customer, Aapka India Post parcel tracking GB-8434-B12 address adhura hone ki wajah se deliver nahi ho paya. Kripya 24 ghante ke andar action le, warna aapka acount block ho jayega. Attached file check kare aur use khol kar AAGE badhe. [Forwarded] IndiaPost_Track.apk 14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,India Post,VK-LOANAP,synthetic_v2,0,direct_apk_download
+4327,"आपका India Post पार्सल ट्रैकिंग कोड GB-5961-D42 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,hi,link_apk,India Post,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+4328,"প্রিয় গ্রাহক,
+আপনার BlueDart পার্সেল ট্র্যাকিং কোড GB-4847-H55 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,bn,pdf_then_apk,BlueDart,AD-ICICIB,synthetic_v2,0,direct_apk_download
+4330,"Namaste Customer, Aapka DTDC Courier parcel tracking GB-1572-B89 address adhura hone ki wajah se deliver nahi ho paya. aaj hi jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,hg,attached_file_no_link,DTDC Courier,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+4409,"प्रिय ग्राहक,
+आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-3183-F43 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,hi,pdf_then_apk,DTDC Courier,VM-SBIBNK,synthetic_v2,0,direct_apk_download
+4420,"Your DTDC Courier parcel with tracking code GB-7043-D15 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] DTDC_Parcel.apk",spam,apk_fraud,courier,pa,no_explicit_app_word,DTDC Courier,VK-LOANAP,synthetic_v2,0,direct_apk_download
+4447,"আপনার India Post পার্সেল ট্র্যাকিং কোড GB-6600-B99 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,bn,attached_file_no_link,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+4473,"आदरणीय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-7727-B11 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,mr,attached_file_no_link,BlueDart,AD-NETFLX,synthetic_v2,0,direct_apk_download
+4477,"Namaste Customer, Aapka DTDC Courier parcel tracking GB-2223-D27 address adhura hone ki wajah se deliver nahi ho paya. Kripya aaj hi action le, warna connection cut ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,courier,hg,vishing_callback,DTDC Courier,VK-LOANAP,synthetic_v2,0,direct_apk_download
+4480,"Namaste Customer, Aapka BlueDart parcel tracking GB-4235-C65 address adhura hone ki wajah se deliver nahi ho paya. Kripya aaj hi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,hg,link_apk,BlueDart,VK-RTOGOV,synthetic_v2,0,direct_apk_download
+4557,"आदरणीय ग्राहक,
+तुमचे BlueDart पार्सल ट्रॅकिंग कोड GB-3065-G37 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही..
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+There is an important updat regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,courier,mr,no_explicit_app_word,BlueDart,+91 8800XXXX12,synthetic_v2,0,direct_apk_download
+4558,"அன்புள்ள வாடிக்கையாளர்,
+Your BlueDart parcel with tracking code GB-9141-G32 could not be delivered due to incomplete address.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check your details.
+[Forwarded] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,ta,pdf_then_apk,BlueDart,VK-RTOGOV,synthetic_v2,0,direct_apk_download
+4559,"प्रिय ग्राहक,
+आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-5135-B20 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,hi,pdf_then_apk,DTDC Courier,AX-PWRBIL,synthetic_v2,0,direct_apk_download
+4587,"ਪਿਆਰੇ ਗਾਹਕ,
+Your DTDC Courier parcel with tracking code GB-7122-G67 could not be delivered due to incomplete address.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,pa,attached_file_no_link,DTDC Courier,AD-ICICIB,synthetic_v2,0,direct_apk_download
+4630,"Priya Grahak, Aapka India Post parcel tracking GB-4443-D38 address adhura hone ki wajah se deliver nahi ho paya. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] IndiaPost_Track.apk  14 MB . APK",spam,apk_fraud,courier,hg,pdf_then_apk,India Post,VK-UPIRWD,synthetic_v2,0,direct_apk_download
+4631,"आपका BlueDart पार्सल ट्रैकिंग कोड GB-4022-C91 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,hi,attached_file_no_link,BlueDart,VK-LOANAP,synthetic_v2,0,direct_apk_download
+4700,"Your BlueDart parcel with tracking code GB-2539-G25 could not be delivered due to incomplete address.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+There is an important update regarding your recent request. Please open teh document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,courier,ur,no_explicit_app_word,BlueDart,VK-LOANAP,synthetic_v2,0,direct_apk_download
+4752,"तुमचे India Post पार्सल ट्रॅकिंग कोड GB-8702-D61 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,mr,link_apk,India Post,VM-WHATSP,synthetic_v2,0,direct_apk_download
+4757,"Attention Customer, Your BlueDart parcel with tracking code GB-5014-G56 could not be delivered due to incomplete address. Kindly respond immediately, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,en,link_apk,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+4788,"Dear Customer, Aapka India Post parcel tracking GB-6477-E41 address adhura hone ki wajah se deliver nahi ho paya. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,hg,link_apk,India Post,VK-RTOGOV,synthetic_v2,0,direct_apk_download
+4851,"आदरणीय ग्राहक,
+आपका BlueDart पार्सल ट्रैकिंग कोड GB-8756-G96 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] BlueDart_Track.apk",spam,apk_fraud,courier,hi,no_explicit_app_word,BlueDart,+91 7700XXXX45,synthetic_v2,0,direct_apk_download
+4855,"आपका DTDC Courier पार्सल ट्रैकिंग कोड GB-9424-B90 अधूरे पते के कारण वितरित नहीं किया जा सका।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,courier,hi,vishing_callback,DTDC Courier,JD-ITAXRF,synthetic_v2,0,direct_apk_download
+4865,"শ্রদ্ধেয় গ্রাহক,
+আপনার BlueDart পার্সেল ট্র্যাকিং কোড GB-9627-B83 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+bluedart-track.tk
+BlueDart_Track.apk",spam,apk_fraud,courier,bn,link_apk,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+4892,"প্রিয় গ্রাহক ,
+আপনার BlueDart পার্সেল ট্র্যাকিং কোড GB-6741-D54 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] BlueDart_Track.apk  14 MB . APK",spam,apk_fraud,courier,bn,attached_file_no_link,BlueDart,INFO-GOVT,synthetic_v2,0,direct_apk_download
+4926,"Dear User, Your DTDC Courier parcel with tracking code GB-6266-G10 could not be delivered due to incomplete address. Please act right now to avoid penalty or legal action will be taken against you. Please check the attached file for full details and open it to proceed.
+[Forwarded] DTDC_Parcel.apk  14 MB . APK",spam,apk_fraud,courier,en,attached_file_no_link,DTDC Courier,INFO-GOVT,synthetic_v2,0,direct_apk_download
+4947,"Your India Post parcel with tracking code GB-8620-E15 could not be delivered due to incomplete address. Please act before midnight or your account will be blocked. Click the link below and install the app to proceed.
+indiapost-track.info
+IndiaPost_Track.apk",spam,apk_fraud,courier,en,link_apk,India Post,+91 8800XXXX12,synthetic_v2,0,direct_apk_download

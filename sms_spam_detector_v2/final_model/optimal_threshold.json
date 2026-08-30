@@ -1,0 +1,6 @@
+{
+  "optimal_threshold": 0.5861971378326416,
+  "target_recall_pct": 99.0,
+  "precision_at_threshold": 0.9750623441396509,
+  "note": "Use this threshold in SMSAnalyzer instead of 0.5."
+}

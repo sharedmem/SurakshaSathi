@@ -1,0 +1,2046 @@
+id,text,label,subtype,category,language,delivery_mode,brand_used,sender_id,source,cluster_id,cluster_label
+11,"আপনার SBI কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,pdf_then_apk,SBI,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+25,"শ্রদ্ধেয় গ্রাহক,
+আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 200 টাকা। চালান নম্বর: CH95885858।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] ParivahanSewa.apk  14 MB . APK",spam,apk_fraud,rto_challan,bn,attached_file_no_link,Parivahan Sewa,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+37,"INR 1500 was debited from your SBI account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,pa,vishing_callback,SBI,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+48,"तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 750. चलन क्रमांक: CH55873760.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,mr,vishing_callback,Parivahan / RTO Traffic Police,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+62,"INR 500 was debited from your SBI account. If this was NOT done by you, secure your account now. Kindly respond immediately, otherwise your service will be suspended permanently. Click the link below and install the app to proceed. sbi-secure-updat.in SBI_Secure.apk",spam,apk_fraud,bank_alert,en,link_apk,SBI,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+69,"प्रिय उपयोगकर्ता,
+आपका Axis Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Axis Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+85,"প্রিয় গ্রাহক,
+আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 1000 টাকা। চালান নম্বর: CH26941092।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,rto_challan,bn,no_explicit_app_word,RTO Traffic Police,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+88,"Dear Vehicle Owner, Your HDFC Bank KYC has expired and needs re-verification. Please act before midnight or your connection will be disconnected. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] HDFC_KYCUpdate.apk",spam,apk_fraud,bank_kyc,en,no_explicit_app_word,HDFC Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+105,"आपके SBI खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,SBI,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+123,"आदरणीय ग्राहक,
+तुमचे PNB केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,mr,link_apk,PNB,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+125,"Dear Vehicle Owner, INR 25000 was debited from your RBL Bank account. If this was not done by you, secure your account now. Kindly respond within 3 days or legal action will be taken, otherwise you will lose this offer. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] RBL_Protect.apk",spam,apk_fraud,bank_alert,en,no_explicit_app_word,RBL Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+127,"ਤੁਹਾਡੀ HDFC Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। Click and open the pdf file below and check your details. [Forwarded] HDFC_KYCUpdate.apk 14 MB . APK",spam,apk_fraud,bank_kyc,pa,pdf_then_apk,HDFC Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+164,"प्रिय ग्राहक,
+आपका Axis Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,Axis Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+169,"Attention Customer, Your HDFC Bank KYC has expired and needs re-verification. Kindly respond today itself, otherwise your account will be blocked. Click the link below and install the app to proceed.
+hdfc-kyc-update.info
+HDFC_KYCUpdate.apk",spam,apk_fraud,bank_kyc,en,link_apk,HDFC Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+171,"محترم گاہک،
+INR 750 was debited from your SBI account. If this was not done by you, secure your account now.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,ur,attached_file_no_link,SBI,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+175,"ਪਿਆਰੇ ਗਾਹਕ,
+ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 1500 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH92837679।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] ParivahanSewa.apk  14 MB . APK",spam,apk_fraud,rto_challan,pa,pdf_then_apk,Parivahan Sewa,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+197,"प्रिय ग्राहक,
+तुमचे Bank of Baroda केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,mr,vishing_callback,Bank of Baroda,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+199,"Dear User, Your PNB KYC has expired and needs re-verification. Kindly respond before midnight, otherwise legal action will be taken against you. Click and open the pdf file below and check your details.
+[Forwarded] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,pdf_then_apk,PNB,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+202,"Dear Customer, Your HDFC Bank KYC has expired and needs re-verification. Please act before midnight or your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,HDFC Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+207,"عزیز صارف،
+Netflix: Your membership has expired.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,ur,vishing_callback,Netflix,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+209,"ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 50000 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH35633440। ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। We tried to reach you regarding your pending issue.. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,pa,vishing_callback,Parivahan Sewa,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+221,"आदरणीय ग्राहक,
+तुमचे PNB केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,mr,link_apk,PNB,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+231,"প্রিয় গ্রাহক,
+আপনার SBI কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,bn,link_apk,SBI,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+233,"आपके Paytm Payments Bank खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,Paytm Payments Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+255,"ਤੁਹਾਡੀ ICICI Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,attached_file_no_link,ICICI Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+257,"Dear Sir/Madam, Your Bank of Baroda KYC has expired and needs re-verification. Kindly respond within 3 days or legal action will be taken, otherwise your account will be blocked. Click the link below and install the app to proceed.
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,en,link_apk,Bank of Baroda,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+260,"محترم گاہک،
+آپ کی HDFC Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+hdfc-kyc-update.info
+HDFC_KYCUpdate.apk",spam,apk_fraud,bank_kyc,ur,link_apk,HDFC Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+264,"आपके RBL Bank खाते से रु 500 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,hi,link_apk,RBL Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+299,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 5000 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH66143204।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,rto_challan,pa,no_explicit_app_word,e-Challan Dept,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+300,"प्रिय उपयोगकर्ता,
+आपके ICICI Bank खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,bank_alert,hi,no_explicit_app_word,ICICI Bank,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+302,"عزیز صارف،
+INR 1500 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,ur,attached_file_no_link,ICICI Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+342,"प्रिय ग्राहक,
+आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] ICICI_Verify..apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,ICICI Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+347,"Your Axis Bank KYC has expired and needs re-verification. Please act within 24 hours or your connection will be disconnected. Click the link below and install the app to proceed.
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,en,link_apk,Axis Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+381,"عزیز صارف،
+آپ کا State Electricity Board بجلی کا بل 1500 روپے واجب الادا ہے۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,electricity,ur,qr_code,State Electricity Board,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+384,"INR 25000 was debited from your RBL Bank account. If this was not done by you, secure your account now.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,ur,attached_file_no_link,RBL Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+389,"प्रिय उपयोगकर्ता, आपके RBL Bank खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें। कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। rbl-protect-acc.info RBL_Protect.apk",spam,apk_fraud,bank_alert,hi,link_apk,RBL Bank,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+400,"அன்புள்ள வாடிக்கையாளர்,
+INR 200 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,ta,vishing_callback,ICICI Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+411,"প্রিয় গ্রাহক,
+অভিনন্দন! QuickLoan Finance থেকে 50000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,loan_job,bn,vishing_callback,QuickLoan Finance,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+432,"आदरणीय ग्राहक,
+आपका HDFC Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,HDFC Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+441,"محترم گاہک،
+آپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 200 روپے۔ چالان نمبر: CH34265023۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+parivahan-sewa.tk/verify
+ParivahanSewa.apk",spam,apk_fraud,rto_challan,ur,link_apk,Parivahan Sewa,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+443,"Your Google Account account will be suspended due to unusual login activity.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,security_verify,ur,vishing_callback,Google Account,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+466,"Dear Customer, Your Bank of Baroda KYC has expired and needs re-verification. Please act within 24 hours or legal action will be taken against you. Click the link below and install the app to proceed.
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,en,link_apk,Bank of Baroda,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+470,"Dear Sir/Madam, INR 1500 was debited from your ICICI Bank account. If this was not done by you, secure your account now. Please act within 3 days OR legal action will be taken or you will lose this offer. Click teh link below and install the app to proceed. icici-verify-kyc.xyz ICICI_Verify.apk",spam,apk_fraud,bank_alert,en,link_apk,ICICI Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+482,"அன்புள்ள வாடிக்கையாளர், உங்கள் Axis Bank KYC காலாவதியாகிவிட்டது, மீண்டும் சரிபார்ப்பு தேவை. தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும். கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும். axis-secure-bank.tk Axis_Secure.apk",spam,apk_fraud,bank_kyc,ta,link_apk,Axis Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+523,"प्रिय उपयोगकर्ता,
+आपके ICICI Bank खाते से रु 50000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,pdf_then_apk,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+526,"आदरणीय ग्राहक,
+तुमचे SBI केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,pdf_then_apk,SBI,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+546,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Google_Secure.apk  14 MB . APK",spam,apk_fraud,security_verify,pa,pdf_then_apk,Google Account,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+547,"प्रिय ग्राहक,
+आपके ICICI Bank खाते से रु 200 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,hi,link_apk,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+569,"শ্রদ্ধেয় গ্রাহক,
+INR 500 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,bn,link_apk,ICICI Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+584,"आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है। कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,bank_kyc,hi,vishing_callback,PNB,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+590,"आपका SBI केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है। कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें। [अग्रेषित] SBI_Secure.apk 14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,SBI,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+593,عزیز صارف، Disney+ Hotstar: Your membership has expired. براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔ We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.,spam,apk_fraud,ott_subscription,ur,vishing_callback,Disney+ Hotstar,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+594,"محترم گاہک،
+آپ کی PNB KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,ur,vishing_callback,PNB,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+598,"শ্রদ্ধেয় গ্রাহক,
+অভিনন্দন! InstaCredit থেকে 50000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,attached_file_no_link,InstaCredit,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+625,"आदरणीय ग्राहक,
+आपके Paytm Payments Bank खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,pdf_then_apk,Paytm Payments Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+626,عزیز صارف، Netflix: Your membership has expired. براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔ We tried to reach you regarding your pending issue. Call us back on the NUMBER below and our representative will guide you through the verification process.,spam,apk_fraud,ott_subscription,ur,vishing_callback,Netflix,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+629,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 5000 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH60082660।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] ParivahanSewa.apk  14 MB . APK",spam,apk_fraud,rto_challan,pa,pdf_then_apk,Parivahan Sewa,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+632,"INR 2000 was debited from your RBL Bank account. If this was not done by you, secure your account now. Kindly respond immediately, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,en,link_apk,RBL Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+637,"आदरणीय ग्राहक,
+आपके Paytm Payments Bank खाते से रु 5000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,Paytm Payments Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+642,"प्रिय उपयोगकर्ता,
+आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Bank of Baroda,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+651,"प्रिय उपयोगकर्ता,
+आपके Paytm Payments Bank खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,Paytm Payments Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+656,"प्रिय उपयोगकर्ता,
+आपके RBL Bank खाते से रु 500 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,pdf_then_apk,RBL Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+666,"আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 2000 টাকা। চালান নম্বর: CH13760562।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,rto_challan,bn,no_explicit_app_word,Parivahan Sewa,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+668,"আপনার Bank of Baroda কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,Bank of Baroda,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+669,"ਤੁਹਾਡੀ ICICI Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। There is an important update regarding your recent request. Please open teh document below and follow the steps to complete the process. [Forwarded]",spam,apk_fraud,bank_kyc,pa,no_explicit_app_word,ICICI Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+683,"Attention Customer, Your Bank of Baroda KYC has expired and needs re-verification. Kindly respond within 24 hours, otherwise ur account will be blocked. Please check the attached file for full details and open it to proceed. [Forwarded] BOB_Update.apk 14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,Bank of Baroda,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+711,"آپ کی SBI KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,ur,link_apk,SBI,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+715,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 1000 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH11703582।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,rto_challan,pa,qr_code,e-Challan Dept,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+732,"आदरणीय ग्राहक , आपके RBL Bank खाते से रु 200 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें। कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। rbl-protect-acc..info RBL_Protect.apk",spam,apk_fraud,bank_alert,hi,link_apk,RBL Bank,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+740,"অভিনন্দন! InstaCredit থেকে 2000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,attached_file_no_link,InstaCredit,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+752,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੀ Axis Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,pdf_then_apk,Axis Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+753,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ ,
+ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 500 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH20964744।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,rto_challan,pa,no_explicit_app_word,Parivahan Sewa,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+759,"INR 500 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,bn,pdf_then_apk,ICICI Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+772,"प्रिय उपयोगकर्ता,
+आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,ICICI Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+789,"প্রিয় গ্রাহক,
+অভিনন্দন! InstaCredit থেকে 50000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,attached_file_no_link,InstaCredit,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+796,"Dear Sir/Madam, Your PNB KYC has expired and needs re-verification. Kindly respond within 24 hours, otherwise your connection will be disconnected. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] PNB_eKYC.apk",spam,apk_fraud,bank_kyc,en,no_explicit_app_word,PNB,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+805,"आदरणीय ग्राहक,
+आपका SBI केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,SBI,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+806,"Your SBI KYC has expired and needs re-verification. Kindly respond within 3 days or legal action will be taken, otherwise your account will be blocked. Click the link below and install the app to proceed.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,en,link_apk,SBI,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+811,"Dear Customer, Your Axis Bank KYC has expired and needs re-verification. Please act before midnight or your service will be suspended permanently. Click the link below and install the app to proceed.
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,en,link_apk,Axis Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+814,محترم گاہک، آپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 500 روپے۔ چالان نمبر: CH17319968۔ براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔ نیچے دیے گئے لنک سے ایپ انسٹال کریں۔ parivahan-sewa.tk/verify ParivahanSewa.apk,spam,apk_fraud,rto_challan,ur,link_apk,Parivahan Sewa,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+822,"प्रिय ग्राहक,
+आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Bank of Baroda,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+827,"শ্রদ্ধেয় গ্রাহক,
+আপনার PNB কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,PNB,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+851,"INR 50000 was debited from your RBL Bank account. If this was not done by you, secure your account now. Kindly respond within 3 days or legal action will be taken, otherwise legal action will be taken against you. Click and open the pdf file below and check your details.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,pdf_then_apk,RBL Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+854,"आदरणीय ग्राहक,
+आपके SBI खाते से रु 25000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,attached_file_no_link,SBI,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+870,"INR 5000 was debited from ur RBL Bank account. If this was not done by you , secure your account now. Please act today itself or you will lose this offer. Click the link below and install the app to proceed.
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,en,link_apk,RBL Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+872,"প্রিয় গ্রাহক,
+আপনার SBI কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,SBI,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+878,"आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,hi,link_apk,PNB,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+882,"Netflix: Your membership has expired.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,ur,vishing_callback,Netflix,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+892,"Dear User, Your ICICI Bank KYC has expired and needs re-verification. Please act today itself or you will lose this offer. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,en,vishing_callback,ICICI Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+894,"ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 500 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH47211692।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] VAHAN_PARIVAHAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,pa,pdf_then_apk,Parivahan / RTO Traffic Police,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+909,"आपका HDFC Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,HDFC Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+911,"INR 5000 was debited from ur SBI account. If this was not done by you , secure your account now.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,bn,attached_file_no_link,SBI,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+921,"प्रिय उपयोगकर्ता,
+आपके Paytm Payments Bank खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,attached_file_no_link,Paytm Payments Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+936,"Aapka Axis Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya aaj hi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,hg,link_apk,Axis Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+947,"আপনার DTDC Courier পার্সেল ট্র্যাকিং কোড GB-2059-H12 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,courier,bn,vishing_callback,DTDC Courier,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+951,"Dear User, Your PNB KYC has expired and needs re-verification. Please act within 3 days or legal action will be taken or your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,PNB,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+953,"عزیز صارف،
+آپ کی ICICI Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ICICI_Verify.apk",spam,apk_fraud,bank_kyc,ur,no_explicit_app_word,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+960,"ਤੁਹਾਡੀ SBI KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,attached_file_no_link,SBI,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+961,"محترم گاہک،
+آپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 200 روپے۔ چالان نمبر: CH59323356۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] ParivahanSewa.apk  14 MB . APK",spam,apk_fraud,rto_challan,ur,pdf_then_apk,Parivahan Sewa,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+966,"প্রিয় গ্রাহক,
+আপনার PNB কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,bn,vishing_callback,PNB,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+978,"عزیز صارف،
+Disney+ Hotstar: Your membership has expired.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,ur,vishing_callback,Disney+ Hotstar,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+985,"அன்புள்ள வாடிக்கையாளர்,
+உங்கள் வாகனத்திற்கு எதிராக ஒரு போக்குவரத்து விதி மீறல் பதிவு செய்யப்பட்டுள்ளது. அபராதம்: ரூ 1500.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] VAHAN_PARIVAHAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,ta,attached_file_no_link,Parivahan / RTO Traffic Police,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+988,"INR 5000 was debited from your SBI account. If this was not done by you, secure your account now. Kindly respond today itself, otherwise your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,attached_file_no_link,SBI,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+1001,"محترم گاہک،
+آپ کی SBI KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details..
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,ur,pdf_then_apk,SBI,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+1005,"প্রিয় গ্রাহক,
+আপনার PNB কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,pdf_then_apk,PNB,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+1007,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+INR 25000 was debited from your SBI account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,pa,pdf_then_apk,SBI,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+1013,"Dear Sir/Madam, INR 25000 was debited from your ICICI Bank account. If this was not done by you, secure your account now. Kindly respond today itself, otehrwise legal action will be taken against you. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_alert,en,no_explicit_app_word,ICICI Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+1020,"प्रिय उपयोगकर्ता,
+आपके RBL Bank खाते से रु 25000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,hi,link_apk,RBL Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+1032,"प्रिय ग्राहक, आपका SBI केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है। कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। sbi-secure-update..in SBI_Secure.apk",spam,apk_fraud,bank_kyc,hi,link_apk,SBI,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+1045,"ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ WhatsApp ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details..
+[Forwarded] WhatsApp_Verify.apk  14 MB . APK",spam,apk_fraud,security_verify,pa,pdf_then_apk,WhatsApp,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+1046,"محترم گاہک،
+INR 1000 was debited from your SBI account. If this was not done by you, secure your account now.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,ur,vishing_callback,SBI,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+1080,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Google_Secure.apk  14 MB . APK",spam,apk_fraud,security_verify,pa,pdf_then_apk,Google Account,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+1081,"आदरणीय ग्राहक,
+तुमचे ICICI Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_kyc,mr,no_explicit_app_word,ICICI Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+1082,"INR 1500 was debited from your SBI account. If this was not DONE by you, secure your account now. Please act immediately or legal action will be taken against you. Click and open teh pdf file below and check your details. [Forwarded] SBI_Secure.apk 14 MB . APK",spam,apk_fraud,bank_alert,en,pdf_then_apk,SBI,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+1102,"অভিনন্দন! InstaCredit থেকে 500 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,pdf_then_apk,InstaCredit,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+1108,"ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 750 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH13224827। ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ। Click and open the pdf file below and check your details. [Forwarded] ParivahanSewa.apk 14 MB . APK",spam,apk_fraud,rto_challan,pa,pdf_then_apk,Parivahan Sewa,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+1125,"آپ کی HDFC Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,ur,pdf_then_apk,HDFC Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+1128,"INR 25000 was debited from your SBI account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] SBI_Secure.apk",spam,apk_fraud,bank_alert,pa,no_explicit_app_word,SBI,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+1149,"Dear User, Your ICICI Bank KYC has expired and needs re-verification. Please act right now to avoid penalty or your account will be blocked. Click and open the pdf file below and check your details.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,pdf_then_apk,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+1150,"प्रिय ग्राहक, INR 50000 was debited from your RBL Bank account. If this was not done by you, secure your account now. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process. [Forwarded]",spam,apk_fraud,bank_alert,mr,no_explicit_app_word,RBL Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+1152,"প্রিয় গ্রাহক, আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 200 টাকা। চালান নম্বর: CH66315301। অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে। We tried to reach you regarding your pending issue. Call us back on the number below and our representative WILL guide you through the verification process.",spam,apk_fraud,rto_challan,bn,vishing_callback,RTO Traffic Police,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+1159,"ਪਿਆਰੇ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ WhatsApp ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+There is an important updat regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,security_verify,pa,no_explicit_app_word,WhatsApp,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+1167,"আপনার ICICI Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,bank_kyc,bn,qr_code,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+1172,"آپ کا Power Distribution Co بجلی کا بل 1500 روپے واجب الادا ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,ur,attached_file_no_link,Power Distribution Co,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+1211,"عزیز صارف،
+آپ کی SBI KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+We tried to reach you regarding ur pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,ur,vishing_callback,SBI,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+1232,"ਪਿਆਰੇ ਗਾਹਕ,
+ਤੁਹਾਡੀ Axis Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,attached_file_no_link,Axis Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+1268,"आदरणीय ग्राहक,
+आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,ICICI Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+1278,"Dear User, Your HDFC Bank KYC has expired and needs re-verification. Kindly respond within 24 hours, otherwise legal action will be taken against you. Please check the attached file for full details and open it to proceed.
+[Forwarded] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,HDFC Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+1299,"प्रिय उपयोगकर्ता,
+आपका HDFC Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,bank_kyc,hi,qr_code,HDFC Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+1301,"प्रिय उपयोगकर्ता,
+आपके SBI खाते से रु 5000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,pdf_then_apk,SBI,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+1313,"প্রিয় গ্রাহক, INR 5000 was debited from your ICICI Bank acount. IF this was not done by you, secure your account now. অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে। নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন। icici-verify-kyc.xyz ICICI_Verify.apk",spam,apk_fraud,bank_alert,bn,link_apk,ICICI Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+1325,"आपके SBI खाते से रु 1500 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,bank_alert,hi,qr_code,SBI,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+1326,"প্রিয় গ্রাহক, আপনার Bank of Baroda কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন। অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে। অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন। [ফরওয়ার্ড করা হয়েছে] BOB_Update.apk 14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,Bank of Baroda,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+1334,"प्रिय ग्राहक, तुमचे SBI केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे. कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल. खालील लिंकवरून अॅप इंस्टॉल करा. sbi-secure-updat.in SBI_Secure.apk",spam,apk_fraud,bank_kyc,mr,link_apk,SBI,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+1350,"प्रिय ग्राहक , आपके RBL Bank खाते से रु 5000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें। कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। rbl-protect-acc.info RBL_Protect.apk",spam,apk_fraud,bank_alert,hi,link_apk,RBL Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+1362,"Dear Customer, Your HDFC Bank KYC has expired and needs re-verification. Please act within 24 hours or your account will be blocked. Click the link below and install the app to proceed.
+hdfc-kyc-update.info
+HDFC_KYCUpdate.apk",spam,apk_fraud,bank_kyc,en,link_apk,HDFC Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+1365,"ਪਿਆਰੇ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Google_Secure.apk  14 MB . APK",spam,apk_fraud,security_verify,pa,pdf_then_apk,Google Account,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+1386,"आपके Paytm Payments Bank खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें। कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। paytm-secure-acc.xyz Paytm_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,Paytm Payments Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+1392,"প্রিয় গ্রাহক,
+INR 5000 was debited from your RBL Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,bn,link_apk,RBL Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+1408,"प्रिय ग्राहक,
+तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,mr,vishing_callback,Axis Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+1410,"ਪਿਆਰੇ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Google_Secure.apk  14 MB . APK",spam,apk_fraud,security_verify,pa,pdf_then_apk,Google Account,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+1417,"প্রিয় গ্রাহক,
+আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 25000 টাকা। চালান নম্বর: CH34302521।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+We tried to reach you regarding your pending issue.. Call us back on teh number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,bn,vishing_callback,Parivahan Sewa,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+1424,"Dear Customer, Aapka HDFC Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya turant action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,pdf_then_apk,HDFC Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+1428,"INR 750 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,pa,vishing_callback,ICICI Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+1444,"प्रिय ग्राहक,
+आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] PNB_eKYC.apk",spam,apk_fraud,bank_kyc,hi,no_explicit_app_word,PNB,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+1480,"عزیز صارف،
+INR 500 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,ur,link_apk,Paytm Payments Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+1489,"तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,pdf_then_apk,Axis Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+1490,"INR 25000 was debited from your SBI account. If this was not done by you, secure your account now.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,bn,vishing_callback,SBI,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+1494,"प्रिय उपयोगकर्ता,
+आपके Paytm Payments Bank खाते से रु 5000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] Paytm_Secure.apk",spam,apk_fraud,bank_alert,hi,no_explicit_app_word,Paytm Payments Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+1502,"आपके ICICI Bank खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,pdf_then_apk,ICICI Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+1514,"உங்கள் வாகனத்திற்கு எதிராக ஒரு போக்குவரத்து விதி மீறல் பதிவு செய்யப்பட்டுள்ளது. அபராதம்: ரூ 2000.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,ta,vishing_callback,RTO Traffic Police,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+1520,"Dear Customer, Your SBI KYC has expired and needs re-verification. Please act immediately or your account will be blocked. Click the link below and install the app to proceed.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,en,link_apk,SBI,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+1523,"Dear User, INR 500 was debited from your ICICI Bank account. If this was not done by you, secure your account now. Please act before midnight or your account will be blocked. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_alert,en,qr_code,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+1526,"INR 200 was debited from your ICICI Bank account.. If this was not done by you, secure your account now. Kindly respond right now to avoid penalty, otherwise you will lose this offer. Click the link below and install the app to proceed.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,en,link_apk,ICICI Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+1533,"Dear Sir/Madam, Your Axis Bank KYC has expired and needs re-verification. Kindly respond right now to avoid penalty, otherwise your connection will be disconnected. Click and open the pdf file below and check your details.
+[Forwarded] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,pdf_then_apk,Axis Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+1556,"तुमचे ICICI Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,ICICI Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+1564,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+google-secure-login.tk
+Google_Secure.apk",spam,apk_fraud,security_verify,pa,link_apk,Google Account,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+1569,"आदरणीय ग्राहक,
+आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Bank of Baroda,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+1574,"Your PNB KYC has expired and needs re-verification. Kindly respond within 3 days or legal action will be taken, otherwise your account will be blocked. Click the link below and install the app to proceed.
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,en,link_apk,PNB,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+1620,"प्रिय उपयोगकर्ता,
+आपके ICICI Bank खाते से रु 1000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,hi,link_apk,ICICI Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+1625,"INR 500 was debited from your RBL Bank account. If this was not done by you, secure your account now. Kindly respond within 3 days or legal action will be taken, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,en,link_apk,RBL Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+1627,"அன்புள்ள வாடிக்கையாளர் ,
+உங்கள் PNB KYC காலாவதியாகிவிட்டது, மீண்டும் சரிபார்ப்பு தேவை.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+pnb-ekyc-verifiy.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,ta,link_apk,PNB,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+1650,"শ্রদ্ধেয় গ্রাহক,
+অভিনন্দন! QuickLoan Finance থেকে 500 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,attached_file_no_link,QuickLoan Finance,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+1663,"Dear Vehicle Owner, Your HDFC Bank KYC has expired and needs re-verification. Please act today itself or your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,HDFC Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+1678,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Disney+ Hotstar: Your membership has expired.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,pa,qr_code,Disney+ Hotstar,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+1681,"INR 1500 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,ur,attached_file_no_link,ICICI Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+1684,"INR 5000 was debited from your RBL Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,bn,attached_file_no_link,RBL Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+1686,"প্রিয় গ্রাহক,
+আপনার Axis Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+axis-secure-bank..tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,bn,link_apk,Axis Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+1697,"আপনার Bank of Baroda কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,bn,link_apk,Bank of Baroda,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+1724,محترم گاہک، آپ کی HDFC Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔ براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔ براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔ [فارورڈ شدہ] HDFC_KYCUpdate.apk 14 MB . APK,spam,apk_fraud,bank_kyc,ur,attached_file_no_link,HDFC Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+1730,"Dear User, INR 2000 was debited from your ICICI Bank account. If this was not done by you, secure your account now. Kindly respond today itself, otherwise you will lose this offer. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,en,vishing_callback,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+1738,"आदरणीय ग्राहक,
+आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Bank of Baroda,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+1743,"প্রিয় গ্রাহক,
+আপনার Bank of Baroda কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,Bank of Baroda,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+1745,"Dear Vehicle Owner, Your ICICI Bank KYC has expired and needs re-verification. Please act right now to avoid penalty or your account will be blocked. Click the link below and install the app to proceed.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,en,link_apk,ICICI Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+1748,"প্রিয় গ্রাহক,
+আপনার HDFC Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+hdfc-kyc-update.info
+HDFC_KYCUpdate.apk",spam,apk_fraud,bank_kyc,bn,link_apk,HDFC Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+1756,محترم گاہک، You have received a cashback of Rs 2000 from Paytm Cashback.. براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔ Scan the QR code attached to this message to complete verification instantly.,spam,apk_fraud,upi_cashback,ur,qr_code,Paytm Cashback,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+1758,"শ্রদ্ধেয় গ্রাহক,
+আপনার SBI কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,bn,link_apk,SBI,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+1765,"عزیز صارف،
+آپ کی Axis Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,ur,attached_file_no_link,Axis Bank,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+1768,"ਤੁਹਾਡੀ Axis Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,pa,link_apk,Axis Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+1771,"শ্রদ্ধেয় গ্রাহক,
+আপনার SBI কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,pdf_then_apk,SBI,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+1814,"محترم گاہک،
+آپ کا State Electricity Board بجلی کا بل 5000 روپے واجب الادا ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,ur,vishing_callback,State Electricity Board,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+1819,"ਪਿਆਰੇ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+google-secure-login.tk
+Google_Secure.apk",spam,apk_fraud,security_verify,pa,link_apk,Google Account,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+1821,"Paytm Cashback இலிருந்து ரூ 50000 கேஷ்பேக் பெற்றுள்ளீர்கள்.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும் , இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check your details.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,ta,pdf_then_apk,Paytm Cashback,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+1831,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੀ SBI KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,pa,link_apk,SBI,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+1833,"ਪਿਆਰੇ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Google_Secure.apk  14 MB . APK",spam,apk_fraud,security_verify,pa,attached_file_no_link,Google Account,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+1847,"INR 750 was debited from your SBI account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] SBI_Secure.apk",spam,apk_fraud,bank_alert,mr,no_explicit_app_word,SBI,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+1854,"Dear Customer, Your Axis Bank KYC has expired and needs re-verification. Kindly respond today itself, otherwise you will lose this offer. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,en,vishing_callback,Axis Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+1858,"INR 1000 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,ur,link_apk,ICICI Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+1873,"আপনার Bank of Baroda কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,Bank of Baroda,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+1875,"আপনার India Post পার্সেল ট্র্যাকিং কোড GB-8032-B23 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,courier,bn,vishing_callback,India Post,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+1879,"Dear Customer, INR 750 was debited from your SBI account. If this was not done by you, secure your account now. Kindly respond immediately, otherwise your account will be blocked. Click and open the pdf file below and check your details.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,pdf_then_apk,SBI,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+1896,"आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,PNB,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+1912,"শ্রদ্ধেয় গ্রাহক,
+INR 1000 was debited from your SBI acount. If this was not done by you, secure your account now.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,bank_alert,bn,qr_code,SBI,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+1932,"عزیز صارف،
+INR 1500 was debited from your SBI account. If this was not done by you, secure your account now.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,ur,link_apk,SBI,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+1951,"INR 500 was debited from your SBI account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,pa,pdf_then_apk,SBI,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+1952,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ , INR 1500 was debited from your RBL Bank account. If this was not done by you, secure your account now. ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। Click and open the pdf file below and check your details. [Forwarded] RBL_Protect.apk 14 MB . APK",spam,apk_fraud,bank_alert,pa,pdf_then_apk,RBL Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+1962,"আপনার Axis Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,bn,link_apk,Axis Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+1985,"Dear User, Your ICICI Bank KYC has expired and needs re-verification. Kindly respond immediately, otherwise your account will be blocked. Click the link below and install the app to proceed.
+icici-verifiy-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,en,link_apk,ICICI Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+1987,"आपका Axis Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,Axis Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+1999,"ਤੁਹਾਡੀ PNB KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,pa,link_apk,PNB,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+2018,"आदरणीय ग्राहक,
+INR 200 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,mr,attached_file_no_link,ICICI Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+2028,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੀ SBI KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,attached_file_no_link,SBI,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+2029,"প্রিয় গ্রাহক,
+INR 50000 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,bn,link_apk,ICICI Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+2041,"ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Google_Secure.apk  14 MB . APK",spam,apk_fraud,security_verify,pa,attached_file_no_link,Google Account,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+2049,"عزیز صارف،
+INR 5000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_alert,ur,qr_code,Paytm Payments Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+2074,"आदरणीय ग्राहक, आपके Paytm Payments Bank खाते से रु 500 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें। कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। paytm-secure-acc.xyz Paytm_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,Paytm Payments Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2084,"محترم گاہک،
+INR 5000 was debited from your Paytm Payments Bank account. If this was not done by you, secure your account now.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_alert,ur,no_explicit_app_word,Paytm Payments Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+2104,"INR 50000 was debited from your RBL Bank account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,pa,pdf_then_apk,RBL Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+2115,"आदरणीय ग्राहक,
+आपके SBI खाते से रु 25000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,attached_file_no_link,SBI,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2149,"ਪਿਆਰੇ ਗਾਹਕ,
+ਤੁਹਾਡੀ ICICI Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_kyc,pa,no_explicit_app_word,ICICI Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+2151,"प्रिय उपयोगकर्ता,
+आपका SBI केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,bank_kyc,hi,qr_code,SBI,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+2154,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ, INR 2000 was debited from YOUR RBL Bank account. If this was not done by you, secure your account now. ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ। rbl-protect-acc.info RBL_Protect.apk",spam,apk_fraud,bank_alert,pa,link_apk,RBL Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+2174,"Dear Vehicle Owner , Your PNB KYC has expired and needs re-verification. Kindly respond within 3 days or legal action will be taken, otherwise your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,PNB,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+2175,"প্রিয় গ্রাহক,
+INR 1000 was debited from your SBI account. If this was not done by you, secure your account now.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,bn,link_apk,SBI,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+2181,"শ্রদ্ধেয় গ্রাহক,
+আপনার Bank of Baroda কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+We tried to reach you regarding ur pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,bn,vishing_callback,Bank of Baroda,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+2184,"Your Bank of Baroda KYC has expired and needs re-verification. Please act immediately or you will lose this offer. Click and open teh pdf file below and check your details.
+[Forwarded] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,pdf_then_apk,Bank of Baroda,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+2197,"Dear User, INR 1500 was debited from your ICICI Bank account. If this was not done by you, secure your account now. Kindly respond before midnight, otehrwise legal action will be taken against you. Please check the attached file for full details and open it to proceed.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,attached_file_no_link,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+2199,"प्रिय ग्राहक,
+आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,ICICI Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+2203,"محترم گاہک،
+You have received a cashback of Rs 200 from UPI Rewards.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,ur,vishing_callback,UPI Rewards,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+2228,"प्रिय उपयोगकर्ता,
+आपके Paytm Payments Bank खाते से रु 25000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,attached_file_no_link,Paytm Payments Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+2257,"INR 200 was debited from your RBL Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,ta,attached_file_no_link,RBL Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+2259,"Attention Customer, Your PNB KYC has expired and needs re-verification. Please act today itself or you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,PNB,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+2270,"Dear Customer, Your HDFC Bank KYC has expired and needs re-verification. Please act within 3 days or legal action will be taken or your connection will be disconnected. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,en,vishing_callback,HDFC Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+2290,"तुमचे Bank of Baroda केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,mr,vishing_callback,Bank of Baroda,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+2301,"प्रिय ग्राहक,
+आपका HDFC Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,HDFC Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+2328,"শ্রদ্ধেয় গ্রাহক,
+আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 1500 টাকা। চালান নম্বর: CH50462140।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] eChallan_Pay.apk  14 MB . APK",spam,apk_fraud,rto_challan,bn,attached_file_no_link,e-Challan Dept,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+2330,"आदरणीय ग्राहक, आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है। कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें। [अग्रेषित] PNB_eKYC..apk 14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,PNB,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+2340,"प्रिय ग्राहक,
+INR 25000 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,mr,link_apk,ICICI Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+2346,"অভিনন্দন! InstaCredit থেকে 25000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,pdf_then_apk,InstaCredit,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+2348,"আপনার ICICI Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন , নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+We tried to reach you regarding your pending issue. Call us back on teh number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,bn,vishing_callback,ICICI Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+2355,"प्रिय उपयोगकर्ता,
+आपके ICICI Bank खाते से रु 2000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,pdf_then_apk,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+2363,"আপনার ICICI Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+2367,"आदरणीय ग्राहक ,
+आपके ICICI Bank खाते से रु 500 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,hi,link_apk,ICICI Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+2384,"உங்கள் வாகனத்திற்கு எதிராக ஒரு போக்குவரத்து விதி மீறல் பதிவு செய்யப்பட்டுள்ளது. அபராதம்: ரூ 1500.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] RTOCHALAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,ta,attached_file_no_link,RTO Traffic Police,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+2389,"प्रिय उपयोगकर्ता,
+आपके Paytm Payments Bank खाते से रु 2000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,Paytm Payments Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+2390,"आदरणीय ग्राहक,
+INR 5000 was debited from your SBI account. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,mr,link_apk,SBI,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+2393,"आदरणीय ग्राहक,
+आपका SBI केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,SBI,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+2402,"प्रिय ग्राहक,
+आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,PNB,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+2415,"आदरणीय ग्राहक,
+आपके Paytm Payments Bank खाते से रु 200 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,Paytm Payments Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2416,"तुमचे PNB केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,mr,vishing_callback,PNB,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2434,"आदरणीय ग्राहक,
+आपके ICICI Bank खाते से रु 50000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,bank_alert,hi,vishing_callback,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+2449,"Your Axis Bank KYC has expired and needs re-verification. Please act within 24 hours or you will lose this offer. Click the link below and install the app to proceed.
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,en,link_apk,Axis Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+2450,"आपके SBI खाते से रु 5000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,attached_file_no_link,SBI,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+2458,"प्रिय उपयोगकर्ता,
+आपके ICICI Bank खाते से रु 1500 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,hi,link_apk,ICICI Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+2467,"প্রিয় গ্রাহক,
+অভিনন্দন! QuickLoan Finance থেকে 2000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,attached_file_no_link,QuickLoan Finance,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+2480,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੀ HDFC Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,attached_file_no_link,HDFC Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2482,"आदरणीय ग्राहक,
+आपके SBI खाते से रु 50000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,bank_alert,hi,vishing_callback,SBI,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+2495,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ, ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ GOOGLE Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ। [ਅੱਗੇ ਭੇਜਿਆ] Google_Secure.apk 14 MB . APK",spam,apk_fraud,security_verify,pa,attached_file_no_link,Google Account,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+2501,"आपके RBL Bank खाते से रु 25000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,attached_file_no_link,RBL Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+2517,"آپ کا Power Distribution Co بجلی کا بل 750 روپے واجب الادا ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,ur,link_apk,Power Distribution Co,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2530,"Dear Vehicle Owner, Your Axis Bank KYC has expired and needs re-verification. Please act before midnight or you will lose this offer. We tried to reach you REGARDING your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,en,vishing_callback,Axis Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+2539,"প্রিয় গ্রাহক,
+অভিনন্দন! QuickLoan Finance থেকে 500 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,attached_file_no_link,QuickLoan Finance,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+2549,"प्रिय ग्राहक,
+आपके RBL Bank खाते से रु 200 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,pdf_then_apk,RBL Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+2560,"प्रिय ग्राहक,
+आपका HDFC Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,HDFC Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+2565,"आपके ICICI Bank खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,hi,link_apk,ICICI Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+2568,"तुमचे HDFC Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+hdfc-kyc-update.info
+HDFC_KYCUpdate.apk",spam,apk_fraud,bank_kyc,mr,link_apk,HDFC Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+2574,"عزیز صارف،
+آپ کی HDFC Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,ur,attached_file_no_link,HDFC Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+2578,"प्रिय ग्राहक,
+आपके ICICI Bank खाते से रु 5000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,bank_alert,hi,vishing_callback,ICICI Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2590,"محترم گاہک،
+آپ کی HDFC Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] HDFC_KYCUpdate.apk",spam,apk_fraud,bank_kyc,ur,no_explicit_app_word,HDFC Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+2591,"Dear Sir/Madam, Your HDFC Bank KYC has expired and needs re-verification.. Please act today itself or your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,HDFC Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+2594,"आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,hi,link_apk,ICICI Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2602,"Dear Sir/Madam, INR 1000 was debited from your ICICI Bank account. If this was not done by you, secure your account now. Kindly respond within 3 days or legal action will be taken, otherwise legal action will be taken against you. Please check the attached file for full details and open it to proceed.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,attached_file_no_link,ICICI Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+2606,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 750 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH23050348।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,rto_challan,pa,no_explicit_app_word,Parivahan / RTO Traffic Police,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+2607,"প্রিয় গ্রাহক,
+অভিনন্দন! InstaCredit থেকে 750 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,pdf_then_apk,InstaCredit,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+2632,"Your Bank of Baroda KYC has expired and needs re-verification. Kindly respond before midnight, otherwise ur SERVICE will be suspended permanently. Please check the attached file for full details and open it to proceed. [Forwarded] BOB_Update.apk 14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,Bank of Baroda,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+2645,"आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,ICICI Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+2648,"Dear User, Your HDFC Bank KYC has expired and needs re-verification. Please act today itself or legal action will be taken against you. Click and open the pdf file below and check your details.
+[Forwarded] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,pdf_then_apk,HDFC Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+2654,"प्रिय ग्राहक,
+आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Bank of Baroda,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+2664,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] Google_Secure.apk  14 MB . APK",spam,apk_fraud,security_verify,pa,pdf_then_apk,Google Account,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+2670,"Dear Customer, Your Bank of Baroda KYC has expired and needs re-verification. Please act within 24 hours or legal action will be taken against you. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,en,vishing_callback,Bank of Baroda,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+2684,"শ্রদ্ধেয় গ্রাহক,
+অভিনন্দন! QuickLoan Finance থেকে 2000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,attached_file_no_link,QuickLoan Finance,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+2690,"Dear Customer, Your Axis Bank KYC has expired and needs re-verification. Kindly respond within 24 hours, otherwise your acount will be blocked. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_kyc,en,qr_code,Axis Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2692,"आपका HDFC Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,bank_kyc,hi,no_explicit_app_word,HDFC Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2700,"प्रिय उपयोगकर्ता,
+आपके RBL Bank खाते से रु 200 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,pdf_then_apk,RBL Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2704,"অভিনন্দন! QuickLoan Finance থেকে 50000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,attached_file_no_link,QuickLoan Finance,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+2710,"तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,bank_kyc,mr,qr_code,Axis Bank,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+2751,"প্রিয় গ্রাহক,
+অভিনন্দন! QuickLoan Finance থেকে 5000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,attached_file_no_link,QuickLoan Finance,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+2753,"Attention Customer, INR 50000 was debited from your RBL Bank account. If this was not done by you, secure your account now. Kindly respond within 3 days or legal action will be taken, otherwise you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,attached_file_no_link,RBL Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+2769,"आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,Bank of Baroda,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+2775,"Dear Vehicle Owner, Your SBI KYC has expired and needs re-verification. Please act within 24 hours or your connection will be disconnected. Click and open the pdf file below and check your details.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,pdf_then_apk,SBI,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+2782,"ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 1500 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH39573041। ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ। Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,rto_challan,pa,qr_code,e-Challan Dept,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+2783,"तुमचे HDFC Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे. कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा. [फॉरवर्ड केलेले] HDFC_KYCUpdate.apk 14 MB . APK",spam,apk_fraud,bank_kyc,mr,pdf_then_apk,HDFC Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+2787,"प्रिय ग्राहक,
+आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+pnb-ekyc-verifiy.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,hi,link_apk,PNB,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+2815,"Dear Customer, AAPKA HDFC Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare. [Forwarded] HDFC_KYCUpdate.apk 14 MB . APK",spam,apk_fraud,bank_kyc,hg,pdf_then_apk,HDFC Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+2829,"Dear User, Your PNB KYC has expired and needs re-verification. Please act immediately or your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,PNB,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+2836,"प्रिय ग्राहक,
+आपके Paytm Payments Bank खाते से रु 50000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,Paytm Payments Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+2844,"आदरणीय ग्राहक,
+तुमचे SBI केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,mr,link_apk,SBI,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+2847,"You have received a cashback of Rs 500 from Paytm Cashback.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on teh number below and our representative will guide you through the verification process.",spam,apk_fraud,upi_cashback,ur,vishing_callback,Paytm Cashback,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2868,"ਤੁਹਾਡੀ PNB KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_kyc,pa,no_explicit_app_word,PNB,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2879,"আপনার SBI কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,bn,link_apk,SBI,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+2899,"محترم گاہک،
+Disney+ Hotstar: Your membership has expired.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,ott_subscription,ur,vishing_callback,Disney+ Hotstar,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+2952,"आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,Bank of Baroda,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+2956,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+INR 1000 was debited from your SBI account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] SBI_Secure.apk",spam,apk_fraud,bank_alert,pa,no_explicit_app_word,SBI,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+2964,"ਪਿਆਰੇ ਗਾਹਕ, INR 2000 was debited from your RBL Bank account. If this was not done by you, secure your account now. ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ। rbl-protect-acc.info RBL_Protect.apk",spam,apk_fraud,bank_alert,pa,link_apk,RBL Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+2965,"Attention Customer, Your ICICI Bank KYC has expired and needs re-verification. Kindly respond within 24 hours, otherwise you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,ICICI Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+2969,"محترم گاہک،
+INR 1500 was debited from your RBL Bank account. If this was not done by you, secure your account now.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,ur,vishing_callback,RBL Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+2971,"محترم گاہک،
+آپ کا Power Distribution Co بجلی کا بل 2000 روپے واجب الادا ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,electricity,ur,qr_code,Power Distribution Co,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+2973,"प्रिय ग्राहक,
+आपके RBL Bank खाते से रु 200 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,pdf_then_apk,RBL Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+2978,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+google-secure-login.tk
+Google_Secure.apk",spam,apk_fraud,security_verify,pa,link_apk,Google Account,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+2984,"प्रिय ग्राहक,
+INR 750 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,mr,link_apk,ICICI Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+2999,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+INR 2000 was debited from your SBI account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,pa,link_apk,SBI,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+3004,"প্রিয় গ্রাহক,
+অভিনন্দন! InstaCredit থেকে 1000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,pdf_then_apk,InstaCredit,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+3020,"प्रिय उपयोगकर्ता,
+आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,Bank of Baroda,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3027,"محترم گاہک،
+آپ کا Power Distribution Co بجلی کا بل 1000 روپے واجب الادا ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,electricity,ur,vishing_callback,Power Distribution Co,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+3044,"प्रिय ग्राहक,
+तुमचे Bank of Baroda केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,mr,link_apk,Bank of Baroda,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3049,"प्रिय ग्राहक,
+आपका HDFC Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+hdfc-kyc-update.info
+HDFC_KYCUpdate.apk",spam,apk_fraud,bank_kyc,hi,link_apk,HDFC Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3050,"तुमचे PNB केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,mr,link_apk,PNB,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+3078,"ਪਿਆਰੇ ਗਾਹਕ,
+INR 50000 was debited from your SBI account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,pa,link_apk,SBI,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+3090,"Dear Sir/Madam, INR 1500 was debited from your RBL Bank account. If this was not done by you, secure your account now. Please act before midnight or you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,attached_file_no_link,RBL Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+3092,"அன்புள்ள வாடிக்கையாளர்,
+Paytm Cashback இலிருந்து ரூ 2000 கேஷ்பேக் பெற்றுள்ளீர்கள்.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,upi_cashback,ta,no_explicit_app_word,Paytm Cashback,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+3120,"ਪਿਆਰੇ ਗਾਹਕ,
+ਤੁਹਾਡੀ SBI KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,attached_file_no_link,SBI,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3137,"प्रिय उपयोगकर्ता,
+आपके ICICI Bank खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,bank_alert,hi,vishing_callback,ICICI Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+3139,"آپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 200 روپے۔ چالان نمبر: CH17491622۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+parivahan-sewa.tk/verify
+ParivahanSewa.apk",spam,apk_fraud,rto_challan,ur,link_apk,Parivahan Sewa,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+3143,"Dear Sir/Madam, Your ICICI Bank KYC has expired and needs re-verification. Kindly respond immediately, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,en,link_apk,ICICI Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+3167,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 1000 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH77052833।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,rto_challan,pa,qr_code,RTO Traffic Police,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+3179,"आदरणीय ग्राहक,
+आपका Axis Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Axis Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+3182,"ਪਿਆਰੇ ਗਾਹਕ, ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। Click and open the pdf file below and check your details. [Forwarded] Google_Secure.apk 14 MB . APK",spam,apk_fraud,security_verify,pa,pdf_then_apk,Google Account,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+3197,"आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ICICI_Verify.apk",spam,apk_fraud,bank_kyc,hi,no_explicit_app_word,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+3199,"আপনার Axis Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,Axis Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+3206,"आपके Paytm Payments Bank खाते से रु 50000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,bank_alert,hi,qr_code,Paytm Payments Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+3207,"प्रिय ग्राहक,
+आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Bank of Baroda,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+3222,"Dear Customer, Your ICICI Bank KYC has expired and needs RE-VERIFICATION. Kindly respond within 24 hours, otherwise you will lose this offer. Please check the attached file for full details and open it to proceed. [Forwarded] ICICI_Verify.apk 14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,ICICI Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+3224,"प्रिय उपयोगकर्ता ,
+आपका Axis Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Axis Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+3229,"आपके SBI खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,SBI,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3231,"Your ICICI Bank KYC has expired and needs re-verification. Kindly respond right now to avoid penalty, otherwise your service will be suspended permanently. Click the link BELOW and install the app to proceed. icici-verify-kyc.xyz ICICI_Verify.apk",spam,apk_fraud,bank_kyc,en,link_apk,ICICI Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+3232,"तुमचे ICICI Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा , अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,mr,link_apk,ICICI Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+3256,"அன்புள்ள வாடிக்கையாளர்,
+உங்கள் ICICI Bank KYC காலாவதியாகிவிட்டது, மீண்டும் சரிபார்ப்பு தேவை.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,ta,link_apk,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+3259,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੀ Bank of Baroda KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_kyc,pa,no_explicit_app_word,Bank of Baroda,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+3260,"Your Bank of Baroda KYC has expired and needs re-verification. Kindly respond within 24 hours, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,en,link_apk,Bank of Baroda,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+3264,"Dear Vehicle Owner, Your ICICI Bank KYC has expired and needs re-verification. Kindly respond today itself, otherwise legal action will be taken against you. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,en,vishing_callback,ICICI Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+3265,"आदरणीय ग्राहक,
+आपके Paytm Payments Bank खाते से रु 2000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,bank_alert,hi,vishing_callback,Paytm Payments Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+3270,"محترم گاہک،
+آپ کی Axis Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,ur,attached_file_no_link,Axis Bank,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+3271,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 2000 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH23350172।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] RTOCHALAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,pa,pdf_then_apk,RTO Traffic Police,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+3274,"Dear Sir/Madam, Your Bank of Baroda KYC has expired and needs re-verification. Kindly respond today itself, otherwise you will lose this offer. Click the link below and install the app to proceed.
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,en,link_apk,Bank of Baroda,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+3290,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੀ Axis Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,pa,vishing_callback,Axis Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+3294,"অভিনন্দন! InstaCredit থেকে 1000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে আজই ব্যবস্থা নিন , নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+instacredit-loan.info
+InstaCredit.apk",spam,apk_fraud,loan_job,bn,link_apk,InstaCredit,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3299,"आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Bank of Baroda,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3304,"प्रिय ग्राहक,
+आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,bank_kyc,hi,no_explicit_app_word,PNB,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3307,"आदरणीय ग्राहक, आपके ICICI Bank खाते से रु 1000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें। कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें। [अग्रेषित]",spam,apk_fraud,bank_alert,hi,no_explicit_app_word,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+3319,"محترم گاہک،
+آپ کی Axis Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,ur,link_apk,Axis Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3329,"அன்புள்ள வாடிக்கையாளர்,
+INR 25000 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,ta,link_apk,ICICI Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+3339,"प्रिय ग्राहक,
+आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,bank_kyc,hi,qr_code,PNB,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+3349,"محترم گاہک،
+آپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 2000 روپے۔ چالان نمبر: CH22478992۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+echallan-pay.xyz
+eChallan_Pay.apk",spam,apk_fraud,rto_challan,ur,link_apk,e-Challan Dept,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3352,"आदरणीय ग्राहक,
+आपके ICICI Bank खाते से रु 500 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,pdf_then_apk,ICICI Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+3357,"آپ کی Bank of Baroda KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_kyc,ur,qr_code,Bank of Baroda,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+3360,"आदरणीय ग्राहक,
+तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,Axis Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+3361,"प्रिय ग्राहक,
+तुमचे India Post पार्सल ट्रॅकिंग कोड GB-2134-D10 अपूर्ण पत्त्यामुळे वितरित होऊ शकले नाही.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on teh number below and our representative will guide you through the verification process.",spam,apk_fraud,courier,mr,vishing_callback,India Post,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3389,"Dear Customer, Your PNB KYC has expired and needs re-verification. Kindly respond right now to avoid penalty, otherwise your connection will be disconnected. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_kyc,en,qr_code,PNB,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3425,"प्रिय उपयोगकर्ता,
+आपके SBI खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,SBI,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+3428,"INR 5000 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,bank_alert,bn,qr_code,ICICI Bank,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+3432,"প্রিয় গ্রাহক, আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 500 টাকা। চালান নম্বর: CH95520180। অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে। নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন। parivahan-gov.xyz/challan VAHAN_PARIVAHAN.apk",spam,apk_fraud,rto_challan,bn,link_apk,Parivahan / RTO Traffic Police,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+3450,"ਤੁਹਾਡੀ PNB KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open teh pdf file below and check ur details.
+[Forwarded] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,pdf_then_apk,PNB,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+3466,"আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 1000 টাকা। চালান নম্বর: CH90100604।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,rto_challan,bn,qr_code,RTO Traffic Police,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+3473,"محترم گاہک،
+آپ کی HDFC Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_kyc,ur,qr_code,HDFC Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+3509,"आपके RBL Bank खाते से रु 1000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,hi,link_apk,RBL Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+3518,"INR 750 was debited from your SBI account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_alert,mr,no_explicit_app_word,SBI,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+3530,"Attention Customer, Your Axis Bank KYC has expired and needs re-verification. Kindly respond within 3 days or legal action will be taken, otherwise you will lose this offer. Click the link below and install the app to proceed.
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,en,link_apk,Axis Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+3531,"प्रिय उपयोगकर्ता,
+आपके ICICI Bank खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,pdf_then_apk,ICICI Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3542,"ਪਿਆਰੇ ਗਾਹਕ, ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 750 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH94282757। ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। Click and open THE pdf file below and check your details. [Forwarded] RTOCHALAN.apk 14 MB . APK",spam,apk_fraud,rto_challan,pa,pdf_then_apk,RTO Traffic Police,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3550,"প্রিয় গ্রাহক,
+INR 50000 was debited from your RBL Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,bank_alert,bn,qr_code,RBL Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3556,"प्रिय ग्राहक,
+आपके ICICI Bank खाते से रु 1500 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,bank_alert,hi,vishing_callback,ICICI Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+3582,"ਪਿਆਰੇ ਗਾਹਕ,
+ਤੁਹਾਡੀ PNB KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,pa,vishing_callback,PNB,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+3593,"உங்கள் Bank of BARODA KYC காலாவதியாகிவிட்டது , மீண்டும் சரிபார்ப்பு தேவை. தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும். கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும். bob-update-kyc.in BOB_Update.apk",spam,apk_fraud,bank_kyc,ta,link_apk,Bank of Baroda,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3594,"عزیز صارف،
+آپ کی Axis Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,ur,link_apk,Axis Bank,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+3603,"Dear Vehicle Owner, INR 50000 was debited from your RBL Bank account. If this was not done by you, secure your account now. Kindly respond today itself, otherwise your service will be suspended permanently. We tried to reach you regarding your pending issue. Call us back on THE number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,en,vishing_callback,RBL Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+3616,"प्रिय ग्राहक,
+तुमचे Bank of Baroda केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,mr,link_apk,Bank of Baroda,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+3627,"प्रिय उपयोगकर्ता,
+आपके ICICI Bank खाते से रु 5000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,attached_file_no_link,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+3628,"শ্রদ্ধেয় গ্রাহক ,
+আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 1500 টাকা। চালান নম্বর: CH82262247।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] RTOCHALAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,bn,attached_file_no_link,RTO Traffic Police,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+3640,"Dear Customer, Your ICICI Bank KYC has expired and needs re-verification. Kindly respond within 3 days or legal action will be taken, otherwise legal action will be taken against you. Please check the attached file for full details and open it to proceed.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,ICICI Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+3642,"प्रिय उपयोगकर्ता,
+आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,hi,link_apk,PNB,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+3644,"प्रिय उपयोगकर्ता,
+आपके RBL Bank खाते से रु 50000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,hi,link_apk,RBL Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+3645,"INR 200 was debited from your ICICI Bank account. If this was not done by you , secure your account now.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,ur,pdf_then_apk,ICICI Bank,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+3652,"आदरणीय ग्राहक,
+आपके SBI खाते से रु 25000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,SBI,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+3664,"عزیز صارف،
+آپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 500 روپے۔ چالان نمبر: CH44337526۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+parivahan-sewa.tk/verify
+ParivahanSewa.apk",spam,apk_fraud,rto_challan,ur,link_apk,Parivahan Sewa,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3670,"عزیز صارف،
+Netflix: Your membership has expired.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,ur,qr_code,Netflix,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+3681,"प्रिय ग्राहक,
+आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+3697,"ਤੁਹਾਡੀ HDFC Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,attached_file_no_link,HDFC Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3709,"आपका HDFC Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,bank_kyc,hi,no_explicit_app_word,HDFC Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+3714,"آپ کا State Electricity Board بجلی کا بل 1500 روپے واجب الادا ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,ur,link_apk,State Electricity Board,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+3740,"आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Bank of Baroda,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+3752,"প্রিয় গ্রাহক,
+INR 25000 was debited from ur SBI account. If this was not done by you, secure your account now.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,bn,link_apk,SBI,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+3757,محترم گاہک، آپ کا State Electricity Board بجلی کا بل 2000 روپے واجب الادا ہے۔ براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔ براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔ [فارورڈ شدہ] Electricity_Pay..apk 14 MB . APK,spam,apk_fraud,electricity,ur,attached_file_no_link,State Electricity Board,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3761,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,security_verify,pa,qr_code,Google Account,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+3771,"ਪਿਆਰੇ ਗਾਹਕ,
+ਤੁਹਾਡੀ SBI KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_kyc,pa,no_explicit_app_word,SBI,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+3784,"INR 25000 was debited from ur RBL Bank acount. If this was not done by you, secure your account now.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,mr,link_apk,RBL Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+3788,"प्रिय ग्राहक,
+INR 200 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,bank_alert,mr,qr_code,ICICI Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+3791,"आपका SBI केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,SBI,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+3801,"শ্রদ্ধেয় গ্রাহক,
+আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 5000 টাকা। চালান নম্বর: CH73280434।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,rto_challan,bn,qr_code,Parivahan / RTO Traffic Police,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+3822,"Dear Vehicle Owner, INR 25000 was debited from your ICICI Bank account. If this was not done by you, secure your account now. Please act within 24 hours or you will lose this offer. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_alert,en,qr_code,ICICI Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+3845,"आदरणीय ग्राहक,
+तुमचे Bank of Baroda केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,Bank of Baroda,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+3850,"INR 25000 was debited from your RBL Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+There is an important updat regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_alert,bn,no_explicit_app_word,RBL Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+3870,"ਪਿਆਰੇ ਗਾਹਕ,
+ਤੁਹਾਡੀ SBI KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open teh pdf file below and check your details.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,pdf_then_apk,SBI,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+3890,"आपके RBL Bank खाते से रु 50000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,hi,link_apk,RBL Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+3892,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+INR 50000 was debited from ur ICICI Bank account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_alert,pa,qr_code,ICICI Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+3895,"அன்புள்ள வாடிக்கையாளர்,
+INR 25000 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+icici-verifiy-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,ta,link_apk,ICICI Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3897,"ਤੁਹਾਡੀ HDFC Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,attached_file_no_link,HDFC Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+3903,"শ্রদ্ধেয় গ্রাহক,
+INR 50000 was debited from your RBL Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,bn,pdf_then_apk,RBL Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+3912,آپ کا State Electricity Board بجلی کا بل 500 روپے واجب الادا ہے۔ براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔ براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔ [فارورڈ شدہ] Electricity_Pay.apk 14 MB . APK,spam,apk_fraud,electricity,ur,attached_file_no_link,State Electricity Board,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+3919,"INR 750 was debited from your ICICI Bank account. If this was not done by you, secure your account now. Please act WITHIN 24 hours or your connection will be disconnected. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process. [Forwarded] ICICI_Verify.apk",spam,apk_fraud,bank_alert,en,no_explicit_app_word,ICICI Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3940,"INR 1000 was debited from your SBI account. If this was not done BY you, secure your account now. ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ। sbi-secure-update.in SBI_Secure.apk",spam,apk_fraud,bank_alert,pa,link_apk,SBI,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+3943,"प्रिय ग्राहक,
+तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,mr,vishing_callback,Axis Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+3949,"প্রিয় গ্রাহক,
+আপনার ICICI Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,ICICI Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3950,"அன்புள்ள வாடிக்கையாளர், உங்கள் வாகனத்திற்கு எதிராக ஒரு போக்குவரத்து விதி மீறல் பதிவு செய்யப்பட்டுள்ளது.. அபராதம்: ரூ 50000. தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும். We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,ta,vishing_callback,RTO Traffic Police,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+3967,"प्रिय उपयोगकर्ता,
+आपके Paytm Payments Bank खाते से रु 1000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,bank_alert,hi,qr_code,Paytm Payments Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+3969,"শ্রদ্ধেয় গ্রাহক,
+আপনার গাড়ির বিরুদ্ধে একটি ট্রাফিক নিয়ম লঙ্ঘন রেকর্ড করা হয়েছে। জরিমানা: 750 টাকা। চালান নম্বর: CH48043501।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] RTOCHALAN.apk  14 MB . APK",spam,apk_fraud,rto_challan,bn,attached_file_no_link,RTO Traffic Police,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+3975,"प्रिय उपयोगकर्ता, आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है। कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। bob-update-kyc.in BOB_Update.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Bank of Baroda,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+3994,"محترم گاہک،
+آپ کی HDFC Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Scan teh QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_kyc,ur,qr_code,HDFC Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+4004,"শ্রদ্ধেয় গ্রাহক,
+INR 25000 was debited from ur SBI account. If this was not done by you, secure your account now.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,bn,link_apk,SBI,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+4005,"ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+google-secure-login.tk
+Google_Secure.apk",spam,apk_fraud,security_verify,pa,link_apk,Google Account,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+4008,"आदरणीय ग्राहक,
+आपका Axis Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,hi,link_apk,Axis Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+4012,"آپ کی SBI KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_kyc,ur,qr_code,SBI,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4013,"ਪਿਆਰੇ ਗਾਹਕ,
+ਤੁਹਾਡੀ PNB KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_kyc,pa,qr_code,PNB,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+4028,"آپ کا Power Distribution Co بجلی کا بل 500 روپے واجب الادا ہے۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,ur,attached_file_no_link,Power Distribution Co,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+4033,"محترم گاہک،
+آپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 2000 روپے۔ چالان نمبر: CH45532425۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,rto_challan,ur,qr_code,RTO Traffic Police,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+4037,"ਪਿਆਰੇ ਗਾਹਕ, ਤੁਹਾਡੀ Bank of Baroda KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ। [ਅੱਗੇ ਭੇਜਿਆ] BOB_Update.apk 14 MB . APK",spam,apk_fraud,bank_kyc,pa,attached_file_no_link,Bank of Baroda,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+4059,"आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें , अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,hi,link_apk,ICICI Bank,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+4087,"عزیز صارف،
+آپ کا State Electricity Board بجلی کا بل 5000 روپے واجب الادا ہے۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,electricity,ur,no_explicit_app_word,State Electricity Board,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+4091,"आदरणीय ग्राहक,
+आपके SBI खाते से रु 1000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,attached_file_no_link,SBI,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4109,"Dear Customer, Your PNB KYC has expired and needs re-verification. Please act immediately or you will lose this offer. Click and open the pdf file below and check your details.
+[Forwarded] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,pdf_then_apk,PNB,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+4113,"आदरणीय ग्राहक,
+INR 750 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,mr,attached_file_no_link,ICICI Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+4114,"প্রিয় গ্রাহক,
+অভিনন্দন! QuickLoan Finance থেকে 5000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,loan_job,bn,vishing_callback,QuickLoan Finance,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4125,"आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+4127,"Attention Customer, INR 50000 was debited from your SBI account. If this was not done by you, secure your account now. Please act before midnight or your account will be blocked. Click the link below and install the app to proceed.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,en,link_apk,SBI,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+4148,"आदरणीय ग्राहक,
+तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,mr,link_apk,Axis Bank,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+4154,"प्रिय उपयोगकर्ता,
+आपके SBI खाते से रु 750 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,SBI,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+4155,"प्रिय उपयोगकर्ता,
+आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,Bank of Baroda,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4158,"ਪਿਆਰੇ ਗਾਹਕ,
+INR 500 was debited from your SBI account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,pa,vishing_callback,SBI,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4162,"محترم گاہک،
+INR 750 was debited from your RBL Bank account. If this was not done by you, secure your account now.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,bank_alert,ur,qr_code,RBL Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+4186,"عزیز صارف،
+آپ کی SBI KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,ur,pdf_then_apk,SBI,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4189,"শ্রদ্ধেয় গ্রাহক ,
+আপনার Axis Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,Axis Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+4193,"आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,bank_kyc,hi,qr_code,PNB,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+4202,"محترم گاہک،
+آپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 1500 روپے۔ چالان نمبر: CH20071990۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,ur,vishing_callback,Parivahan Sewa,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+4220,"ਪਿਆਰੇ ਗਾਹਕ , INR 1000 was debited from your ICICI Bank account. If THIS was not done by you, secure your account now. ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ। [ਅੱਗੇ ਭੇਜਿਆ] ICICI_Verify.apk 14 MB . APK",spam,apk_fraud,bank_alert,pa,attached_file_no_link,ICICI Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+4227,"Dear Customer, INR 2000 was debited from ur SBI account. If this was not done by you, secure your account now. Please act today itself or your connection will be disconnected. Click the link below and install the app to proceed.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,en,link_apk,SBI,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+4240,"Dear User, Your ICICI Bank KYC has expired and needs re-verification. Kindly respond immediately, otherwise your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4241,"உங்கள் ICICI Bank KYC காலாவதியாகிவிட்டது, மீண்டும் சரிபார்ப்பு தேவை.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,ta,link_apk,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+4244,"محترم گاہک،
+Netflix: Your membership has expired.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,ott_subscription,ur,qr_code,Netflix,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+4261,"INR 1000 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,pa,pdf_then_apk,ICICI Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+4265,"ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ WhatsApp ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+There is an important update regarding ur recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] WhatsApp_Verify.apk",spam,apk_fraud,security_verify,pa,no_explicit_app_word,WhatsApp,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+4278,"तुमचे ICICI Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे. कृपया आजच कारवाई करा , अन्यथा तुमचे कनेक्शन तोडले जाईल. कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा. [फॉरवर्ड केलेले] ICICI_Verify.apk 14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4286,"प्रिय ग्राहक, आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है। कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें। [अग्रेषित] ICICI_Verify.apk 14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,ICICI Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4287,"Attention Customer, Your Bank of Baroda KYC has expired and needs re-verification. Kindly respond immediately, otherwise legal action will be taken against you. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_kyc,en,no_explicit_app_word,Bank of Baroda,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4307,"प्रिय उपयोगकर्ता,
+आपका Axis Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,bank_kyc,hi,no_explicit_app_word,Axis Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+4311,"आदरणीय ग्राहक, तुमचे Axis Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे. कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा. [फॉरवर्ड केलेले] Axis_Secure.apk 14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,Axis Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4318,"آپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 500 روپے۔ چالان نمبر: CH16461845۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] ParivahanSewa.apk  14 MB . APK",spam,apk_fraud,rto_challan,ur,pdf_then_apk,Parivahan Sewa,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4321,"आदरणीय ग्राहक,
+आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,bank_kyc,hi,vishing_callback,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4329,"तुमचे ICICI Bank केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,mr,link_apk,ICICI Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4348,"প্রিয় গ্রাহক,
+আপনার PNB কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,bank_kyc,bn,qr_code,PNB,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+4353,"प्रिय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 500. चलन क्रमांक: CH44345256.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,mr,vishing_callback,e-Challan Dept,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+4360,"Dear Vehicle Owner, Your ICICI Bank KYC has expired and needs re-verification. Kindly respond immediately, otherwise your account will be blocked. Click and open the pdf file below and check your details.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,pdf_then_apk,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+4394,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ WhatsApp ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,security_verify,pa,vishing_callback,WhatsApp,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4417,"प्रिय उपयोगकर्ता,
+आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,hi,link_apk,ICICI Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+4419,"प्रिय उपयोगकर्ता,
+आपका Axis Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,pdf_then_apk,Axis Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+4444,"तुमचे PNB केवायसी संपले आहे आणि पुन्हा पडताळणी आवश्यक आहे.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,mr,attached_file_no_link,PNB,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+4455,"محترم گاہک،
+آپ کی HDFC Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,ur,pdf_then_apk,HDFC Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+4492,"INR 25000 was debited from ur SBI account. If this was not done BY you , secure your account now. ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ। sbi-secure-update.in SBI_Secure.apk",spam,apk_fraud,bank_alert,pa,link_apk,SBI,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+4495,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਅਸਾਧਾਰਨ ਲੌਗਇਨ ਗਤੀਵਿਧੀ ਕਾਰਨ ਤੁਹਾਡਾ Google Account ਖਾਤਾ ਮੁਅੱਤਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] Google_Secure.apk  14 MB . APK",spam,apk_fraud,security_verify,pa,attached_file_no_link,Google Account,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+4499,"আপনার ICICI Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,pdf_then_apk,ICICI Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+4515,"প্রিয় গ্রাহক,
+আপনার ICICI Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,ICICI Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+4527,"শ্রদ্ধেয় গ্রাহক,
+আপনার HDFC Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,HDFC Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+4536,"ਪਿਆਰੇ ਗਾਹਕ,
+INR 1500 was debited from your SBI account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,pa,vishing_callback,SBI,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4576,"শ্রদ্ধেয় গ্রাহক,
+আপনার SBI কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+sbi-secure-updat.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,bn,link_apk,SBI,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud
+4577,"محترم گاہک،
+آپ کا Power Distribution Co بجلی کا بل 1000 روپے واجب الادا ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,ur,link_apk,Power Distribution Co,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+4579,"আপনার HDFC Bank কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_kyc,bn,no_explicit_app_word,HDFC Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+4594,"प्रिय उपयोगकर्ता, आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है। कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] ICICI_Verify.apk 14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,ICICI Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+4616,"آپ کی PNB KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,ur,link_apk,PNB,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4622,"आदरणीय ग्राहक,
+आपका SBI केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,hi,link_apk,SBI,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+4632,"प्रिय ग्राहक,
+आपका SBI केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,hi,link_apk,SBI,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+4639,"محترم گاہک،
+آپ کا Power Distribution Co بجلی کا بل 2000 روپے واجب الادا ہے۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,ur,attached_file_no_link,Power Distribution Co,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+4654,"আপনার PNB কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,PNB,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4656,"प्रिय ग्राहक, INR 200 was debited from your SBI account. If this was not done by you, secure your account now. कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. खालील लिंकवरून अॅप इंस्टॉल करा. sbi-secure-update.in SBI_Secure.apk",spam,apk_fraud,bank_alert,mr,link_apk,SBI,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4661,"அன்புள்ள வாடிக்கையாளர்,
+உங்கள் வாகனத்திற்கு எதிராக ஒரு போக்குவரத்து விதி மீறல் பதிவு செய்யப்பட்டுள்ளது. அபராதம்: ரூ 750.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,ta,vishing_callback,Parivahan / RTO Traffic Police,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+4662,"आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,hi,link_apk,ICICI Bank,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+4698,"आदरणीय ग्राहक,
+आपके RBL Bank खाते से रु 2000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,bank_alert,hi,vishing_callback,RBL Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+4699,"عزیز صارف،
+آپ کی SBI KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,ur,pdf_then_apk,SBI,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+4711,"आदरणीय ग्राहक,
+आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,hi,link_apk,PNB,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+4712,"आपके Paytm Payments Bank खाते से रु 1000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,Paytm Payments Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+4716,"आदरणीय ग्राहक,
+आपके SBI खाते से रु 5000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hi,link_apk,SBI,VK-LOANAP,synthetic_v2,10,callback_vishing_fraud
+4724,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੀ Axis Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,pa,link_apk,Axis Bank,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+4726,"INR 5000 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,pa,attached_file_no_link,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4728,"ਪਿਆਰੇ ਗਾਹਕ,
+ਤੁਹਾਡੀ SBI KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,pa,link_apk,SBI,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+4730,"ਤੁਹਾਡੇ ਵਾਹਨ ਵਿਰੁੱਧ ਇੱਕ ਟ੍ਰੈਫਿਕ ਨਿਯਮ ਉਲੰਘਣਾ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਜੁਰਮਾਨਾ: 1500 ਰੁਪਏ। ਚਲਾਨ ਨੰਬਰ: CH27702023।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,pa,vishing_callback,Parivahan Sewa,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+4731,"Dear Sir/Madam, Your SBI KYC has expired and needs re-verification. Kindly respond today itself, otherwise your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,en,attached_file_no_link,SBI,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+4736,"محترم گاہک،
+آپ کی Axis Bank KYC کی میعاد ختم ہو گئی ہے اور دوبارہ تصدیق ضروری ہے۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,ur,attached_file_no_link,Axis Bank,AD-ICICIB,synthetic_v2,10,callback_vishing_fraud
+4741,"Attention Customer, INR 750 was debited from your RBL Bank account. If this was not done by you, secure your account now. Kindly respond within 24 hours, otehrwise your connection will be disconnected. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,en,vishing_callback,RBL Bank,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+4742,"آپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 5000 روپے۔ چالان نمبر: CH85771821۔
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,ur,vishing_callback,Parivahan / RTO Traffic Police,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+4766,"प्रिय उपयोगकर्ता,
+आपके Paytm Payments Bank खाते से रु 50000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,bank_alert,hi,qr_code,Paytm Payments Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+4771,"ਪਿਆਰੇ ਗਾਹਕ,
+ਤੁਹਾਡੀ SBI KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,pa,attached_file_no_link,SBI,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+4773,"আপনার PNB কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,bank_kyc,bn,qr_code,PNB,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4776,"प्रिय ग्राहक,
+आपका ICICI Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,bank_kyc,hi,no_explicit_app_word,ICICI Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+4799,"அன்புள்ள வாடிக்கையாளர்,
+உங்கள் HDFC Bank KYC காலாவதியாகிவிட்டது, மீண்டும் சரிபார்ப்பு தேவை.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,bank_kyc,ta,no_explicit_app_word,HDFC Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4804,"محترم گاہک،
+آپ کا State Electricity Board بجلی کا بل 25000 روپے واجب الادا ہے۔
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,electricity,ur,qr_code,State Electricity Board,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+4805,"ਤੁਹਾਡੀ ICICI Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_kyc,pa,vishing_callback,ICICI Bank,JD-ITAXRF,synthetic_v2,10,callback_vishing_fraud
+4813,"অভিনন্দন! InstaCredit থেকে 25000 টাকার প্রাক-অনুমোদিত অফারের জন্য আপনি যোগ্য।
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,bn,pdf_then_apk,InstaCredit,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+4822,"Your Axis Bank KYC has expired and needs re-verification. Please act within 3 days or legal action will be taken or your service will be suspended permanently. Click the link below and install the app to proceed.
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,en,link_apk,Axis Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4824,"আপনার Bank of Baroda কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+bob-update-kyc.in
+BOB_Update.apk",spam,apk_fraud,bank_kyc,bn,link_apk,Bank of Baroda,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+4833,"শ্রদ্ধেয় গ্রাহক,
+INR 1500 was debited from your RBL Bank account. If this was not done by you, secure your account now.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,bn,link_apk,RBL Bank,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+4838,"Attention Customer , INR 2000 was debited from your RBL Bank account. If this was not done by you, secure your account now. Please act right now to avoid penalty or your connection will be disconnected. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,bank_alert,en,vishing_callback,RBL Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4842,"आपका Bank of Baroda केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,Bank of Baroda,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+4846,"அன்புள்ள வாடிக்கையாளர்,
+உங்கள் PNB KYC காலாவதியாகிவிட்டது, மீண்டும் சரிபார்ப்பு தேவை.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,ta,link_apk,PNB,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4862,"INR 50000 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check your details.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,ta,pdf_then_apk,ICICI Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4874,"INR 200 was debited from your ICICI Bank account. If this was not done by you, secure your account now.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,ta,attached_file_no_link,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4877,"आपके RBL Bank खाते से रु 50000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hi,attached_file_no_link,RBL Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4885,"आदरणीय ग्राहक,
+आपका HDFC Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+hdfc-kyc-update.info
+HDFC_KYCUpdate.apk",spam,apk_fraud,bank_kyc,hi,link_apk,HDFC Bank,VK-INDPST,synthetic_v2,10,callback_vishing_fraud
+4903,"Dear User, INR 500 was debited from your ICICI Bank account. If this was not done by you, secure your account now. Kindly respond within 24 hours, otherwise your service will be suspended permanently. Click and open the pdf file below and check your details.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,en,pdf_then_apk,ICICI Bank,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4923,"உங்கள் HDFC Bank KYC காலாவதியாகிவிட்டது, மீண்டும் சரிபார்ப்பு தேவை.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,ta,attached_file_no_link,HDFC Bank,AX-PWRBIL,synthetic_v2,10,callback_vishing_fraud
+4927,"عزیز صارف،
+آپ کی گاڑی کے خلاف ٹریفک قوانین کی خلاف ورزی درج کی گئی ہے۔ جرمانہ: 50000 روپے۔ چالان نمبر: CH48387144۔
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,rto_challan,ur,qr_code,e-Challan Dept,+91 8800XXXX12,synthetic_v2,10,callback_vishing_fraud
+4940,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 5000. चलन क्रमांक: CH14967155.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,rto_challan,mr,vishing_callback,Parivahan / RTO Traffic Police,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4942,"प्रिय उपयोगकर्ता,
+आपके ICICI Bank खाते से रु 1000 डेबिट हुए हैं। यदि यह आपने नहीं किया है तो तुरंत खाता सुरक्षित करें।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+icici-verifiy-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,hi,link_apk,ICICI Bank,VM-WHATSP,synthetic_v2,10,callback_vishing_fraud
+4949,"শ্রদ্ধেয় গ্রাহক,
+আপনার SBI কেওয়াইসি মেয়াদ শেষ হয়ে গেছে এবং পুনরায় যাচাই করা প্রয়োজন।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,bn,attached_file_no_link,SBI,VK-RTOGOV,synthetic_v2,10,callback_vishing_fraud
+4968,"প্রিয় গ্রাহক,
+আপনার DTDC Courier পার্সেল ট্র্যাকিং কোড GB-4869-H76 অসম্পূর্ণ ঠিকানার কারণে ডেলিভার করা যায়নি।
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] DTDC_Parcel.apk",spam,apk_fraud,courier,bn,no_explicit_app_word,DTDC Courier,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+4969,"आदरणीय ग्राहक,
+तुमच्या वाहनावर वाहतूक नियम उल्लंघन नोंदवले गेले आहे. दंड रक्कम: रु 200. चलन क्रमांक: CH18426588.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,rto_challan,mr,no_explicit_app_word,Parivahan Sewa,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4971,"प्रिय उपयोगकर्ता,
+आपका PNB केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,bank_kyc,hi,vishing_callback,PNB,INFO-GOVT,synthetic_v2,10,callback_vishing_fraud
+4977,"प्रिय ग्राहक,
+INR 5000 was debited from your SBI account. If this was not done by you, secure your account now.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,mr,pdf_then_apk,SBI,VK-UPIRWD,synthetic_v2,10,callback_vishing_fraud
+4979,"प्रिय उपयोगकर्ता,
+आपका HDFC Bank केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,HDFC Bank,VM-SBIBNK,synthetic_v2,10,callback_vishing_fraud
+4986,"आदरणीय ग्राहक ,
+आपका SBI केवाईसी समाप्त हो गया है और इसे पुनः सत्यापित करना आवश्यक है।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hi,attached_file_no_link,SBI,+91 7700XXXX45,synthetic_v2,10,callback_vishing_fraud
+4990,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+ਤੁਹਾਡੀ ICICI Bank KYC ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ ਅਤੇ ਮੁੜ ਪੁਸ਼ਟੀ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,pa,link_apk,ICICI Bank,AD-NETFLX,synthetic_v2,10,callback_vishing_fraud

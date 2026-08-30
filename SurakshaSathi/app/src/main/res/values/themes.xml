@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AppCompat DayNight parent theme since it is available in dependencies -->
+    <style name="Theme.SurakshaSathi" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Window background matching our dark surface -->
+        <item name="android:windowBackground">@color/splash_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- Splash theme — SplashScreen API handles the animation -->
+    <style name="Theme.SurakshaSathi.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_shield</item>
+        <item name="windowSplashScreenAnimationDuration">800</item>
+        <item name="postSplashScreenTheme">@style/Theme.SurakshaSathi</item>
+    </style>
+</resources>

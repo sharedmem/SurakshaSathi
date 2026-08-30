@@ -1,0 +1,94 @@
+severity: warning
+maxIssues: 0
+
+build:
+  maxIssues: 0
+  weights:
+    complexity: 2
+    LongParameterList: 1
+    style: 1
+    comments: 1
+
+naming:
+  active: true
+  ClassNaming:
+    active: true
+  FunctionNaming:
+    active: true
+  VariableNaming:
+    active: true
+
+complexity:
+  active: true
+  LongMethod:
+    active: true
+    threshold: 80
+  CyclomaticComplexMethod:
+    active: true
+    threshold: 15
+  LongParameterList:
+    active: true
+    threshold: 8
+  TooManyFunctions:
+    active: true
+    threshold: 20
+
+style:
+  active: true
+  MagicNumber:
+    active: true
+    ignoreNumbers:
+      - '-1'
+      - '0'
+      - '1'
+      - '2'
+      - '100'
+      - '1000'
+  ForbiddenComment:
+    active: false
+  MaxLineLength:
+    active: true
+    maxLineLength: 130
+  UnusedPrivateMember:
+    active: true
+  WildcardImport:
+    active: true
+
+performance:
+  active: true
+
+exceptions:
+  active: true
+  TooGenericExceptionCaught:
+    active: true
+    exceptionNames:
+      - 'Error'
+      - 'Exception'
+      - 'RuntimeException'
+      - 'Throwable'
+  SwallowedException:
+    active: true
+
+comments:
+  active: false
+
+empty-blocks:
+  active: true
+  EmptyCatchBlock:
+    active: true
+
+# Ignore generated code and test files for some rules
+output-reports:
+  active: true
+  XMLConsoleReport:
+    active: false
+  XMLFileReport:
+    active: true
+    destination: 'build/reports/detekt.xml'
+  TxtConsoleReport:
+    active: false
+
+exclude-patterns:
+  - '**/build/**'
+  - '**/generated/**'
+  - '**/*Test*'

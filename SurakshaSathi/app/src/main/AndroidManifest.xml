@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- ═══════════════════════════════════════════════════════════════════════
+         PERMISSIONS — each commented with its justification (Play Declaration
+         evidence). Least-privilege: only what each feature strictly requires.
+         ═══════════════════════════════════════════════════════════════════════ -->
+
+    <!-- INTERNET: required for all Retrofit calls to the Bank's backend services -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- NETWORK_STATE: check connectivity before network calls (offline-first) -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- POST_NOTIFICATIONS (Android 13+): show phishing/fraud alerts to user -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <!-- RECEIVE_SMS / READ_SMS: intentionally NOT declared here.
+         These are Play-Store-RESTRICTED permissions (§1.2). They are declared
+         ONLY in the "defaultHandler" product flavor's manifest overlay
+         (src/defaultHandler/AndroidManifest.xml), so the default
+         "notificationOnly" distribution build never carries them and needs no
+         Permissions Declaration Form / restricted-permission review. -->
+
+    <!-- CAMERA: CameraX for liveness check (Flow 3) and QR scanner (Flow 5).
+         No face images are stored or transmitted — on-device ML Kit only. -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- ACCESS_FINE_LOCATION: voluntary, for fraud heatmap region tagging (Flow 4).
+         Consent required before use; coarse is acceptable as fallback. -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!-- VIBRATE: haptic feedback on phishing alerts -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- RECEIVE_BOOT_COMPLETED: re-register receivers after device restart -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- FOREGROUND_SERVICE: required if WorkManager uses expedited workers in Bg -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+
+    <!-- USE_BIOMETRIC: biometric PIN challenge in adaptive friction -->
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+
+    <!-- ── Scoped package visibility (no QUERY_ALL_PACKAGES) ──────────────── -->
+    <!-- We only query specific packages needed for impersonation detection.    -->
+
+    <queries>
+        <!-- WhatsApp — notification listener source -->
+        <package android:name="com.whatsapp" />
+        <!-- Telegram — notification listener source -->
+        <package android:name="org.telegram.messenger" />
+        <!-- SBI YONO — official app for impersonation comparison -->
+        <package android:name="com.sbi.lotusintouch" />
+        <!-- Play Store — for "Open official YONO" deep link in awareness flow -->
+        <package android:name="com.android.vending" />
+        <!-- Download Manager — for observing downloaded APKs -->
+        <package android:name="com.android.providers.downloads" />
+    </queries>
+
+    <application
+        android:name=".app.SurakshaSathiApplication"
+        android:allowBackup="false"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:icon="@drawable/ic_splash_shield"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_splash_shield"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SurakshaSathi"
+        android:usesCleartextTraffic="false"
+        tools:targetApi="31">
+
+        <!-- Splash screen -->
+        <activity
+            android:name=".app.MainActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize"
+            android:theme="@style/Theme.SurakshaSathi.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <!-- Deep link for "Report" action from phishing notification (Flow 4b) -->
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="surakshasathi" android:host="report" />
+            </intent-filter>
+            <!-- Deep link for the RAG warning notification's content tap (Flow 1b) -->
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="surakshasathi" android:host="warning" />
+            </intent-filter>
+            <!-- Deep link for the malicious/impersonating APK alert notification (Flow 2) -->
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="surakshasathi" android:host="apk_alert" />
+            </intent-filter>
+        </activity>
+
+        <!-- ── NotificationListenerService (WhatsApp/Telegram/SMS notifications) ── -->
+        <!-- Justification: reads notification text ONLY from whitelisted sender apps
+             (WhatsApp, Telegram, SMS) to detect phishing messages. No message content
+             is stored beyond the classification window without user consent. -->
+        <service
+            android:name=".feature.messagescan.data.service.MessageNotificationListenerService"
+            android:exported="true"
+            android:label="@string/notification_listener_label"
+            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService" />
+            </intent-filter>
+        </service>
+
+        <!-- ── SMS BroadcastReceiver (DefaultHandlerSmsStrategy only) ── -->
+        <!-- Enabled via component manager at runtime only when SMS_STRATEGY = DEFAULT_HANDLER -->
+        <receiver
+            android:name=".feature.messagescan.data.receiver.SmsBroadcastReceiver"
+            android:enabled="false"
+            android:exported="true">
+            <intent-filter android:priority="999">
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- ── APK Install BroadcastReceiver ── -->
+        <!-- Justification: detects newly installed/updated packages for impersonation
+             and malware scanning. Uses scoped queries, NOT QUERY_ALL_PACKAGES. -->
+        <receiver
+            android:name=".feature.apkscan.data.receiver.ApkInstallReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <!-- ── Downloaded-APK BroadcastReceiver ── -->
+        <!-- Justification: detects .apk files completing download so they can be
+             scanned BEFORE install. Uses DownloadManager's own completion
+             broadcast, not a filesystem watcher — no storage permission needed. -->
+        <receiver
+            android:name=".feature.apkscan.data.receiver.DownloadedApkReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+            </intent-filter>
+        </receiver>
+
+        <!-- ── Firebase Messaging Service ── -->
+        <service
+            android:name=".app.service.SurakshaSathiFcmService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <!-- Google Maps API key -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="${MAPS_API_KEY}" />
+
+        <!-- App Startup initializers (lazy, for cold-start < 2s) -->
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="${applicationId}.androidx-startup"
+            android:exported="false"
+            tools:node="merge">
+            <meta-data
+                android:name="com.sbi.surakshasathi.app.startup.TimberInitializer"
+                android:value="androidx.startup" />
+            <!-- Disable WorkManager's own default auto-initializer: it would
+                 otherwise initialize WorkManager with the default reflection-
+                 based WorkerFactory before SurakshaSathiApplication.onCreate()
+                 (via its Configuration.Provider) gets a chance to supply the
+                 HiltWorkerFactory our @HiltWorker workers require. WorkManager
+                 falls back to on-demand initialization using that Configuration
+                 instead — see SurakshaSathiApplication for where it's applied. -->
+            <meta-data
+                android:name="androidx.work.WorkManagerInitializer"
+                android:value="androidx.startup"
+                tools:node="remove" />
+        </provider>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,906 @@
+id,text,label,subtype,category,language,delivery_mode,brand_used,sender_id,source,cluster_id,cluster_label
+21,"Dear Vehicle Owner, Income Tax Dept e-Filing: You are eligible for a refund of Rs 2000. Kindly respond today itself, otherwise your account will be blocked. Click the link below and install the app to proceed.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,en,link_apk,Income Tax Dept e-Filing,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+57,"அன்புள்ள வாடிக்கையாளர்,
+Income Tax Department: You are eligible for a refund of Rs 750.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check your details.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,ta,pdf_then_apk,Income Tax Department,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+63,"عزیز صارف،
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 200..
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,ur,link_apk,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+87,"Namaste Customer, Income Tax Dept e-Filing: Aapko Rs 50000 ka refund milne wala hai. jaldi se jaldi jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,govt_refund,hg,qr_code,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+109,"प्रिय ग्राहक ,
+Income Tax Department: तुम्ही रु 5000 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,mr,attached_file_no_link,Income Tax Department,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+155,"प्रिय ग्राहक,
+Income Tax Department: आप रु 2000 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+190,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: आप रु 200 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,attached_file_no_link,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+215,"Income Tax Department: Aapko Rs 50000 ka refund milne wala hai.. Kripya aaj hi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+251,"Income Tax Department: You are eligible for a refund of Rs 25000.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,pa,qr_code,Income Tax Department,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+266,"Dear Customer, Income Tax Dept e-Filing: Aapko Rs 200 ka refund milne wala hai. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,govt_refund,hg,no_explicit_app_word,Income Tax Dept e-Filing,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+308,"प्रिय उपयोगकर्ता,
+Income Tax Dept e-Filing: आप रु 1000 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+आपके हालिया अनुरोध के संबंध में एक महत्वपूर्ण अपडेट है। कृपया नीचे दिया गया दस्तावेज़ खोलें और प्रक्रिया पूरी करने हेतु चरणों का पालन करें।
+[अग्रेषित] ",spam,apk_fraud,govt_refund,hi,no_explicit_app_word,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+327,"Income Tax Department: Aapko Rs 750 ka refund milne wala hai. turant jawab de, nahi to aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Department,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+339,"Income Tax Dept e-Filing: Aapko Rs 5000 ka refund milne wala hai. 24 ghante ke andar jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+360,"প্রিয় গ্রাহক,
+Income Tax Department: You are eligible for a refund of Rs 500.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,govt_refund,bn,qr_code,Income Tax Department,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+450,"প্রিয় গ্রাহক,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 5000.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,bn,link_apk,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+456,"Dear Customer, Income Tax Department: You are eligible for a refund of Rs 750. Please act today itself or your connection will be disconnected. Please check the attached file for full details and open it to proceed.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Department,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+460,"प्रिय ग्राहक,
+Income Tax Department: आप रु 1500 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+464,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ, Income Tax Dept e-Filing: You are eligible for a refund of Rs 2000. ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। Scan teh QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,pa,qr_code,Income Tax Dept e-Filing,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+488,"عزیز صارف،
+Income Tax Department: You are eligible for a refund of Rs 200.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,ur,link_apk,Income Tax Department,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+492,"Dear User, Income Tax Dept e-Filing: You are eligible for a refund of Rs 5000. Kindly respond immediately, otherwise your account will be blocked. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,en,qr_code,Income Tax Dept e-Filing,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+507,"Priya Grahak, Income Tax Department: Aapko Rs 50000 ka refund milne wala hai. aaj hi jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Department,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+508,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 500.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Scan teh QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,ta,qr_code,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+539,"आदरणीय ग्राहक,
+Income Tax Dept e-Filing: आप रु 200 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,govt_refund,hi,vishing_callback,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+572,"Priya Grahak, Income Tax Dept e-Filing: Aapko Rs 50000 ka refund milne wala hai. aaj hi jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+605,"Dear Customer, Income Tax Department: Aapko Rs 2000 ka refund milne wala hai. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+628,"प्रिय उपयोगकर्ता, Income Tax DEPARTMENT: आप रु 25000 की वापसी के पात्र हैं। कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। incometax-refund..xyz TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+635,"प्रिय उपयोगकर्ता,
+Income Tax Department: आप रु 200 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,pdf_then_apk,Income Tax Department,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+653,"ਪਿਆਰੇ ਗਾਹਕ, Income Tax Department: You are eligible for a refund of Rs 200. ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ। [ਅੱਗੇ ਭੇਜਿਆ] TaxRefund_IT.apk 14 MB . APK",spam,apk_fraud,govt_refund,pa,attached_file_no_link,Income Tax Department,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+679,"ਪਿਆਰੇ ਗਾਹਕ,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 5000.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,pa,link_apk,Income Tax Dept e-Filing,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+717,"শ্রদ্ধেয় গ্রাহক , Income Tax Dept e-Filing: YOU are eligible for a refund of Rs 200. অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে। নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন। [ফরওয়ার্ড করা হয়েছে] IT_Refund_Portal.apk 14 MB . APK",spam,apk_fraud,govt_refund,bn,pdf_then_apk,Income Tax Dept e-Filing,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+735,"Dear Customer, Income Tax Dept e-Filing: Aapko Rs 1000 ka refund milne wala hai. jaldi se jaldi jawab de, nahi to legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Dept e-Filing,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+758,"प्रिय उपयोगकर्ता,
+Income Tax Department: आप रु 1000 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+801,"عزیز صارف،
+Income Tax Department: You are eligible for a refund of Rs 2000.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] TaxRefund_IT.apk",spam,apk_fraud,govt_refund,ur,no_explicit_app_word,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+810,"عزیز صارف،
+Income Tax Department: You are eligible for a refund of Rs 200.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,attached_file_no_link,Income Tax Department,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+816,"Priya Grahak, Income Tax Department: Aapko Rs 50000 ka refund milne wala hai. Kripya aaj hi action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Department,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+817,"Income Tax Dept e-Filing: Aapko Rs 25000 ka refund milne wala hai. turant jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Dept e-Filing,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+842,"प्रिय ग्राहक,
+Income Tax Department: तुम्ही रु 25000 परतावा मिळण्यास पात्र आहात.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,mr,attached_file_no_link,Income Tax Department,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+846,"Dear User, Income Tax Department: You are eligible for a refund of Rs 2000. Please act right now to avoid penalty or your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Department,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+898,"Dear Customer, Income Tax Dept e-Filing: You are eligible for a refund of Rs 500. Kindly respond today itself, otherwise you will lose this offer. Click the link below and install the app to proceed.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,en,link_apk,Income Tax Dept e-Filing,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+919,"அன்புள்ள வாடிக்கையாளர்,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 200.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check your details.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,ta,pdf_then_apk,Income Tax Dept e-Filing,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+927,"Dear Vehicle Owner , Income Tax Department: You are eligible for a refund of Rs 25000. Kindly respond right now to avoid penalty, otherwise your account will be blocked. We tried to reach you regarding your PENDING issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,govt_refund,en,vishing_callback,Income Tax Department,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+937,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 2000.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,bn,link_apk,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+964,"आदरणीय ग्राहक,
+Income Tax Department: तुम्ही रु 200 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+कृपया संलग्न फाईल तपासा आणि पुढे जाण्यासाठी ती उघडा.
+[फॉरवर्ड केलेले] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,mr,attached_file_no_link,Income Tax Department,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+974,"आदरणीय ग्राहक,
+Income Tax Dept e-Filing: आप रु 1000 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Dept e-Filing,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+982,"Dear User, Income Tax Department: You are eligible for a refund of Rs 25000. Please act right now to avoid penalty or you will lose this offer. Please check the attached file for full details and open it to proceed.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Department,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1010,"Income Tax Dept e-Filing: Aapko Rs 25000 ka refund milne wala hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1040,"প্রিয় গ্রাহক,
+Income Tax Department: You are eligible for a refund of Rs 5000..
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,bn,pdf_then_apk,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1042,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: आप रु 1500 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1051,"Income Tax Department: You are eligible for a refund of Rs 1000.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] TaxRefund_IT.apk",spam,apk_fraud,govt_refund,ur,no_explicit_app_word,Income Tax Department,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1062,"प्रिय उपयोगकर्ता,
+Income Tax Dept e-Filing: आप रु 1500 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,pdf_then_apk,Income Tax Dept e-Filing,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1095,"आदरणीय ग्राहक,
+Income Tax Department: आप रु 25000 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1097,"Dear Vehicle Owner, Income Tax Department: You are eligible for a refund of Rs 25000. Please act within 3 days or legal action will be taken or your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Department,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1118,"प्रिय उपयोगकर्ता,
+Income Tax Department: आप रु 750 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Department,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1134,"শ্রদ্ধেয় গ্রাহক,
+Income Tax Department: You are eligible for a refund of Rs 1500.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,bn,pdf_then_apk,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1168,"प्रिय उपयोगकर्ता, Income Tax Department: आप रु 200 की वापसी के पात्र हैं। कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। incometax-refund.xyz TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1174,"Dear User, Income Tax Department: You are eligible for a refund of Rs 2000. Please act before midnight or your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Department,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1194,"عزیز صارف،
+Income Tax Department: You are eligible for a refund of Rs 2000.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,ur,qr_code,Income Tax Department,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1225,"Income Tax Department: Aapko Rs 200 ka refund milne wala hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1230,"Income Tax Dept e-Filing: आप रु 50000 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,attached_file_no_link,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1261,"प्रिय ग्राहक,
+Income Tax Department: तुम्ही रु 25000 परतावा मिळण्यास पात्र आहात.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,mr,link_apk,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1267,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 2000. Kindly respond within 24 hours, otherwise your account will be blocked. Click and open the pdf file below and check your details.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,pdf_then_apk,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1276,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: तुम्ही रु 25000 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,govt_refund,mr,qr_code,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1282,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 1000.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,attached_file_no_link,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1302,"Income Tax Dept e-Filing: तुम्ही रु 750 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,mr,link_apk,Income Tax Dept e-Filing,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1305,"Dear Customer, Income Tax Dept e-Filing: Aapko Rs 200 ka refund milne wala hai. aaj hi jawab de, nahi to aapka acount block ho jayega. Niche di gayi pdf file kholkar apni DETAILS check kare. [Forwarded] IT_Refund_Portal.apk 14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Dept e-Filing,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1328,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 200.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,bn,link_apk,Income Tax Dept e-Filing,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1335,"Dear Customer, Income Tax Dept e-Filing: Aapko Rs 1000 ka refund milne wala hai. Kripya aaj hi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Dept e-Filing,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1342,"শ্রদ্ধেয় গ্রাহক,
+Income Tax Department: You are eligible for a refund of Rs 500.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,bn,link_apk,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1344,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 50000.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,pdf_then_apk,Income Tax Dept e-Filing,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1351,"आदरणीय ग्राहक,
+Income Tax Department: आप रु 750 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Department,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1352,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 1000.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,attached_file_no_link,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1361,"प्रिय उपयोगकर्ता,
+Income Tax Dept e-Filing: आप रु 5000 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,attached_file_no_link,Income Tax Dept e-Filing,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1387,"শ্রদ্ধেয় গ্রাহক,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 500.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,govt_refund,bn,vishing_callback,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1389,"عزیز صارف،
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 1500.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,ur,link_apk,Income Tax Dept e-Filing,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1460,"عزیز صارف،
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 750.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,attached_file_no_link,Income Tax Dept e-Filing,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1481,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 5000.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Click and open teh pdf file below and check your details.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,pdf_then_apk,Income Tax Dept e-Filing,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1524,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 500.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,pdf_then_apk,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1532,"Income Tax Dept e-Filing: Aapko Rs 25000 ka refund milne wala hai. Kripya turant action le, warna connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,govt_refund,hg,qr_code,Income Tax Dept e-Filing,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1536,"Income Tax Department: You are eligible for a refund of Rs 50000. Please act before midnight or your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Department,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1537,"प्रिय उपयोगकर्ता,
+Income Tax Department: आप रु 500 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,attached_file_no_link,Income Tax Department,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1539,"Dear Vehicle Owner, Income Tax Dept e-Filing: You are eligible for a refund of Rs 1500. Kindly respond within 3 days or legal action will be taken, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,en,link_apk,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1588,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 750.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন , নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,bn,link_apk,Income Tax Dept e-Filing,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1609,"அன்புள்ள வாடிக்கையாளர்,
+Income Tax Department: You are eligible for a refund of Rs 750.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,ta,link_apk,Income Tax Department,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1641,"Namaste Customer, Income Tax Dept e-Filing: Aapko Rs 5000 ka refund milne wala hai. Kripya turant action le, warna connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1700,"Dear Customer, Income Tax Department: Aapko Rs 25000 ka refund milne wala hai. turant jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1707,"Namaste Customer, Income Tax Dept e-Filing: Aapko Rs 5000 ka refund milne wala hai. Kripya aaj hi action le, warna legal action hoga. Niche diye link se app install kare.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Dept e-Filing,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1731,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Income Tax Department: You are eligible for a refund of Rs 50000.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,attached_file_no_link,Income Tax Department,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1772,"प्रिय उपयोगकर्ता ,
+Income Tax Dept e-Filing: आप रु 1500 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,attached_file_no_link,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1811,"Income Tax Department: आप रु 200 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Department,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1827,"Income Tax Department: You are eligible for a refund of Rs 1000.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,attached_file_no_link,Income Tax Department,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1849,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: आप रु 500 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1878,"Priya Grahak , Income Tax Dept e-Filing: Aapko Rs 5000 ka refund milne wala hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Dept e-Filing,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1903,"Dear Customer, Income Tax Dept e-Filing: Aapko Rs 5000 ka refund milne wala hai. Kripya turant action le, warna legal action hoga. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,govt_refund,hg,no_explicit_app_word,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1922,"Dear Customer, Income Tax Dept e-Filing: You are eligible for a refund of Rs 2000. Kindly respond before midnight, otherwise your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1965,"आदरणीय ग्राहक,
+Income Tax Department: आप रु 5000 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1981,"Attention Customer, Income Tax Department: You are eligible for a refund of Rs 50000. Please act before midnight or your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Department,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1982,"ਪਿਆਰੇ ਗਾਹਕ,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 25000.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,pa,link_apk,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+1983,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: आप रु 750 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2007,"आदरणीय ग्राहक,
+Income Tax Department: आप रु 200 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,govt_refund,hi,vishing_callback,Income Tax Department,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2034,"Namaste Customer, Income Tax Department: Aapko Rs 25000 ka refund milne wala hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2039,"শ্রদ্ধেয় গ্রাহক,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 50000.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের পিডিএফ ফাইলটি খুলে আপনার বিবরণ পরীক্ষা করুন।
+[ফরওয়ার্ড করা হয়েছে] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,bn,pdf_then_apk,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2052,"ਪਿਆਰੇ ਗਾਹਕ ,
+Income Tax Department: You are eligible for a refund of Rs 50000.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,pa,qr_code,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2078,"Income Tax Dept e-Filing: Aapko Rs 50000 ka refund milne wala hai. Kripya aaj hi action le, warna aapka account block ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,govt_refund,hg,no_explicit_app_word,Income Tax Dept e-Filing,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2082,"आदरणीय ग्राहक,
+Income Tax Dept e-Filing: आप रु 500 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,attached_file_no_link,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2093,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 1000. ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ। Scan teh QR code attached to this message to complete VERIFICATION instantly.",spam,apk_fraud,govt_refund,pa,qr_code,Income Tax Dept e-Filing,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2167,"ਪਿਆਰੇ ਗਾਹਕ,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 200.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,attached_file_no_link,Income Tax Dept e-Filing,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2179,"عزیز صارف،
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 25000.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,ur,qr_code,Income Tax Dept e-Filing,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2183,"प्रिय उपयोगकर्ता,
+Income Tax Department: आप रु 25000 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Department,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2217,"आदरणीय ग्राहक,
+Income Tax Department: तुम्ही रु 1500 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,mr,link_apk,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2248,"Dear Customer, Income Tax Department: Aapko Rs 500 ka refund milne wala hai. Kripya turant action le, warna legal action hoga. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2251,"அன்புள்ள வாடிக்கையாளர்,
+Income Tax Department: You are eligible for a refund of Rs 500.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,ta,link_apk,Income Tax Department,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2268,"Dear Customer, Income Tax Dept e-Filing: Aapko Rs 1500 ka refund milne wala hai. aaj hi jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2289,"প্রিয় গ্রাহক, Income Tax Department: You are eligible for a refund of Rs 1000. অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে। এই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",spam,apk_fraud,govt_refund,bn,qr_code,Income Tax Department,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2308,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 25000.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,pa,link_apk,Income Tax Dept e-Filing,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2335,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 50000.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,pdf_then_apk,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2354,"प्रिय ग्राहक,
+Income Tax Department: तुम्ही रु 2000 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,govt_refund,mr,qr_code,Income Tax Department,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2361,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 1000..
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,attached_file_no_link,Income Tax Dept e-Filing,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2373,"आदरणीय ग्राहक,
+Income Tax Department: आप रु 25000 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,pdf_then_apk,Income Tax Department,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2397,"Namaste Customer, Income Tax Dept e-Filing: Aapko Rs 500 ka refund milne wala hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2476,"Income Tax Dept e-Filing: आप रु 200 की वापसी के पात्र हैं। कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] IT_Refund_Portal.apk 14 MB . APK",spam,apk_fraud,govt_refund,hi,attached_file_no_link,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2541,"Attention Customer, Income Tax Dept e-Filing: You are eligible for a refund of Rs 5000. Kindly respond right now to avoid penalty, otherwise ur service will be suspended permanently. Scan the QR code attached to this message to COMPLETE verification instantly.",spam,apk_fraud,govt_refund,en,qr_code,Income Tax Dept e-Filing,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2558,"محترم گاہک،
+Income Tax Department: You are eligible for a refund of Rs 25000.
+براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,attached_file_no_link,Income Tax Department,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2567,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: तुम्ही रु 1500 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,mr,pdf_then_apk,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2572,"Priya Grahak, Income Tax Dept e-Filing: Aapko Rs 1500 ka refund milne wala hai. Kripya jaldi se jaldi action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2592,"आदरणीय ग्राहक,
+Income Tax Dept e-Filing: तुम्ही रु 500 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,govt_refund,mr,vishing_callback,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2593,"Income Tax Department: You are eligible for a refund of Rs 2000.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,ur,link_apk,Income Tax Department,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2610,"आदरणीय ग्राहक,
+Income Tax Dept e-Filing: आप रु 2000 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2629,"محترم گاہک،
+Income Tax Department: You are eligible for a refund of Rs 500.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,attached_file_no_link,Income Tax Department,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2638,"Dear Customer, Income Tax Department: You are eligible for a refund of Rs 750. Kindly respond before midnight, otherwise your service will be suspended permanently. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,govt_refund,en,vishing_callback,Income Tax Department,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2650,"प्रिय ग्राहक,
+Income Tax Department: तुम्ही रु 2000 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,govt_refund,mr,qr_code,Income Tax Department,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2662,"শ্রদ্ধেয় গ্রাহক,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 25000.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,bn,link_apk,Income Tax Dept e-Filing,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2669,"Income Tax Dept e-Filing: Aapko Rs 50000 ka refund milne wala hai. Kripya jaldi se jaldi action le, warna legal action hoga. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,govt_refund,hg,no_explicit_app_word,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2698,"Dear Customer, Income Tax Dept e-Filing: Aapko Rs 500 ka refund milne wala hai. Kripya aaj hi action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Dept e-Filing,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2712,"ਪਿਆਰੇ ਗਾਹਕ,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 500.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,pa,link_apk,Income Tax Dept e-Filing,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2730,"प्रिय ग्राहक,
+Income Tax Department: तुम्ही रु 1500 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+या संदेशासोबत जोडलेला क्यूआर कोड स्कॅन करा आणि त्वरित पडताळणी करा.",spam,apk_fraud,govt_refund,mr,qr_code,Income Tax Department,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2731,"Income Tax Department: You are eligible for a refund of Rs 200.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,attached_file_no_link,Income Tax Department,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2777,"प्रिय उपयोगकर्ता,
+Income Tax Dept e-Filing: आप रु 2000 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,pdf_then_apk,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2850,"Dear User, Income Tax Department: You are eligible for a refund of Rs 200. Kindly respond immediately, otherwise your connection will be disconnected. Click the link below and install the app to proceed.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,en,link_apk,Income Tax Department,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2859,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 1500.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,ta,attached_file_no_link,Income Tax Dept e-Filing,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2871,"प्रिय ग्राहक,
+Income Tax Department: आप रु 2000 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,pdf_then_apk,Income Tax Department,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2878,"Dear Customer, Income Tax Dept e-Filing: You are eligible for a refund of Rs 25000. Please act within 24 hours or your connection will be disconnected. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,govt_refund,en,vishing_callback,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2908,"Income Tax Department: Aapko Rs 200 ka refund milne wala hai. Kripya aaj hi action le, warna legal action hoga. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2912,"শ্রদ্ধেয় গ্রাহক,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 200.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,bn,attached_file_no_link,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2925,"Priya Grahak, Income Tax Department: Aapko Rs 5000 ka refund milne wala hai. Kripya turant action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Department,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2949,"محترم گاہک،
+Income Tax Department: You are eligible for a refund of Rs 750.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,pdf_then_apk,Income Tax Department,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+2958,"प्रिय उपयोगकर्ता,
+Income Tax Dept e-Filing: आप रु 1000 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3026,"Priya Grahak, Income Tax Dept e-Filing: Aapko Rs 1000 ka refund milne wala hai. aaj hi jawab de, nahi to legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3060,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 1500.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,pdf_then_apk,Income Tax Dept e-Filing,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3074,"आदरणीय ग्राहक,
+Income Tax Department: तुम्ही रु 1000 परतावा मिळण्यास पात्र आहात.
+कृपया त्वरित कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील पीडीएफ फाईल उघडून तुमचे तपशील तपासा.
+[फॉरवर्ड केलेले] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,mr,pdf_then_apk,Income Tax Department,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3084,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Income Tax Department: You are eligible for a refund of Rs 750.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,pa,link_apk,Income Tax Department,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3098,"आदरणीय ग्राहक,
+Income Tax Department: आप रु 2000 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3109,"அன்புள்ள வாடிக்கையாளர்,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 5000.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,ta,attached_file_no_link,Income Tax Dept e-Filing,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3190,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: आप रु 750 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,attached_file_no_link,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3196,"आदरणीय ग्राहक,
+Income Tax Dept e-Filing: आप रु 200 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3209,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 750.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,attached_file_no_link,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3212,"ਪਿਆਰੇ ਗਾਹਕ,
+Income Tax Department: You are eligible for a refund of Rs 2000.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,attached_file_no_link,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3215,"Income Tax Department: You are eligible for a refund of Rs 1500.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,bn,link_apk,Income Tax Department,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3249,"Namaste Customer, Income Tax Dept e-Filing: Aapko Rs 200 ka refund milne wala hai. Kripya aaj hi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Dept e-Filing,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3280,"ਪਿਆਰੇ ਗਾਹਕ,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 2000.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,pa,link_apk,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3364,"Dear Vehicle Owner, Income Tax Dept e-Filing: You are eligible for a refund of Rs 200. Kindly respond before midnight, otherwise your service will be suspended permanently. Please check the attached file for full details and open it to proceed.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3400,"ਪਿਆਰੇ ਗਾਹਕ, Income Tax Dept e-Filing: You are eligible for a REFUND of Rs 2000.. ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ। ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ। it-refund-portal.info IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,pa,link_apk,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3411,"அன்புள்ள வாடிக்கையாளர்,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 200.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,ta,link_apk,Income Tax Dept e-Filing,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3429,"Dear Sir/Madam, Income Tax Department: You are eligible for a refund of Rs 750. Kindly respond immediately, otherwise your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3445,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 25000.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,ur,qr_code,Income Tax Dept e-Filing,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3446,"محترم گاہک،
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 5000.
+براہ کرم 24 گھنٹوں کے اندر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,pdf_then_apk,Income Tax Dept e-Filing,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3449,"Income Tax Department: You are eligible for a refund of Rs 2000. Kindly respond before midnight, otherwise your service will be suspended permanently. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,govt_refund,en,vishing_callback,Income Tax Department,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3477,"Attention Customer, Income Tax Dept e-Filing: You are eligible for a refund of Rs 500. Please act within 24 hours or your connection will be disconnected. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,govt_refund,en,no_explicit_app_word,Income Tax Dept e-Filing,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3510,"Attention Customer, Income Tax Dept e-Filing: You are eligible for a refund of Rs 2000. Please act immediately or your connection will be disconnected. Click and open the pdf file below and check your details.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,pdf_then_apk,Income Tax Dept e-Filing,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3513,"Dear Customer, Income Tax Department: Aapko Rs 2000 ka refund milne wala hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3521,"Dear Sir/Madam, Income Tax Dept e-Filing: You are eligible for a refund of Rs 25000. Kindly respond today itself, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,en,link_apk,Income Tax Dept e-Filing,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3525,"Income Tax Department: Aapko Rs 750 ka refund milne wala hai. 24 ghante ke andar jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,govt_refund,hg,qr_code,Income Tax Department,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3526,"Dear Customer, Income Tax Department: You are eligible for a refund of Rs 1000. Kindly respond within 3 days or legal action will be taken, otherwise your service will be suspended permanently. Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,en,qr_code,Income Tax Department,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3528,"Dear Vehicle Owner, Income Tax Department: You are eligible for a refund of Rs 1000. Kindly respond immediatly, otherwise you will lose this offer. Click and open the pdf file below and check your details.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,pdf_then_apk,Income Tax Department,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3532,"Income Tax Department: You are eligible for a refund of Rs 25000. Please act immediately or your service will be suspended permanently. Click and open the pdf file below and check your details.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,pdf_then_apk,Income Tax Department,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3547,"Income Tax Dept e-Filing: आप रु 1500 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3561,"Income Tax Dept e-Filing: आप रु 750 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3587,"ਪਿਆਰੇ ਗਾਹਕ, Income TAX Department: You are eligible for a refund of Rs 1500.. ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ। Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,pa,qr_code,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3598,"Dear User, Income Tax Department: You are eligible for a refund of Rs 750. Please act today itself or your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Department,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3609,"प्रिय उपयोगकर्ता,
+Income Tax Department: आप रु 200 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Department,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3679,"Income Tax Department: आप रु 1500 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Department,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3727,"आदरणीय ग्राहक,
+Income Tax Department: तुम्ही रु 750 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] TaxRefund_IT.apk",spam,apk_fraud,govt_refund,mr,no_explicit_app_word,Income Tax Department,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3730,"Income Tax Department: आप रु 2000 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Department,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3756,"Priya Grahak, Income Tax Department: Aapko Rs 500 ka refund milne wala hai. Kripya turant action le, warna legal action hoga. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3805,"आदरणीय ग्राहक, Income Tax Department: आप रु 750 की वापसी के पात्र हैं। कृपया आज ही कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी। नीचे दिए गए लिंक से ऐप इंस्टॉल करें। incometax-refund..xyz TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3810,"प्रिय ग्राहक,
+Income Tax Department: आप रु 1000 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3840,"Dear Vehicle Owner, Income Tax Dept e-Filing: You are eligible for a refund of Rs 5000. Kindly respond right now to avoid penalty, otherwise your service will be suspended permanently. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,govt_refund,en,vishing_callback,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3843,"Income Tax Dept e-Filing: आप रु 200 की वापसी के पात्र हैं। कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा। कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें। [अग्रेषित] IT_Refund_Portal.apk 14 MB . APK",spam,apk_fraud,govt_refund,hi,attached_file_no_link,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3856,"Dear Sir/Madam, Income Tax Department: You ARE eligible for a refund of Rs 200.. Please act before midnight or legal action will be taken against you. Click the link below and install the app to proceed. incometax-refund.xyz TaxRefund_IT.apk",spam,apk_fraud,govt_refund,en,link_apk,Income Tax Department,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3918,"आदरणीय ग्राहक, Income Tax Dept e-Filing: तुम्ही रु 5000 परतावा मिळण्यास पात्र आहात. कृपया आजच कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल. There is an important update regarding your recent request. Please open teh document below and follow the steps to complete the process. [Forwarded]",spam,apk_fraud,govt_refund,mr,no_explicit_app_word,Income Tax Dept e-Filing,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+3954,"Income Tax Dept e-Filing: Aapko Rs 5000 ka refund milne wala hai. aaj hi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4011,"محترم گاہک،
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 2000.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,ur,qr_code,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4025,"அன்புள்ள வாடிக்கையாளர்,
+Income Tax Department: You are eligible for a refund of Rs 500.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,ta,link_apk,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4104,"Dear User, Income Tax Department: You are eligible for a refund of Rs 500. Kindly respond right now to avoid penalty, otherwise legal action will be taken against you. Click and open the pdf file below and check your details.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,pdf_then_apk,Income Tax Department,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4106,"প্রিয় গ্রাহক,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 50000.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,bn,attached_file_no_link,Income Tax Dept e-Filing,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4111,"শ্রদ্ধেয় গ্রাহক,
+Income Tax Department: You are eligible for a refund of Rs 500.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,bn,attached_file_no_link,Income Tax Department,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4142,"Namaste Customer, Income Tax Dept e-Filing: Aapko Rs 750 ka refund milne wala hai. turant jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4159,"শ্রদ্ধেয় গ্রাহক,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 750.
+অনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,bn,attached_file_no_link,Income Tax Dept e-Filing,+91 8800XXXX12,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4163,"आदरणीय ग्राहक,
+Income Tax Department: आप रु 750 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4169,"Income Tax Dept e-Filing: Aapko Rs 25000 ka refund milne wala hai. Kripya jaldi se jaldi action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Dept e-Filing,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4181,"Income Tax Department: You are eligible for a refund of Rs 25000.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا اکاؤنٹ بند ہو جائے گا۔
+براہ کرم منسلک فائل دیکھیں اور آگے بڑھنے کے لیے اسے کھولیں۔
+[فارورڈ شدہ] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,attached_file_no_link,Income Tax Department,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4187,"প্রিয় গ্রাহক, Income Tax Department: You are eligible for A refund of Rs 50000. অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে। নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন। incometax-refund.xyz TaxRefund_IT.apk",spam,apk_fraud,govt_refund,bn,link_apk,Income Tax Department,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4196,"அன்புள்ள வாடிக்கையாளர்,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 750.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,ta,link_apk,Income Tax Dept e-Filing,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4198,"Dear Customer, Income Tax Department: You are eligible for a refund of Rs 1500. Please act right now to avoid penalty or your account will be blocked. Click and open the pdf file below and check your details.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,pdf_then_apk,Income Tax Department,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4201,"Income Tax Department: Aapko Rs 25000 ka refund milne wala hai. aaj hi jawab de, nahi to legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,govt_refund,hg,vishing_callback,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4204,"प्रिय ग्राहक,
+Income Tax Department: आप रु 1000 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,attached_file_no_link,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4248,"Income Tax Dept e-Filing: आप रु 1000 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+हमने आपसे संपर्क करने का प्रयास किया। कृपया नीचे दिए गए नंबर पर कॉल करें, हमारा प्रतिनिधि आपको सत्यापन प्रक्रिया में मार्गदर्शन करेगा।",spam,apk_fraud,govt_refund,hi,vishing_callback,Income Tax Dept e-Filing,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4306,"Dear Customer , Income Tax Department: Aapko Rs 1500 ka refund milne wala hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4333,"Namaste Customer, Income Tax Dept e-Filing: Aapko Rs 1500 ka refund milne wala hai. Kripya 24 ghante ke andar action le, warna aapka ACOUNT block ho jayega. Aapke recent request ke baare me ek zaroori updat hai. Niche diya document kholkar process complete kare. [Forwarded] IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hg,no_explicit_app_word,Income Tax Dept e-Filing,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4339,محترم گاہک، Income Tax Dept e-Filing: You are eligible for a refund of Rs 2000. براہ کرم فوری طور پر اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔ Click and open the pdf file below and check your details. [Forwarded] IT_Refund_Portal.apk 14 MB . APK,spam,apk_fraud,govt_refund,ur,pdf_then_apk,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4342,"प्रिय उपयोगकर्ता,
+Income Tax Dept e-Filing: आप रु 1500 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,pdf_then_apk,Income Tax Dept e-Filing,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4357,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Income Tax Department: You are eligible for a refund of Rs 750.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,pdf_then_apk,Income Tax Department,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4358,"Income Tax Department: You are eligible for a refund of Rs 500.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+نیچے دیے گئے لنک سے ایپ انسٹال کریں۔
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,ur,link_apk,Income Tax Department,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4395,"Dear User, Income Tax Dept e-Filing: You are eligible for a refund of Rs 5000. Please act today itself or your service will be suspended permanently. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,en,no_explicit_app_word,Income Tax Dept e-Filing,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4399,"Attention Customer, Income Tax Department: You are eligible for a refund of Rs 5000. Kindly respond immediatly, otherwise your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Department,AD-ICICIB,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4434,"Income Tax Department: Aapko Rs 2000 ka refund milne wala hai. aaj hi jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4450,"Dear Sir/Madam, Income Tax Department: You are eligible for a refund of Rs 5000. Kindly respond today itself, otherwise you will lose this offer. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,govt_refund,en,vishing_callback,Income Tax Department,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4451,"Income Tax Department: You are eligible for a refund of Rs 750. Kindly respond within 3 days or legal action will be taken, otherwise you will lose this offer. There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,govt_refund,en,no_explicit_app_word,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4458,"Income Tax Department: You are eligible for a refund of Rs 1500. Please act immediately or your account will be blocked. Please check the attached file for full details and open it to proceed.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,en,attached_file_no_link,Income Tax Department,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4460,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: आप रु 200 की वापसी के पात्र हैं।
+कृपया तुरंत कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+कृपया संलग्न फ़ाइल देखें और आगे बढ़ने हेतु उसे खोलें।
+[अग्रेषित] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,attached_file_no_link,Income Tax Dept e-Filing,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4465,"Income Tax Department: आप रु 1500 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4483,"محترم گاہک،
+Income Tax Department: You are eligible for a refund of Rs 200.
+براہ کرم آج ہی اقدام کریں، ورنہ آپ کا کنکشن منقطع کر دیا جائے گا۔
+Click and open the pdf file below and check your details.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,ur,pdf_then_apk,Income Tax Department,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4497,"प्रिय ग्राहक,
+Income Tax Dept e-Filing: तुम्ही रु 200 परतावा मिळण्यास पात्र आहात.
+कृपया आजच कारवाई करा, अन्यथा तुमचे खाते बंद होईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,mr,link_apk,Income Tax Dept e-Filing,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4513,"Income Tax Department: You are eligible for a refund of Rs 25000.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,bn,link_apk,Income Tax Department,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4548,"Dear Customer, Income Tax Department: Aapko Rs 5000 ka refund milne wala hai. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4593,"அன்புள்ள வாடிக்கையாளர்,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 50000.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,ta,link_apk,Income Tax Dept e-Filing,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4595,"Dear Customer, Income Tax Department: You are eligible for a refund of Rs 2000. Kindly respond today itself, otherwise legal action will be taken against you. We tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",spam,apk_fraud,govt_refund,en,vishing_callback,Income Tax Department,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4604,"শ্রদ্ধেয় গ্রাহক,
+Income Tax Department: You are eligible for a refund of Rs 25000.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+নিচের লিঙ্ক থেকে অ্যাপ ইনস্টল করুন।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,bn,link_apk,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4618,"Dear Customer, Income Tax Department: Aapko Rs 25000 ka refund milne wala hai. Kripya turant action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Department,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4635,"அன்புள்ள வாடிக்கையாளர்,
+Income Tax Department: You are eligible for a refund of Rs 5000.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,ta,link_apk,Income Tax Department,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4644,"ਪਿਆਰੇ ਗਾਹਕ,
+Income Tax Department: You are eligible for a refund of Rs 25000.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+ਕਿਰਪਾ ਕਰਕੇ ਨੱਥੀ ਫਾਈਲ ਦੇਖੋ ਅਤੇ ਅੱਗੇ ਵਧਣ ਲਈ ਇਸਨੂੰ ਖੋਲ੍ਹੋ।
+[ਅੱਗੇ ਭੇਜਿਆ] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,attached_file_no_link,Income Tax Department,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4669,"प्रिय ग्राहक,
+Income Tax Department: आप रु 50000 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4754,"प्रिय ग्राहक,
+Income Tax Department: आप रु 5000 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा कानूनी कार्रवाई की जाएगी।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Department,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4780,"Income Tax Dept e-Filing: Aapko Rs 750 ka refund milne wala hai. aaj hi jawab de, nahi to aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Dept e-Filing,VM-WHATSP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4797,"प्रिय उपयोगकर्ता,
+Income Tax Department: आप रु 500 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दी गई पीडीएफ फाइल खोलकर अपना विवरण देखें।
+[अग्रेषित] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hi,pdf_then_apk,Income Tax Department,VK-UPIRWD,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4815,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Income Tax Department: You are eligible for a refund of Rs 200.
+ਕਿਰਪਾ ਕਰਕੇ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੋਂ ਐਪ ਇੰਸਟਾਲ ਕਰੋ।
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,pa,link_apk,Income Tax Department,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4837,"Income Tax Department: तुम्ही रु 200 परतावा मिळण्यास पात्र आहात.
+कृपया २४ तासांच्या आत कारवाई करा, अन्यथा तुमचे कनेक्शन तोडले जाईल.
+खालील लिंकवरून अॅप इंस्टॉल करा.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,mr,link_apk,Income Tax Department,VK-LOANAP,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4839,"आदरणीय ग्राहक,
+Income Tax Dept e-Filing: आप रु 1500 की वापसी के पात्र हैं।
+कृपया 24 घंटे के भीतर कार्रवाई करें, अन्यथा आपका खाता बंद हो जाएगा।
+नीचे दिए गए लिंक से ऐप इंस्टॉल करें।
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hi,link_apk,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4840,"Income Tax Department: You are eligible for a refund of Rs 1500.
+ਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।
+Click and open the pdf file below and check your details.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,pa,pdf_then_apk,Income Tax Department,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4856,"Dear Customer, Income Tax Department: Aapko Rs 500 ka refund milne wala hai. Kripya aaj hi action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,pdf_then_apk,Income Tax Department,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4867,"ਸਤਿਕਾਰਯੋਗ ਗਾਹਕ,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 200.
+ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+Scan the QR code attached to this message to complete verification instantly.",spam,apk_fraud,govt_refund,pa,qr_code,Income Tax Dept e-Filing,+91 7700XXXX45,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4881,"Income Tax Dept e-Filing: Aapko Rs 1000 ka refund milne wala hai. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Niche diye link se app install kare.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Dept e-Filing,VK-RTOGOV,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4893,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 1500..
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+Click and open the pdf file below and check your details.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,ta,pdf_then_apk,Income Tax Dept e-Filing,AX-PWRBIL,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4925,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 200.
+தயவுசெய்து உடனடியாக நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+கீழே உள்ள இணைப்பிலிருந்து ஆப்பை நிறுவவும்.
+it-refund-portal.info
+IT_Refund_Portal.apk",spam,apk_fraud,govt_refund,ta,link_apk,Income Tax Dept e-Filing,INFO-GOVT,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4935,"Income Tax Dept e-Filing: You are eligible for a refund of Rs 1500.
+অনুগ্রহ করে আজই ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।
+অনুগ্রহ করে সংযুক্ত ফাইলটি দেখুন এবং এগিয়ে যেতে এটি খুলুন।
+[ফরওয়ার্ড করা হয়েছে] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,bn,attached_file_no_link,Income Tax Dept e-Filing,VK-INDPST,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4945,"Income Tax Department: You are eligible for a refund of Rs 50000.
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,govt_refund,bn,no_explicit_app_word,Income Tax Department,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4951,"Dear Vehicle Owner, Income Tax Department: You are eligible for a refund of Rs 2000. Kindly respond within 3 days or legal action will be taken, otherwise your service will be suspended permanently. Click the link below and install the app to proceed.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,en,link_apk,Income Tax Department,JD-ITAXRF,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4989,"Income Tax Dept e-Filing: आप रु 25000 की वापसी के पात्र हैं।
+कृपया आज ही कार्रवाई करें, अन्यथा आपका कनेक्शन काट दिया जाएगा।
+इस संदेश के साथ संलग्न क्यूआर कोड स्कैन करें और तुरंत सत्यापित करें।",spam,apk_fraud,govt_refund,hi,qr_code,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,6,aadhaar_pan_kyc_fraud
+4991,"শ্রদ্ধেয় গ্রাহক,
+Income Tax Dept e-Filing: You are eligible for a refund of Rs 1000..
+অনুগ্রহ করে ২৪ ঘন্টার মধ্যে ব্যবস্থা নিন, নতুবা আপনার সংযোগ বিচ্ছিন্ন করা হবে।
+There is an important update regarding your recent request. Please open the document below and follow the steps to complete the process.
+[Forwarded] ",spam,apk_fraud,govt_refund,bn,no_explicit_app_word,Income Tax Dept e-Filing,VM-SBIBNK,synthetic_v2,6,aadhaar_pan_kyc_fraud

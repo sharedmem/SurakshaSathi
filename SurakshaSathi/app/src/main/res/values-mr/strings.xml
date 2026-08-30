@@ -1,0 +1,19 @@
+<resources>
+    <!-- Marathi (मराठी) translations -->
+    <string name="app_name">सुरक्षा साथी</string>
+    <string name="app_tagline">बँक अँटी-फिशिंग शील्ड</string>
+    <string name="rag_warning_notification_title">⚠️ हा बनावट बँक/YONO मेसेज असू शकतो</string>
+    <string name="rag_warning_notification_report_action">तक्रार करा</string>
+    <string name="label_protected">संरक्षित ✓</string>
+    <string name="label_safe">सुरक्षित ✓</string>
+    <string name="label_suspicious">संशयास्पद ⚠️</string>
+    <string name="label_malicious">दुर्भावनापूर्ण 🚨</string>
+    <string name="action_report">सायबर गुन्हा नोंदवा</string>
+    <string name="action_learn_more">अधिक जाणून घ्या</string>
+    <string name="action_dismiss">बंद करा</string>
+    <string name="nav_home">मुख्यपृष्ठ</string>
+    <string name="nav_alerts">सूचना</string>
+    <string name="nav_dashboard">डॅशबोर्ड</string>
+    <string name="nav_learn">शिका</string>
+    <string name="error_network">इंटरनेट नाही. ऑफलाइन काम चालू आहे.</string>
+</resources>

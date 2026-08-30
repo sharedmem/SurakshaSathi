@@ -1,0 +1,434 @@
+{
+  "summary": {
+    "total_tests": 14,
+    "passed": 14,
+    "failed": 0,
+    "pass_rate": 1.0,
+    "by_category": {
+      "qr": {
+        "total": 4,
+        "passed": 4
+      },
+      "url": {
+        "total": 4,
+        "passed": 4
+      },
+      "callback": {
+        "total": 3,
+        "passed": 3
+      },
+      "anti_fp": {
+        "total": 3,
+        "passed": 3
+      }
+    },
+    "model_path": "final_model_20260706_123010"
+  },
+  "tests": [
+    {
+      "id": "qr_apk_payload_bn",
+      "category": "qr",
+      "message": "আপনার SBI KYC মেয়াদ শেষ। আজই অ্যাপ ইনস্টল করুন নইলে অ্যাকাউন্ট বন্ধ।",
+      "metadata": {
+        "qr_decoded_text": "https://sbi-kyc-update.xyz/SBI_Secure.apk"
+      },
+      "expected_label": "spam",
+      "predicted_label": "spam",
+      "passed": true,
+      "note": "QR decoded payload is a direct .apk URL -> HARD_RULE_2 (qr_apk_payload).",
+      "spam_probability": 1.0,
+      "threshold_used": 0.5862,
+      "triggered_by": "hard_rule",
+      "hard_rule_reason": "HARD_RULE_1:direct_apk_link",
+      "rule_confidence": 1.0,
+      "sideloading_vectors": [
+        "direct_apk_download",
+        "qr_code_apk_download",
+        "qr_code_sideloading",
+        "brand_impersonation_domain",
+        "low_reputation_tld",
+        "app_download_prompt",
+        "authority_impersonation"
+      ],
+      "extracted_urls": [
+        "https://sbi-kyc-update.xyz/SBI_Secure.apk",
+        "kyc-update.xyz/SBI_Secure.apk"
+      ],
+      "detected_brands": [
+        "sbi"
+      ],
+      "qr_payload_type": "apk_url",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "qr_upi_collect_en",
+      "category": "qr",
+      "message": "Scan the QR code to claim your ₹5000 Flipkart cashback reward!",
+      "metadata": {
+        "qr_decoded_text": "upi://collect?pa=scam@upi&pn=FlipkartReward&am=5000&mode=00"
+      },
+      "expected_label": "spam",
+      "predicted_label": "spam",
+      "passed": true,
+      "note": "QR decoded payload is a upi://collect mandate -> HARD_RULE_4 (qr_upi_collect).",
+      "spam_probability": 1.0,
+      "threshold_used": 0.5862,
+      "triggered_by": "hard_rule",
+      "hard_rule_reason": "HARD_RULE_4:qr_upi_collect_scam",
+      "rule_confidence": 0.98,
+      "sideloading_vectors": [
+        "qr_upi_collect_scam",
+        "qr_code_sideloading",
+        "financial_reward_lure"
+      ],
+      "extracted_urls": [],
+      "detected_brands": [],
+      "qr_payload_type": "upi_collect",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "qr_reference_only_no_decode_bn",
+      "category": "qr",
+      "message": "প্রিয় গ্রাহক,\nDisney+ Hotstar: Your membership has expired.\nঅনুগ্রহ করে অবিলম্বে ব্যবস্থা নিন, নতুবা আপনার অ্যাকাউন্ট বন্ধ হয়ে যাবে।\nএই বার্তার সাথে সংযুক্ত কিউআর কোডটি স্ক্যান করুন এবং অবিলম্বে যাচাই করুন।",
+      "metadata": {},
+      "expected_label": "spam",
+      "predicted_label": "spam",
+      "passed": true,
+      "note": "Message references a QR attachment but no qr_decoded_text was supplied (simulates the phone not having decoded it yet / a text-only export). Must still be flagged via has_qr_reference + urgency + salutation.",
+      "spam_probability": 0.9301,
+      "threshold_used": 0.5862,
+      "triggered_by": "ml_model",
+      "hard_rule_reason": null,
+      "rule_confidence": 0.509,
+      "sideloading_vectors": [
+        "qr_code_sideloading"
+      ],
+      "extracted_urls": [],
+      "detected_brands": [],
+      "qr_payload_type": "none",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "qr_legitimate_payment_control",
+      "category": "qr",
+      "message": "Scan QR at checkout to pay your table bill instantly.",
+      "metadata": {
+        "qr_decoded_text": "upi://pay?pa=merchant@okhdfcbank&pn=CafeCorner&am=450"
+      },
+      "expected_label": "spam",
+      "predicted_label": "spam",
+      "passed": true,
+      "note": "Deliberately conservative control: any upi:// collect/pay/mandate QR is treated as spam by design (Hard Rule 4 has no legitimate-merchant carve-out) — documents current behavior rather than asserting it can't be tightened later.",
+      "spam_probability": 1.0,
+      "threshold_used": 0.5862,
+      "triggered_by": "hard_rule",
+      "hard_rule_reason": "HARD_RULE_4:qr_upi_collect_scam",
+      "rule_confidence": 0.9,
+      "sideloading_vectors": [
+        "qr_upi_collect_scam",
+        "qr_code_sideloading"
+      ],
+      "extracted_urls": [],
+      "detected_brands": [],
+      "qr_payload_type": "upi_collect",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "url_bare_shortener_no_apk_word",
+      "category": "url",
+      "message": "SBI Free Msg: Your bill is paid. Thanks, here's a little gift for you: cutt.ly/fakeapp",
+      "metadata": {},
+      "expected_label": "spam",
+      "predicted_label": "spam",
+      "passed": true,
+      "note": "Shortened URL with no literal 'apk'/'app' keyword and no reward superlative — must be caught via Stage2 shortener risk bump + rule_confidence fallback, not lexical keyword matching alone.",
+      "spam_probability": 0.9252,
+      "threshold_used": 0.5862,
+      "triggered_by": "ml_model",
+      "hard_rule_reason": null,
+      "rule_confidence": 0.55,
+      "sideloading_vectors": [
+        "shortened_url_redirect",
+        "low_reputation_tld"
+      ],
+      "extracted_urls": [
+        "cutt.ly/fakeapp"
+      ],
+      "detected_brands": [],
+      "qr_payload_type": "none",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "url_direct_apk_link",
+      "category": "url",
+      "message": "Namaste, aapka RBL Bank account block ho gaya. Install karo: rbl-protect-acc.icu/RBL_Protect.apk",
+      "metadata": {},
+      "expected_label": "spam",
+      "predicted_label": "spam",
+      "passed": true,
+      "note": "Direct .apk link in text -> HARD_RULE_1 (direct_apk_link).",
+      "spam_probability": 1.0,
+      "threshold_used": 0.5862,
+      "triggered_by": "hard_rule",
+      "hard_rule_reason": "HARD_RULE_1:direct_apk_link",
+      "rule_confidence": 1.0,
+      "sideloading_vectors": [
+        "direct_apk_download",
+        "brand_impersonation_domain",
+        "low_reputation_tld",
+        "text_obfuscation_evasion",
+        "app_download_prompt",
+        "urgency_with_link"
+      ],
+      "extracted_urls": [
+        "rbl-protect-acc.icu/RBL_Protect.apk"
+      ],
+      "detected_brands": [
+        "rbl"
+      ],
+      "qr_payload_type": "none",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "url_brand_impersonation_typosquat",
+      "category": "url",
+      "message": "Your account needs verification. Visit: sbi-secure-updat.in/verify",
+      "metadata": {},
+      "expected_label": "spam",
+      "predicted_label": "spam",
+      "passed": true,
+      "note": "Typosquatted brand domain on a low-reputation-style .in TLD -> Stage2 brand impersonation + suspicious domain signal.",
+      "spam_probability": 0.8432,
+      "threshold_used": 0.5862,
+      "triggered_by": "ml_model",
+      "hard_rule_reason": null,
+      "rule_confidence": 0.65,
+      "sideloading_vectors": [
+        "brand_impersonation_domain",
+        "text_obfuscation_evasion"
+      ],
+      "extracted_urls": [
+        "sbi-secure-updat.in/verify"
+      ],
+      "detected_brands": [
+        "sbi"
+      ],
+      "qr_payload_type": "none",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "url_legitimate_ecommerce_control",
+      "category": "url",
+      "message": "Your Flipkart order #OD8847120 shipped. Delivery by 28 Jun. Track: fkrt.it/t8xB",
+      "metadata": {},
+      "expected_label": "ham",
+      "predicted_label": "ham",
+      "passed": true,
+      "note": "Legitimate delivery notification with an official-brand short link — control case to check the URL heuristics don't over-trigger on shorteners alone.",
+      "spam_probability": 0.0575,
+      "threshold_used": 0.5862,
+      "triggered_by": "ham",
+      "hard_rule_reason": null,
+      "rule_confidence": 0.0,
+      "sideloading_vectors": [],
+      "extracted_urls": [
+        "fkrt.it/t8xB"
+      ],
+      "detected_brands": [],
+      "qr_payload_type": "none",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "callback_apk_install_prompt",
+      "category": "callback",
+      "message": "Your SBI account suspended. Call 1800-111-2222 now. Our officer will help you install the security app to restore access.",
+      "metadata": {
+        "sender": "+447911123456"
+      },
+      "expected_label": "spam",
+      "predicted_label": "spam",
+      "passed": true,
+      "note": "Call + officer installs app -> HARD_RULE_3 (callback_apk_install_prompt).",
+      "spam_probability": 1.0,
+      "threshold_used": 0.5862,
+      "triggered_by": "hard_rule",
+      "hard_rule_reason": "HARD_RULE_3:callback_apk_install_prompt",
+      "rule_confidence": 1.0,
+      "sideloading_vectors": [
+        "callback_vishing_fraud",
+        "callback_apk_install_prompt",
+        "text_obfuscation_evasion",
+        "authority_impersonation",
+        "international_routing_anomaly"
+      ],
+      "extracted_urls": [],
+      "detected_brands": [],
+      "qr_payload_type": "none",
+      "callback_signals": {
+        "has_callback_fraud": true,
+        "has_callback_apk_prompt": true,
+        "callback_number_count": 1
+      }
+    },
+    {
+      "id": "callback_financial_alert_no_phone_no_kyc_pa",
+      "category": "callback",
+      "message": "INR 1500 was debited from your SBI account. If this was not done by you, secure your account now.\nਕਿਰਪਾ ਕਰਕੇ ਅੱਜ ਹੀ ਕਾਰਵਾਈ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਤੁਹਾਡਾ ਖਾਤਾ ਬਲਾਕ ਹੋ ਜਾਵੇਗਾ।\nWe tried to reach you regarding your pending issue. Call us back on the number below and our representative will guide you through the verification process.",
+      "metadata": {},
+      "expected_label": "spam",
+      "predicted_label": "spam",
+      "passed": true,
+      "note": "No phone number literal, no KYC keyword, no URL, mixed Punjabi+English -> must fire via the generic financial-alert+callback authority rule (HARD_RULE_6), not just an explicit-phone-number heuristic.",
+      "spam_probability": 1.0,
+      "threshold_used": 0.5862,
+      "triggered_by": "hard_rule",
+      "hard_rule_reason": "HARD_RULE_5:heuristic_max_confidence",
+      "rule_confidence": 1.0,
+      "sideloading_vectors": [
+        "callback_vishing_fraud",
+        "text_obfuscation_evasion",
+        "authority_impersonation"
+      ],
+      "extracted_urls": [],
+      "detected_brands": [],
+      "qr_payload_type": "none",
+      "callback_signals": {
+        "has_callback_fraud": true,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "callback_legitimate_alert_with_real_helpline_control",
+      "category": "callback",
+      "message": "Transaction alert: ₹2500 debited from A/C XX7891 at Amazon. Avl Bal: ₹12000. Not you? Call 1800XXXXXXX",
+      "metadata": {},
+      "expected_label": "ham",
+      "predicted_label": "ham",
+      "passed": true,
+      "note": "Genuine bank alert that proactively gives an actual helpline number, rather than vaguely saying 'call us back' / 'our representative' / 'number below' — control case for the callback-fraud rule's false-positive guard.",
+      "spam_probability": 0.0933,
+      "threshold_used": 0.5862,
+      "triggered_by": "ham",
+      "hard_rule_reason": null,
+      "rule_confidence": 0.109,
+      "sideloading_vectors": [],
+      "extracted_urls": [],
+      "detected_brands": [],
+      "qr_payload_type": "none",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "benign_repeated_word_noise_mr",
+      "category": "anti_fp",
+      "message": "मी देर आहे, तर तुम्हाला उद्या रात्री कॉल करा, मी आणि तू मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी मी.",
+      "metadata": {},
+      "expected_label": "ham",
+      "predicted_label": "ham",
+      "passed": true,
+      "note": "Degenerate word-repetition glitch text with a call-back verb but zero attack surface (no URL/APK/QR) -> is_likely_benign guard must keep this ham even if the ML model alone gives a borderline spam probability.",
+      "spam_probability": 0.0569,
+      "threshold_used": 0.5862,
+      "triggered_by": "ham",
+      "hard_rule_reason": null,
+      "rule_confidence": 0.0,
+      "sideloading_vectors": [],
+      "extracted_urls": [],
+      "detected_brands": [],
+      "qr_payload_type": "none",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "benign_mixed_script_conversational",
+      "category": "anti_fp",
+      "message": "ভাই, আজ রাতে dinner কোথায় করবো? তুমি বলো।",
+      "metadata": {},
+      "expected_label": "ham",
+      "predicted_label": "ham",
+      "passed": true,
+      "note": "Benign Bengali+English code-mixed chat -> script-mixing alone must not trigger spam.",
+      "spam_probability": 0.0609,
+      "threshold_used": 0.5862,
+      "triggered_by": "ham",
+      "hard_rule_reason": null,
+      "rule_confidence": 0.0,
+      "sideloading_vectors": [],
+      "extracted_urls": [],
+      "detected_brands": [],
+      "qr_payload_type": "none",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    },
+    {
+      "id": "benign_legitimate_otp",
+      "category": "anti_fp",
+      "message": "Your OTP for SBI NetBanking is 847291. Valid 10 mins. Do not share. -SBI",
+      "metadata": {
+        "sender": "VM-SBIBNK"
+      },
+      "expected_label": "ham",
+      "predicted_label": "ham",
+      "passed": true,
+      "note": "Legitimate transactional OTP control case.",
+      "spam_probability": 0.0919,
+      "threshold_used": 0.5862,
+      "triggered_by": "ham",
+      "hard_rule_reason": null,
+      "rule_confidence": 0.3,
+      "sideloading_vectors": [
+        "text_obfuscation_evasion"
+      ],
+      "extracted_urls": [],
+      "detected_brands": [],
+      "qr_payload_type": "none",
+      "callback_signals": {
+        "has_callback_fraud": false,
+        "has_callback_apk_prompt": false,
+        "callback_number_count": 0
+      }
+    }
+  ]
+}

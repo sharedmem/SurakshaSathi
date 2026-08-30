@@ -1,0 +1,656 @@
+id,text,label,subtype,category,language,delivery_mode,brand_used,sender_id,source,cluster_id,cluster_label
+3,"Priya Grahak, Aapka ICICI Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya turant action le, warna connection cut ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,bank_kyc,hg,vishing_callback,ICICI Bank,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+5,Badhai ho! Aapne Rs 25000 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+10,"Namaste Customer, Aapke RBL Bank account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya aaj hi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,hg,link_apk,RBL Bank,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+23,"Priya Grahak, Congratulations! QuickLoan Finance se Rs 5000 ka pre-approved offer mila hai. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,QuickLoan Finance,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+32,"Dear Customer, Aapke SBI account se Rs 1500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. turant jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,SBI,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+36,"Priya Grahak, Aapko PhonePe Rewards se Rs 25000 cashback mila hai. Kripya turant action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hg,link_apk,PhonePe Rewards,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+38,"Dear Customer, Aapke SBI account se Rs 5000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,bank_alert,hg,vishing_callback,SBI,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+101,"Priya Grahak, Aapke RBL Bank account se Rs 25000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. jaldi se jaldi jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,RBL Bank,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+118,"Priya Grahak, Congratulations! QuickLoan Finance se Rs 2000 ka pre-approved offer mila hai. turant jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+121,Badhai ho! Aapne Rs 750 ka prize jeeta hai.. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-INDPST,synthetic_v2,2,loan_app_fraud
+159,"Dear Customer, Congratulations! InstaCredit se Rs 200 ka pre-approved offer mila hai. Kripya aaj hi action le, warna legal action hoga. Is message ke sath attach QR code scan kare aur turant verifiy kare.",spam,apk_fraud,loan_job,hg,qr_code,InstaCredit,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+218,Badhai ho! Aapne Rs 750 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+223,"Dear Customer, Aapke SBI account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_alert,hg,qr_code,SBI,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+290,"Congratulations! QuickLoan Finance se Rs 50000 ka pre-approved offer mila hai. turant jawab de, nahi to connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,QuickLoan Finance,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+291,"Priya Grahak, Aapka Power Distribution Co bijli bill Rs 750 pending hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hg,link_apk,Power Distribution Co,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+293,Badhai ho! Aapne Rs 2000 ka prize jeeta hai. Abhi claim kare cutt.ly/fakeapp par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+313,"Dear Customer, Aapke Paytm Payments Bank account se Rs 750 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. aaj hi jawab de, nahi to aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,bank_alert,hg,vishing_callback,Paytm Payments Bank,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+352,"Priya Grahak, Congratulations! HR Recruitment Cell se Rs 2000 ka pre-approved offer mila hai. jaldi se jaldi jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,HR Recruitment Cell,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+387,"Priya Grahak, Congratulations! HR Recruitment Cell se Rs 2000 ka pre-approved offer mila hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,HR Recruitment Cell,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+390,Badhai ho! Aapne Rs 1000 ka prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+420,Badhai ho! Aapne Rs 1500 ka prize jeeta hai. Abhi claim kare cutt.ly/fakeapp par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+436,"Namaste Customer, Aapka Power Distribution Co bijli bill Rs 25000 pending hai.. KRIPYA 24 ghante ke andar action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare. [Forwarded] PowerPay_App.apk 14 MB . APK",spam,apk_fraud,electricity,hg,pdf_then_apk,Power Distribution Co,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+442,"Congratulations! QuickLoan Finance se Rs 2000 ka pre-approved offer mila hai. turant jawab de, nahi to legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,loan_job,hg,vishing_callback,QuickLoan Finance,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+451,"Priya Grahak, Aapka Axis Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. 24 ghante ke andar jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,Axis Bank,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+467,"Priya Grahak, Aapke SBI account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. turant jawab de, nahi to connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_alert,hg,qr_code,SBI,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+479,"Aapko Paytm Cashback se Rs 2000 cashback mila hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,Paytm Cashback,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+491,"Aapke RBL Bank account se Rs 50000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya aaj hi action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,pdf_then_apk,RBL Bank,VK-INDPST,synthetic_v2,2,loan_app_fraud
+543,"Priya Grahak, Aapka Power Distribution Co bijli bill Rs 2000 pending hai. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,electricity,hg,qr_code,Power Distribution Co,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+552,Badhai ho! Aapne Rs 200 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna OFFER khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+566,"Priya Grahak , Congratulations! InstaCredit se Rs 5000 ka pre-approved offer mila hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,InstaCredit,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+570,"Priya Grahak, Aapko UPI Rewards se Rs 50000 cashback mila hai. turant jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,UPI Rewards,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+579,Badhai ho! Aapne Rs 50000 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+611,"Congratulations! QuickLoan Finance se Rs 2000 ka pre-approved offer MILA hai. aaj hi jawab de, nahi to legal action hoga. Niche diye link se app install kare. quickloan-approve.xyz Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+612,"Congratulations! HR Recruitment Cell se Rs 2000 ka pre-approved offer mila hai. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,loan_job,hg,vishing_callback,HR Recruitment Cell,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+623,Badhai ho! Aapne Rs 2000 ka prize jeeta hai. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+644,"Dear Customer, Aapka PNB KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,pdf_then_apk,PNB,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+645,Badhai ho! Aapne Rs 750 KA prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+663,"Priya Grahak, Aapke RBL Bank account se Rs 500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. aaj hi jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,RBL Bank,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+664,"Priya Grahak, Aapke Paytm Payments Bank account se Rs 5000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya turant action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,Paytm Payments Bank,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+665,"Namaste Customer, Aapko Paytm Cashback se Rs 50000 cashback mila hai. turant jawab de, nahi to connection cut ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,upi_cashback,hg,no_explicit_app_word,Paytm Cashback,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+670,"Aapko Paytm Cashback se Rs 5000 cashback mila hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,Paytm Cashback,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+676,"Dear Customer, Congratulations! HR Recruitment Cell se Rs 200 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Niche diye link se app install kare.
+job-portal-apply.tk
+Job_Portal.apk",spam,apk_fraud,loan_job,hg,link_apk,HR Recruitment Cell,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+681,"Namaste Customer, Aapka Bank of Baroda KYC expire ho gaya hai aur dobara verify karna zaroori hai. jaldi se jaldi jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,Bank of Baroda,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+697,"Congratulations! QuickLoan Finance se Rs 750 ka pre-approved offer mila hai. Kripya aaj hi action le, warna aapka acount block ho jayega. Niche diye link se app install kare.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+710,"Namaste Customer , Congratulations! HR Recruitment Cell se Rs 50000 ka pre-approved offer mila hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,loan_job,hg,qr_code,HR Recruitment Cell,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+712,"Dear Customer, Aapka PNB KYC expire ho gaya hai aur dobara verify karna zaroori hai. turant jawab de, nahi to connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,pdf_then_apk,PNB,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+719,"Congratulations! QuickLoan Finance se Rs 1500 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] Loan_Approval.apk",spam,apk_fraud,loan_job,hg,no_explicit_app_word,QuickLoan Finance,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+725,"Priya Grahak, Aapke Paytm Payments Bank account se Rs 1000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya jaldi se jaldi action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,Paytm Payments Bank,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+734,"Priya Grahak, Aapko UPI Rewards se Rs 5000 cashback mila hai. Kripya aaj hi action le, warna AAPKA acount block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,upi_cashback,hg,qr_code,UPI Rewards,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+736,Badhai ho! Aapne Rs 500 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+744,"Dear Customer, Aapke ICICI Bank account se Rs 2000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,hg,link_apk,ICICI Bank,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+746,"Dear Customer, Congratulations! HR Recruitment Cell se RS 1500 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,loan_job,hg,qr_code,HR Recruitment Cell,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+757,BADHAI ho! Aapne Rs 2000 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+781,"Priya Grahak, Aapko UPI Rewards se Rs 5000 cashback mila hai. Kripya jaldi se jaldi action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,UPI Rewards,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+786,Badhai ho! Aapne Rs 5000 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+788,"Namaste Customer, Aapke ICICI Bank account se Rs 750 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya jaldi se jaldi action le, warna legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,bank_alert,hg,vishing_callback,ICICI Bank,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+802,"Aapka Power Distribution Co bijli bill Rs 200 pending hai. Kripya aaj hi action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hg,attached_file_no_link,Power Distribution Co,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+830,"Aapko UPI Rewards se Rs 2000 cashback mila hai. 24 ghante ke andar jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,UPI Rewards,VK-INDPST,synthetic_v2,2,loan_app_fraud
+837,"Aapka PNB KYC expire ho gaya hai aur dobara verify karna zaroori hai.. jaldi se jaldi jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,PNB,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+841,Badhai ho! Aapne Rs 50000 ka prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+855,"Congratulations! InstaCredit se Rs 5000 ka pre-approved offer MILA hai. turant jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare. instacredit-loan.info InstaCredit.apk",spam,apk_fraud,loan_job,hg,link_apk,InstaCredit,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+864,"Dear Customer , Congratulations! HR Recruitment Cell se Rs 200 ka pre-approved offer mila hai. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+job-portal-apply.tk
+Job_Portal.apk",spam,apk_fraud,loan_job,hg,link_apk,HR Recruitment Cell,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+873,"Aapko Paytm Cashback se Rs 25000 cashback mila hai. aaj hi jawab de, nahi to connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,upi_cashback,hg,qr_code,Paytm Cashback,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+874,"Namaste Customer , Congratulations! QuickLoan Finance se Rs 200 ka pre-approved offer mila hai. turant jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe. [Forwarded] Loan_Approval.apk 14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,QuickLoan Finance,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+875,"Namaste Customer, Congratulations! HR Recruitment Cell se Rs 5000 ka pre-approved offer mila hai. Kripya turant action le, warna legal action hoga. Niche diye link se app install kare.
+job-portal-apply.tk
+Job_Portal.apk",spam,apk_fraud,loan_job,hg,link_apk,HR Recruitment Cell,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+876,Badhai ho! Aapne Rs 200 ka prize jeeta hai.. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+902,"Namaste Customer, Aapko UPI Rewards se Rs 25000 cashback mila hai. aaj hi jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,UPI Rewards,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+907,Badhai ho! Aapne Rs 5000 ka prize jeeta hai. Abhi claim kare cutt.ly/fakeapp par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+920,"Dear Customer, Congratulations! QuickLoan Finance se Rs 5000 ka pre-approved offer mila hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,loan_job,hg,qr_code,QuickLoan Finance,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+922,Badhai ho! Aapne Rs 750 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+930,"Priya Grahak, Income Tax Dept e-Filing: Aapko Rs 1000 ka refund milne wala hai. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Dept e-Filing,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+940,Badhai ho! Aapne Rs 1000 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+949,Badhai ho! Aapne Rs 750 ka prize jeeta hai. Abhi claim kare e3fmr.info/track par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-INDPST,synthetic_v2,2,loan_app_fraud
+968,"Aapke Paytm Payments Bank acount se Rs 50000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. turant jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,Paytm Payments Bank,VK-INDPST,synthetic_v2,2,loan_app_fraud
+972,Badhai ho! Aapne Rs 50000 ka prize jeeta hai. Abhi claim kare BEDY13.COM/UPDATE par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+979,"Aapko PhonePe Rewards se Rs 25000 cashback mila hai. Kripya aaj hi action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,PhonePe Rewards,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+995,"Aapka HDFC Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+hdfc-kyc-update.info
+HDFC_KYCUpdate.apk",spam,apk_fraud,bank_kyc,hg,link_apk,HDFC Bank,VK-INDPST,synthetic_v2,2,loan_app_fraud
+1011,"Priya Grahak, Aapke SBI account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. turant jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,SBI,VK-INDPST,synthetic_v2,2,loan_app_fraud
+1014,Badhai ho! Aapne Rs 2000 ka PRIZE jeeta hai. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+1019,"Priya Grahak, Aapke SBI account se Rs 50000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya turant action le, warna connection cut ho jayega. Niche diye link se app install kare.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,SBI,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+1021,"Namaste Customer, Aapka State Electricity Board bijli bill Rs 50000 pending hai. Kripya turant action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hg,pdf_then_apk,State Electricity Board,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+1039,Badhai ho! Aapne Rs 200 ka prize jeeta hai. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+1067,"Dear Customer, Aapka ICICI Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,ICICI Bank,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+1070,"Priya Grahak, Congratulations! HR Recruitment Cell se Rs 500 ka pre-approved offer mila hai. Kripya jaldi se jaldi action le, warna legal action hoga. Niche diye link se app install kare.
+job-portal-apply.tk
+Job_Portal.apk",spam,apk_fraud,loan_job,hg,link_apk,HR Recruitment Cell,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+1098,"Priya Grahak, Aapka PNB KYC expire ho GAYA hai aur dobara verifiy karna zaroori hai. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe. [Forwarded] PNB_eKYC.apk 14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,PNB,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+1129,"Priya Grahak, Aapka Bank of Baroda KYC expire ho gaya hai aur dobara verifiy karna zaroori hai. aaj hi jawab de, nahi to connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,Bank of Baroda,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+1148,Badhai ho! Aapne Rs 5000 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+1151,"Aapka Power Distribution Co bijli bill Rs 2000 pending hai. Kripya jaldi se jaldi action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hg,attached_file_no_link,Power Distribution Co,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+1171,"Aapke RBL Bank account se Rs 500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya aaj hi action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,RBL Bank,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+1176,"Namaste Customer, Aapka Power Distribution Co bijli bill Rs 200 pending hai.. turant jawab de, nahi to aapka acount block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hg,attached_file_no_link,Power Distribution Co,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+1181,Badhai ho! Aapne Rs 5000 ka prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+1183,"Dear Customer, Aapka ICICI Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,pdf_then_apk,ICICI Bank,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+1192,Badhai ho! Aapne Rs 500 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+1205,"Priya Grahak, Aapke SBI account se Rs 750 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. jaldi se jaldi jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,SBI,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+1212,Badhai ho! AAPNE Rs 2000 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+1218,"Namaste Customer, Aapka Axis Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. 24 ghante ke andar jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,hg,link_apk,Axis Bank,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+1221,"Priya Grahak, Aapke ICICI Bank account se Rs 5000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,ICICI Bank,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+1234,Badhai ho! Aapne Rs 5000 ka prize jeeta hai. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+1242,"Namaste Customer, Congratulations! HR Recruitment Cell se Rs 50000 ka pre-approved offer mila hai. Kripya aaj hi action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,HR Recruitment Cell,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+1274,Badhai ho! Aapne Rs 25000 ka prize jeeta hai. Abhi claim kare e3fmr.info/track par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+1275,"Dear Customer, Congratulations! HR Recruitment Cell se Rs 5000 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna aapka acount block ho jayega. Niche diye link se app install kare. job-portal-apply.tk JOB_PORTAL.APK",spam,apk_fraud,loan_job,hg,link_apk,HR Recruitment Cell,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+1279,"Priya Grahak, Aapka State Electricity Board bijli bill Rs 2000 pending hai. aaj hi jawab de, nahi to connection cut ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,electricity,hg,no_explicit_app_word,State Electricity Board,VK-INDPST,synthetic_v2,2,loan_app_fraud
+1285,Badhai ho! Aapne Rs 25000 ka prize jeeta hai. Abhi claim kare cutt.ly/fakeapp par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+1288,"Dear Customer, Aapko Paytm Cashback se Rs 1500 cashback mila hai.. turant jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe. [Forwarded] Paytm_Cashback.apk 14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,Paytm Cashback,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+1298,"Dear Customer, Congratulations! QuickLoan Finance se Rs 2000 ka pre-approved offer mila hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,QuickLoan Finance,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+1315,"Namaste Customer , Congratulations! InstaCredit se Rs 750 ka pre-approved offer mila hai. jaldi se jaldi jawab de, nahi to legal action HOGA. Niche diye link se app install kare. instacredit-loan.info InstaCredit.apk",spam,apk_fraud,loan_job,hg,link_apk,InstaCredit,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+1323,"Namaste Customer, Congratulations! QuickLoan Finance se Rs 5000 ka pre-approved offer mila hai. Kripya jaldi se jaldi action le, warna legal action hoga. Niche diye link se app install kare.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+1339,"Namaste Customer, Congratulations! QuickLoan Finance se Rs 5000 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,QuickLoan Finance,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+1369,"Dear Customer, Aapke SBI account se Rs 1500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,SBI,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+1372,"Priya Grahak, Congratulations! HR RECRUITMENT Cell se Rs 500 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Attached file check kare aur use khol kar aage badhe. [Forwarded] Job_Portal.apk 14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,HR Recruitment Cell,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+1373,"Namaste Customer, Aapko UPI Rewards se Rs 200 cashback mila hai. turant jawab de, nahi to legal action hoga. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hg,no_explicit_app_word,UPI Rewards,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+1406,"Priya Grahak, Income Tax Dept e-Filing: Aapko Rs 5000 ka refund milne wala hai. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Dept e-Filing,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+1419,"Aapka SBI KYC expire ho gaya hai aur dobara verify karna zaroori hai. turant jawab de, nahi to connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,SBI,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+1443,"Aapko PhonePe Rewards se Rs 1500 cashback mila hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,upi_cashback,hg,qr_code,PhonePe Rewards,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+1463,"Dear Customer, Aapka State Electricity Board bijli bill Rs 2000 pending hai. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,electricity,hg,qr_code,State Electricity Board,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+1464,Badhai ho! Aapne Rs 25000 ka prize jeeta HAI. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-INDPST,synthetic_v2,2,loan_app_fraud
+1487,"Namaste Customer, Congratulations! HR Recruitment Cell se Rs 2000 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Niche diye link se app install kare.
+job-portal-apply.tk
+Job_Portal.apk",spam,apk_fraud,loan_job,hg,link_apk,HR Recruitment Cell,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+1511,"Priya Grahak, Congratulations! InstaCredit se Rs 5000 ka pre-approved offer mila hai. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,InstaCredit,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+1530,"Priya Grahak, Aapka Axis Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya aaj hi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+axis-secure-bank.tk
+Axis_Secure.apk",spam,apk_fraud,bank_kyc,hg,link_apk,Axis Bank,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+1535,"Namaste Customer, Aapko Paytm Cashback se Rs 1500 cashback mila hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,upi_cashback,hg,vishing_callback,Paytm Cashback,VK-INDPST,synthetic_v2,2,loan_app_fraud
+1562,"Namaste Customer, Aapko UPI Rewards se Rs 1500 cashback mila hai. Kripya turant action le, warna legal action hoga. Niche diye link se app install kare.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,UPI Rewards,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+1568,Badhai ho! Aapne Rs 50000 ka prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam HO jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+1600,"Dear Customer, Aapko Paytm Cashback se Rs 2000 cashback mila hai. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,pdf_then_apk,Paytm Cashback,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+1605,"Dear Customer, Congratulations! HR Recruitment Cell se Rs 500 ka pre-approved offer mila hai. aaj hi jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,HR Recruitment Cell,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+1613,"Dear Customer, Aapko Paytm Cashback se Rs 500 cashback mila hai. 24 ghante ke andar jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,Paytm Cashback,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+1616,"Priya Grahak, Congratulations! QuickLoan Finance se Rs 1000 ka pre-approved offer mila hai.. Kripya turant action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,QuickLoan Finance,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+1618,Badhai ho! Aapne Rs 25000 ka prize jeeta hai.. Abhi claim kare e3fmr.info/track par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+1637,"Priya Grahak, Congratulations! QuickLoan Finance se Rs 5000 ka pre-approved offer mila hai. turant jawab de, nahi to connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,QuickLoan Finance,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+1662,Badhai ho! Aapne Rs 750 ka prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-INDPST,synthetic_v2,2,loan_app_fraud
+1676,"Priya Grahak, Income Tax Dept e-Filing: Aapko Rs 50000 ka refund milne wala hai. aaj hi jawab de, nahi to connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,govt_refund,hg,qr_code,Income Tax Dept e-Filing,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+1712,"Dear Customer, Congratulations! QuickLoan Finance se Rs 5000 ka pre-approved offer mila hai. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,QuickLoan Finance,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+1722,"Aapko UPI Rewards se Rs 750 cashback mila hai. turant jawab de, nahi to aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,upi_cashback,hg,vishing_callback,UPI Rewards,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+1723,"Congratulations! InstaCredit se Rs 50000 ka pre-approved offer mila hai. Kripya aaj hi action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,InstaCredit,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+1735,Badhai ho! Aapne Rs 2000 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+1736,"Priya Grahak, Congratulations! QuickLoan Finance se Rs 25000 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Niche diye link se app install kare.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+1740,"Aapke ICICI Bank account se Rs 500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya aaj hi action le, warna connection cut ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ICICI_Verify.apk",spam,apk_fraud,bank_alert,hg,no_explicit_app_word,ICICI Bank,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+1774,"Priya Grahak, Income Tax Department: Aapko Rs 500 ka refund milne wala hai. Kripya aaj hi action le, warna aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,govt_refund,hg,qr_code,Income Tax Department,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+1780,"Dear Customer, Aapka Axis Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya jaldi se jaldi action le, warna legal action hoga. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] Axis_Secure.apk",spam,apk_fraud,bank_kyc,hg,no_explicit_app_word,Axis Bank,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+1781,"Priya Grahak, Aapke ICICI Bank account se Rs 1000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. turant jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,hg,link_apk,ICICI Bank,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+1804,"Dear Customer, Congratulations! QuickLoan Finance se Rs 500 ka pre-approved offer mila hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+1830,Badhai ho! Aapne Rs 500 ka prize jeeta hai. Abhi claim KARE bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+1834,"Priya Grahak, Aapka Power Distribution Co bijli bill Rs 50000 pending hai. turant jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hg,attached_file_no_link,Power Distribution Co,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+1851,"Priya Grahak, Aapka PNB KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya aaj hi action le, warna legal action hoga. Niche diye link se app install kare.
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,hg,link_apk,PNB,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+1861,"Congratulations! InstaCredit se Rs 1500 ka pre-approved offer mila hai. turant jawab de, nahi to aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,InstaCredit,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+1881,"Dear Customer, Aapko PhonePe Rewards se Rs 750 cashback mila hai. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,PhonePe Rewards,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+1913,Badhai ho! Aapne Rs 1000 ka prize jeeta hai. Abhi claim kare bit.ly/3xK9pL par warna OFFER khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+1920,"Namaste Customer, Aapke ICICI Bank account se Rs 500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,pdf_then_apk,ICICI Bank,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+1924,"Namaste Customer, Congratulations! HR Recruitment Cell se Rs 5000 ka pre-approved offer mila hai. Kripya turant action le, warna legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,loan_job,hg,vishing_callback,HR Recruitment Cell,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+1934,"Aapka Bank of Baroda KYC expire ho gaya hai aur dobara verifiy karna zaroori hai. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,pdf_then_apk,Bank of Baroda,VK-INDPST,synthetic_v2,2,loan_app_fraud
+1935,"Priya Grahak, Income Tax Dept e-Filing: Aapko Rs 25000 ka refund milne wala hai. aaj hi jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] IT_Refund_Portal.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Dept e-Filing,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+1939,Badhai ho! Aapne Rs 200 ka prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+1943,Badhai ho! Aapne Rs 200 ka prize jeeta hai. Abhi claim kare e3fmr.info/track par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+1947,Badhai ho! Aapne Rs 25000 ka prize JEETA hai. Abhi claim kare cutt.ly/fakeapp par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+1969,"Priya Grahak, Aapka ICICI Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. jaldi se jaldi jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,ICICI Bank,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+1996,Badhai ho! Aapne Rs 1000 ka prize jeeta hai. Abhi claim kare cutt.ly/fakeapp par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+1997,Badhai ho! Aapne Rs 1000 ka prize jeeta hai.. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+2016,"Aapke Paytm Payments Bank account se Rs 1500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya turant action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,Paytm Payments Bank,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+2062,"Priya Grahak, Congratulations! HR Recruitment Cell se Rs 1500 ka pre-approved offer mila hai. jaldi se jaldi jawab de, nahi to legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,HR Recruitment Cell,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+2073,Badhai ho! Aapne Rs 750 ka prize jeeta hai. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+2110,"Dear Customer, Aapko Paytm Cashback se Rs 2000 cashback mila hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,Paytm Cashback,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+2123,"Namaste Customer, Congratulations! QuickLoan Finance se Rs 1000 ka pre-approved offer mila hai. aaj hi jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,QuickLoan Finance,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+2127,Badhai ho! Aapne Rs 1500 KA prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+2129,"Namaste Customer, Aapke Paytm Payments Bank account se Rs 500 debit hua hai.. Agar yeh aapne nahi kiya to account secure kare. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,bank_alert,hg,no_explicit_app_word,Paytm Payments Bank,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+2159,"Namaste Customer, Aapka Power Distribution Co bijli bill Rs 500 pending hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hg,link_apk,Power Distribution Co,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+2177,"Namaste Customer , Aapko Paytm Cashback se Rs 25000 cashback mila hai. aaj hi jawab de, nahi to aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,pdf_then_apk,Paytm Cashback,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+2185,"Dear Customer, Aapko UPI Rewards se Rs 50000 cashback mila hai. aaj hi jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,UPI Rewards,VK-INDPST,synthetic_v2,2,loan_app_fraud
+2193,"Namaste Customer, Aapke SBI account se Rs 500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_alert,hg,qr_code,SBI,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+2219,"Priya Grahak, Congratulations! HR Recruitment Cell se Rs 25000 ka pre-approved offer mila hai. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+job-portal-apply.tk
+Job_Portal.apk",spam,apk_fraud,loan_job,hg,link_apk,HR Recruitment Cell,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+2240,"Priya Grahak, Aapko Paytm Cashback se Rs 2000 cashback mila hai.. aaj hi jawab de, nahi to legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,pdf_then_apk,Paytm Cashback,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+2274,Badhai ho! Aapne Rs 25000 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+2311,"Aapke Paytm Payments Bank account se Rs 500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya aaj hi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,Paytm Payments Bank,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+2316,"Dear Customer, Congratulations! InstaCredit se Rs 2000 ka pre-approved offer mila hai. turant jawab de, nahi to connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,loan_job,hg,qr_code,InstaCredit,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+2352,Badhai ho! Aapne Rs 500 ka prize jeeta hai. Abhi claim kare e3fmr.info/track par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-INDPST,synthetic_v2,2,loan_app_fraud
+2385,"Aapka State Electricity Board bijli bill Rs 25000 pending hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,electricity,hg,no_explicit_app_word,State Electricity Board,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+2459,"அன்புள்ள வாடிக்கையாளர்,
+உங்கள் Bank of Baroda KYC காலாவதியாகிவிட்டது, மீண்டும் சரிபார்ப்பு தேவை.
+தயவுசெய்து 24 மணி நேரத்திற்குள் நடவடிக்கை எடுக்கவும், இல்லையெனில் உங்கள் கணக்கு முடக்கப்படும்.
+தயவுசெய்து இணைக்கப்பட்ட கோப்பைப் பார்த்து தொடர அதைத் திறக்கவும்.
+[அனுப்பப்பட்டது] BOB_Update.apk  14 MB . APK",spam,apk_fraud,bank_kyc,ta,attached_file_no_link,Bank of Baroda,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+2466,"Dear Customer , Aapke ICICI Bank account se Rs 5000 debit hua hai. Agar yeh aapne nahi kiya TO account secure kare. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe. [Forwarded] ICICI_Verify.apk 14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,ICICI Bank,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+2470,"Namaste Customer, Aapke RBL Bank account se Rs 25000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,hg,link_apk,RBL Bank,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+2490,"Priya Grahak , Disney+ Hotstar: Aapki membership expire ho gayi hai. KRIPYA turant action le, warna legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,ott_subscription,hg,qr_code,Disney+ Hotstar,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+2509,"Priya Grahak, Aapka PNB KYC expire ho gaya hai aur dobara verify karna zaroori hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,PNB,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+2513,"Asamanya login activity ki wajah se aapka WhatsApp account suspend ho sakta hai. turant jawab de, nahi to legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,security_verify,hg,vishing_callback,WhatsApp,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+2555,Badhai ho! Aapne Rs 50000 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+2559,"Namaste Customer, Congratulations! QuickLoan Finance se Rs 50000 ka pre-approved offer mila hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+2587,"Namaste Customer, Congratulations! InstaCredit se Rs 50000 ka pre-approved offer mila hai. Kripya aaj hi action le, warna aapka account block ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] InstaCredit.apk",spam,apk_fraud,loan_job,hg,no_explicit_app_word,InstaCredit,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+2599,Badhai ho! Aapne Rs 2000 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+2619,"Dear Customer, Aapko PhonePe Rewards se Rs 200 cashback mila hai. Kripya turant action le, warna connection cut ho jayega. Niche diye link se app install kare.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hg,link_apk,PhonePe Rewards,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+2622,"Dear Customer, Aapke SBI account se Rs 750 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,bank_alert,hg,vishing_callback,SBI,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+2649,Badhai ho! Aapne Rs 1500 ka prize jeeta hai. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+2675,"Priya Grahak, Aapka ICICI Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,ICICI Bank,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+2693,Badhai ho! Aapne Rs 200 ka prize jeeta hai.. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+2703,"Priya Grahak, Aapka Axis Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya jaldi se jaldi action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,Axis Bank,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+2709,"Aapka HDFC Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,HDFC Bank,VK-INDPST,synthetic_v2,2,loan_app_fraud
+2721,"Dear Customer, Aapka PNB KYC expire ho gaya hai aur dobara verify karna zaroori hai. 24 ghante ke andar jawab de, nahi to legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,bank_kyc,hg,vishing_callback,PNB,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+2738,"Namaste Customer, Aapke Paytm Payments Bank account se Rs 2000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,pdf_then_apk,Paytm Payments Bank,VK-INDPST,synthetic_v2,2,loan_app_fraud
+2748,"Priya Grahak, Aapko PhonePe Rewards se Rs 5000 cashback mila hai. jaldi se jaldi jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hg,link_apk,PhonePe Rewards,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+2789,Badhai ho! Aapne Rs 50000 ka prize jeeta hai. Abhi claim kare cutt.ly/fakeapp par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+2799,"Namaste Customer, Congratulations! InstaCredit se Rs 200 ka pre-approved offer mila hai. Kripya jaldi se jaldi action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,InstaCredit,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+2822,"Namaste Customer, Aapka State Electricity Board bijli bill Rs 750 pending hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,electricity,hg,vishing_callback,State Electricity Board,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+2845,"Priya Grahak, Aapko Paytm Cashback se Rs 500 cashback mila hai. Kripya turant action le, warna connection cut ho jayega. Niche diye link se app install kare.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,Paytm Cashback,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+2849,"Namaste Customer , Aapke RBL Bank acount se Rs 5000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya 24 ghante ke andar action le, warna legal action hoga. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,bank_alert,hg,no_explicit_app_word,RBL Bank,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+2851,"Aapko PhonePe Rewards se Rs 5000 cashback mila hai. turant jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hg,link_apk,PhonePe Rewards,VK-INDPST,synthetic_v2,2,loan_app_fraud
+2866,"Namaste Customer, Congratulations! HR Recruitment Cell se Rs 750 ka pre-approved offer mila hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,HR Recruitment Cell,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+2870,"Priya Grahak, Aapko Paytm Cashback se Rs 1500 cashback mila hai. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,Paytm Cashback,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+2915,Badhai ho! Aapne Rs 1500 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+2916,Badhai ho! Aapne Rs 2000 ka prize jeeta hai. Abhi claim KARE tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+2926,"Namaste Customer, Disney+ Hotstar: Aapki membership expire ho gayi hai. aaj hi jawab de, nahi to aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,ott_subscription,hg,qr_code,Disney+ Hotstar,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+2930,"Namaste Customer, Aapka HDFC Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. jaldi se jaldi jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,HDFC Bank,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+2950,"Namaste Customer, Aapko UPI Rewards se Rs 1000 cashback mila hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,UPI Rewards,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+2988,"Aapke Paytm Payments Bank account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya 24 ghante ke andar action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,pdf_then_apk,Paytm Payments Bank,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+2993,Badhai ho! Aapne Rs 200 ka prize jeeta hai. Abhi claim kare cutt.ly/fakeapp par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+3014,"Aapko UPI Rewards se Rs 2000 cashback mila hai. aaj hi jawab de, nahi to aapka account block ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hg,no_explicit_app_word,UPI Rewards,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+3015,"Aapke RBL Bank account se Rs 25000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. 24 ghante ke andar jawab de , nahi to legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,pdf_then_apk,RBL Bank,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3022,"Namaste Customer, Aapke RBL Bank account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,bank_alert,hg,vishing_callback,RBL Bank,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+3035,"Aapke SBI account se Rs 750 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,SBI,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+3037,"Priya Grahak , Aapke RBL Bank account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya jaldi se jaldi action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,pdf_then_apk,RBL Bank,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+3056,"Priya Grahak, Aapka Axis Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. TURANT jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe. [Forwarded] Axis_Secure.apk 14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,Axis Bank,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+3071,"Aapka HDFC Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] HDFC_KYCUpdate.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,HDFC Bank,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+3072,"Dear Customer, Aapke RBL Bank account se Rs 750 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya turant action le, warna legal action hoga. Niche diye link se app install kare.
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,hg,link_apk,RBL Bank,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+3079,"Aapke ICICI Bank account se Rs 25000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya turant action le, warna connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verifiy kare.",spam,apk_fraud,bank_alert,hg,qr_code,ICICI Bank,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+3104,"Namaste Customer, Aapke ICICI Bank account se Rs 750 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. aaj hi jawab de, nahi to aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,pdf_then_apk,ICICI Bank,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+3110,"Aapko Paytm Cashback se Rs 500 cashback mila hai. turant jawab de, nahi to legal action hoga. Niche diye LINK se app install kare. paytm-cashback-claim.tk Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,Paytm Cashback,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+3113,Badhai ho! Aapne Rs 2000 ka prize jeeta hai.. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+3114,"Aapko PhonePe Rewards se Rs 1500 cashback mila hai. turant jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hg,link_apk,PhonePe Rewards,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+3115,"Dear Customer, Aapka PNB KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya turant action le, warna connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,PNB,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3134,Badhai ho! Aapne Rs 25000 ka prize jeeta hai. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+3153,"Priya Grahak, Aapke SBI account se Rs 500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya aaj hi action le, warna legal action hoga. Niche diye link se app install kare.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,SBI,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+3164,"Namaste Customer, Aapko UPI Rewards se Rs 750 cashback mila hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Attached file check kare aur USE khol kar aage badhe. [Forwarded] UPI_Cashback.apk 14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,UPI Rewards,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+3177,"Priya Grahak, Aapke RBL Bank account se Rs 500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. aaj hi jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,hg,link_apk,RBL Bank,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+3191,"Dear Customer, AAPKO Paytm Cashback se Rs 2000 cashback mila hai. aaj hi jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe. [Forwarded] Paytm_Cashback.apk 14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,Paytm Cashback,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+3218,"Priya Grahak , Aapke RBL Bank acount se Rs 5000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. turant jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe. [Forwarded] RBL_Protect.apk 14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,RBL Bank,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+3236,"Dear Customer, Aapka ICICI Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,ICICI Bank,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+3238,"Priya Grahak, Congratulations! QuickLoan Finance se Rs 25000 ka pre-approved offer mila hai. Kripya aaj hi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3266,Badhai ho! Aapne Rs 1500 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+3308,"Namaste Customer, Congratulations! InstaCredit se Rs 5000 ka pre-approved offer mila hai. Kripya turant action le, warna legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,loan_job,hg,vishing_callback,InstaCredit,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3311,"Namaste Customer, Aapke ICICI Bank account se Rs 25000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya jaldi se jaldi action le, warna legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_alert,hg,qr_code,ICICI Bank,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+3312,"Aapke ICICI Bank account se Rs 500 debit hua hai.. Agar yeh aapne nahi kiya to account secure kare. Kripya 24 ghante ke andar action le, warna legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,bank_alert,hg,vishing_callback,ICICI Bank,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3313,"Namaste Customer, Aapke SBI account se Rs 1000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,SBI,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+3324,"Dear Customer, Aapka Axis Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya jaldi se jaldi action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,pdf_then_apk,Axis Bank,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+3334,"Dear Customer, Aapka State Electricity Board bijli bill Rs 50000 pending hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+bijli-bill-pay.xyz
+Electricity_Pay.apk",spam,apk_fraud,electricity,hg,link_apk,State Electricity Board,VK-INDPST,synthetic_v2,2,loan_app_fraud
+3340,Badhai ho! Aapne Rs 25000 ka prize jeeta hai. Abhi claim kare E3FMR.INFO/TRACK par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+3341,"Dear Customer, Aapka SBI KYC expire ho gaya hai aur dobara verify karna zaroori hai. aaj hi jawab de, nahi to aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,SBI,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+3342,"Namaste Customer, Aapke SBI account se Rs 750 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,bank_alert,hg,vishing_callback,SBI,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+3354,"Namaste Customer, Aapke ICICI Bank account se Rs 25000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. turant jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,hg,link_apk,ICICI Bank,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+3370,"Namaste Customer, Aapke Paytm Payments Bank account se Rs 5000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,pdf_then_apk,Paytm Payments Bank,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+3371,"Congratulations! HR Recruitment Cell se Rs 5000 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,loan_job,hg,vishing_callback,HR Recruitment Cell,VK-INDPST,synthetic_v2,2,loan_app_fraud
+3375,"Congratulations! QuickLoan Finance se Rs 500 ka pre-approved offer mila hai. Kripya turant action le, warna legal action hoga. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,loan_job,hg,vishing_callback,QuickLoan Finance,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+3391,"Namaste Customer, Income Tax Department: Aapko Rs 500 ka refund milne wala hai. Kripya aaj hi action le, warna connection cut ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,no_explicit_app_word,Income Tax Department,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3397,"Congratulations! InstaCredit se Rs 200 ka pre-approved offer mila hai. Kripya aaj hi action le, warna connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,loan_job,hg,qr_code,InstaCredit,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+3403,"Congratulations! InstaCredit se Rs 200 ka pre-approved offer mila hai. Kripya aaj hi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+instacredit-loan.info
+InstaCredit.apk",spam,apk_fraud,loan_job,hg,link_apk,InstaCredit,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+3410,"Dear Customer, Congratulations! HR Recruitment Cell se Rs 2000 ka pre-approved offer mila hai. aaj hi jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,HR Recruitment Cell,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+3414,"Namaste Customer, Congratulations! QuickLoan Finance se Rs 1500 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,loan_job,hg,qr_code,QuickLoan Finance,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+3427,"Priya Grahak, Aapka State Electricity Board bijli bill Rs 2000 pending hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,electricity,hg,vishing_callback,State Electricity Board,VK-INDPST,synthetic_v2,2,loan_app_fraud
+3430,"Dear Customer, Aapka State Electricity Board bijli bill Rs 2000 pending hai. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Electricity_Pay.apk  14 MB . APK",spam,apk_fraud,electricity,hg,attached_file_no_link,State Electricity Board,VK-INDPST,synthetic_v2,2,loan_app_fraud
+3431,"Aapka HDFC Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,bank_kyc,hg,no_explicit_app_word,HDFC Bank,VK-INDPST,synthetic_v2,2,loan_app_fraud
+3457,"Namaste Customer, Aapka PNB KYC expire ho gaya hai aur dobara verify karna zaroori hai. turant jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] PNB_eKYC.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,PNB,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+3462,"Dear Customer, Aapka ICICI Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. jaldi se jaldi jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,hg,link_apk,ICICI Bank,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+3492,"Priya Grahak, Aapko UPI Rewards se Rs 200 cashback mila hai. Kripya jaldi se jaldi action le, warna legal action hoga. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hg,no_explicit_app_word,UPI Rewards,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+3493,Badhai ho! Aapne Rs 50000 ka prize jeeta hai. Abhi claim kare e3fmr.info/track par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+3507,Badhai ho! Aapne Rs 200 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam HO jayega.,spam,link_fraud,prize_link,hg,link_only,,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+3508,"Namaste Customer, Aapke RBL Bank account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+rbl-protect-acc.info
+RBL_Protect.apk",spam,apk_fraud,bank_alert,hg,link_apk,RBL Bank,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+3544,Badhai ho! Aapne Rs 5000 ka prize jeeta hai.. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+3559,"Namaste Customer, Congratulations! InstaCredit se Rs 750 ka pre-approved offer mila hai. aaj hi jawab de, nahi TO aapka account block ho jayega. Niche diye link se app install kare. instacredit-loan.info InstaCredit.apk",spam,apk_fraud,loan_job,hg,link_apk,InstaCredit,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+3560,"Namaste Customer , Congratulations! QuickLoan Finance se Rs 5000 ka pre-approved offer mila hai. aaj hi jawab de, nahi to connection cut ho jayega. Attached file CHECK kare aur use khol kar aage badhe. [Forwarded] Loan_Approval.apk 14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,QuickLoan Finance,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3562,"Dear Customer, Congratulations! QuickLoan Finance se Rs 200 ka pre-approved offer mila hai. Kripya turant action le, warna aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,loan_job,hg,vishing_callback,QuickLoan Finance,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+3572,"Priya Grahak, Aapko UPI Rewards se Rs 2000 cashback mila hai. Kripya jaldi se jaldi action le, warna legal action hoga. Niche diye link se app install kare.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,UPI Rewards,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+3577,"Priya Grahak, Aapko UPI Rewards se Rs 500 cashback mila hai. Kripya aaj hi action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,UPI Rewards,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3596,"Congratulations! InstaCredit se Rs 25000 ka pre-approved offer mila hai. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+instacredit-loan.info
+InstaCredit.apk",spam,apk_fraud,loan_job,hg,link_apk,InstaCredit,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+3602,Badhai ho! Aapne Rs 1000 ka prize jeeta HAI. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+3614,"Namaste Customer, Aapke Paytm Payments Bank account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. aaj hi jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,Paytm Payments Bank,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3630,"Namaste Customer , Aapke RBL Bank account se Rs 500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. turant jawab de, nahi to legal action hoga. Niche diye link se app install kare. rbl-protect-acc.info RBL_Protect.apk",spam,apk_fraud,bank_alert,hg,link_apk,RBL Bank,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+3650,"Namaste Customer, Aapke Paytm Payments Bank account se Rs 1000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. 24 ghante ke andar jawab de, nahi to legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,pdf_then_apk,Paytm Payments Bank,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+3677,Badhai ho! Aapne Rs 1500 ka prize jeeta hai. Abhi claim kare E3FMR.INFO/TRACK par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3686,"Aapka HDFC Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya aaj hi action le, warna connection cut ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,bank_kyc,hg,no_explicit_app_word,HDFC Bank,VK-INDPST,synthetic_v2,2,loan_app_fraud
+3703,"Dear Customer , Aapko PhonePe Rewards se Rs 200 cashback mila hai. turant jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+phonepe-reward.info
+PhonePe_Reward.apk",spam,apk_fraud,upi_cashback,hg,link_apk,PhonePe Rewards,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+3706,"Dear Customer, Aapke ICICI Bank account se Rs 1500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ICICI_Verify.apk",spam,apk_fraud,bank_alert,hg,no_explicit_app_word,ICICI Bank,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+3722,"Priya Grahak, Aapko PhonePe Rewards se Rs 1500 cashback mila hai. Kripya aaj hi action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,PhonePe Rewards,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+3729,"Priya Grahak, Aapko UPI Rewards se Rs 25000 cashback mila hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,UPI Rewards,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+3732,"Namaste Customer, Aapko Paytm Cashback se Rs 1500 cashback mila hai. Kripya turant action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,pdf_then_apk,Paytm Cashback,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+3739,"Namaste Customer, Congratulations! HR Recruitment Cell se Rs 25000 ka pre-approved offer mila hai. aaj hi jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,HR Recruitment Cell,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+3743,"Namaste Customer, Aapko PhonePe Rewards se Rs 25000 cashback mila hai. Kripya aaj hi action le, warna connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] PhonePe_Reward.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,PhonePe Rewards,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+3747,Badhai ho! Aapne Rs 500 ka prize jeeta hai. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+3759,"Dear Customer, Aapko UPI Rewards se Rs 25000 cashback mila hai. Kripya jaldi se jaldi action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,UPI Rewards,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+3800,"Dear Customer, Congratulations! HR Recruitment Cell se Rs 500 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,loan_job,hg,qr_code,HR Recruitment Cell,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+3803,"Priya Grahak, Congratulations! HR Recruitment Cell se Rs 1500 ka pre-approved offer mila hai. Kripya turant action le, warna aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,loan_job,hg,vishing_callback,HR Recruitment Cell,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+3806,"Aapka Bank of Baroda KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya jaldi se jaldi action le, warna legal ACTION hoga. Niche diye link se app install kare. bob-update-kyc.in BOB_Update.apk",spam,apk_fraud,bank_kyc,hg,link_apk,Bank of Baroda,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3818,Badhai ho! Aapne Rs 2000 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna OFFER khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+3838,"Priya Grahak, Aapko Paytm Cashback se Rs 750 cashback mila hai. turant jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,Paytm Cashback,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+3848,"Priya Grahak, Aapko UPI Rewards se Rs 50000 cashback mila hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,pdf_then_apk,UPI Rewards,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+3862,"Dear Customer , Aapka SBI KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya aaj hi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,hg,link_apk,SBI,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+3884,"Dear Customer, Congratulations! HR Recruitment Cell se Rs 2000 ka pre-approved offer mila hai. Kripya turant action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,HR Recruitment Cell,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+3917,Badhai ho! Aapne Rs 5000 ka prize jeeta hai. Abhi claim kare e3fmr.info/track par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+3923,Badhai ho! Aapne Rs 2000 ka prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+3935,"Priya Grahak, Congratulations! QuickLoan Finance se RS 50000 ka pre-approved offer mila hai. turant jawab de, nahi to connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare. [Forwarded] Loan_Approval.apk 14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,QuickLoan Finance,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+3936,"Priya Grahak, Aapka State Electricity Board bijli bill Rs 200 pending hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] Electricity_Pay.apk",spam,apk_fraud,electricity,hg,no_explicit_app_word,State Electricity Board,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+3939,"Dear Customer, Congratulations! InstaCredit se Rs 750 ka pre-approved offer mila hai. aaj hi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+instacredit-loan.info
+InstaCredit.apk",spam,apk_fraud,loan_job,hg,link_apk,InstaCredit,VK-INDPST,synthetic_v2,2,loan_app_fraud
+3948,"Dear Customer , Congratulations! QuickLoan Finance se Rs 1500 ka pre-approved offer mila hai. Kripya aaj hi action le, warna legal action hoga. Niche diye link se app install kare.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+3958,"Namaste Customer, Income Tax Department: Aapko Rs 1500 ka refund milne wala hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Department,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+3962,"Priya Grahak, Aapke SBI account se Rs 50000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. aaj hi jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,SBI,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+3970,"Priya Grahak, Congratulations! HR Recruitment Cell se Rs 200 ka pre-approved offer mila hai. Kripya aaj hi action le, warna legal action hoga. Niche diye link se app install kare.
+job-portal-apply.tk
+Job_Portal.apk",spam,apk_fraud,loan_job,hg,link_apk,HR Recruitment Cell,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+3974,Badhai ho! Aapne Rs 1000 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+3995,"Namaste Customer, Aapka ICICI Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya turant action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,ICICI Bank,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+4003,Badhai ho! Aapne Rs 200 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+4016,"Priya Grahak, Aapke SBI account se Rs 500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya aaj hi action le, warna aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,bank_alert,hg,vishing_callback,SBI,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+4020,"Namaste Customer, Aapke SBI account se Rs 1500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. turant jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,SBI,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+4021,Badhai ho! Aapne Rs 25000 ka prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+4042,"Priya Grahak, Aapka SBI KYC expire ho gaya hai aur dobara verify karna zaroori hai. turant jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+sbi-secure-update.in
+SBI_Secure.apk",spam,apk_fraud,bank_kyc,hg,link_apk,SBI,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+4070,"Dear Customer, Congratulations! InstaCredit se Rs 50000 ka pre-approved offer mila hai. Kripya turant action le, warna connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] InstaCredit.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,InstaCredit,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+4082,"Namaste Customer, Aapke ICICI Bank account se Rs 1500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya aaj hi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_alert,hg,link_apk,ICICI Bank,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+4088,Badhai ho! Aapne Rs 1000 ka prize jeeta hai. Abhi claim kare bedy13.com/updat PAR warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+4100,"Aapka PNB KYC expire ho gaya hai aur dobara verify karna zaroori hai. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,hg,link_apk,PNB,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+4118,"Namaste Customer, Aapke Paytm Payments Bank account se Rs 5000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya aaj hi action le, warna aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Paytm_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,pdf_then_apk,Paytm Payments Bank,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+4122,"Aapka Power Distribution Co bijli bill Rs 25000 pending hai. turant jawab de, nahi to connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hg,pdf_then_apk,Power Distribution Co,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+4130,Badhai ho! Aapne Rs 750 ka prize jeeta hai. Abhi claim kare cutt.ly/fakeapp par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+4131,Badhai ho! Aapne Rs 500 ka prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+4139,"Income Tax Department: Aapko Rs 2000 ka refund milne wala hai. Kripya turant action le, warna connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] TaxRefund_IT.apk  14 MB . APK",spam,apk_fraud,govt_refund,hg,attached_file_no_link,Income Tax Department,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+4221,"Aapka Axis Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. jaldi se jaldi jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,Axis Bank,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+4230,"Dear Customer, Aapke RBL Bank account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] RBL_Protect.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,RBL Bank,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+4247,"Priya Grahak, Aapka Axis Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya turant action le, warna aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process me guide karega.",spam,apk_fraud,bank_kyc,hg,vishing_callback,Axis Bank,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+4250,"Namaste Customer , Aapke RBL Bank account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. 24 ghante ke andar jawab de, nahi to aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_alert,hg,qr_code,RBL Bank,VK-INDPST,synthetic_v2,2,loan_app_fraud
+4256,"Priya Grahak, Aapka Power Distribution Co bijli bill Rs 500 pending hai. Kripya turant action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hg,attached_file_no_link,Power Distribution Co,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+4282,"Dear Customer, Aapko UPI Rewards se Rs 1500 cashback mila hai. turant jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,UPI Rewards,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+4288,"Priya Grahak, Aapka Axis Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Axis_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,Axis Bank,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+4289,"Congratulations! QuickLoan Finance se Rs 200 ka pre-approved offer mila hai. Kripya aaj hi action le , warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe. [Forwarded] LOAN_APPROVAL.APK 14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,QuickLoan Finance,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+4294,"Aapka PNB KYC expire ho gaya hai aur dobara verify karna zaroori hai. jaldi se jaldi jawab de, nahi to legal action hoga. Niche diye link se app install kare.
+pnb-ekyc-verify.xyz
+PNB_eKYC.apk",spam,apk_fraud,bank_kyc,hg,link_apk,PNB,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+4303,"Priya Grahak, Congratulations! QuickLoan Finance se Rs 1000 ka pre-approved offer mila hai. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+4317,"Priya Grahak, Income Tax Department: Aapko Rs 1500 ka refund milne wala hai. jaldi se jaldi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+incometax-refund.xyz
+TaxRefund_IT.apk",spam,apk_fraud,govt_refund,hg,link_apk,Income Tax Department,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+4331,"Namaste Customer, Aapka Power Distribution Co bijli bill Rs 1500 pending hai. aaj hi jawab de, nahi to aapka account block ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hg,pdf_then_apk,Power Distribution Co,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+4350,Badhai ho! Aapne Rs 50000 ka prize jeeta hai. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+4373,"Priya Grahak, Aapka HDFC Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya turant action le, warna connection cut ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,HDFC Bank,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+4383,"Dear Customer, Aapke SBI account se Rs 50000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. turant jawab de, nahi to aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,SBI,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+4385,"Aapko Paytm Cashback se Rs 2000 cashback mila hai. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+paytm-cashback-claim.tk
+Paytm_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,Paytm Cashback,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+4388,"Aapko Paytm Cashback se Rs 1500 cashback mila hai. Kripya aaj hi action le, warna aapka account block ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Paytm_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,attached_file_no_link,Paytm Cashback,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+4407,"Aapke SBI account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,SBI,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+4428,Badhai ho! Aapne Rs 200 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+4456,Badhai ho! Aapne Rs 2000 ka prize jeeta hai. Abhi claim kare bedy13.com/updat par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+4463,Badhai HO! Aapne Rs 750 ka prize jeeta hai. Abhi claim kare e5nbu.xyz/claim par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-NETFLX,synthetic_v2,2,loan_app_fraud
+4474,"Dear Customer, Income Tax Department: Aapko Rs 5000 ka refund milne wala hai. Kripya turant action le, warna aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,govt_refund,hg,qr_code,Income Tax Department,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+4479,"Dear Customer , Aapka Bank of Baroda KYC expire ho gaya hai aur dobara verify karna zaroori hai. JALDI se jaldi jawab de, nahi to legal action hoga. Niche diye link se app install kare. bob-update-kyc.in BOB_Update.apk",spam,apk_fraud,bank_kyc,hg,link_apk,Bank of Baroda,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+4486,"Congratulations! HR Recruitment Cell se Rs 1500 ka pre-approved offer mila hai. aaj hi jawab de, nahi to aapka account block ho jayega. Niche diye link se app install kare.
+job-portal-apply.tk
+Job_Portal.apk",spam,apk_fraud,loan_job,hg,link_apk,HR Recruitment Cell,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+4494,Badhai ho! AAPNE Rs 2000 ka prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+4501,"Priya Grahak, Congratulations! QuickLoan Finance se Rs 25000 ka pre-approved offer mila hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+4510,"Priya Grahak, Aapke Paytm Payments Bank account se Rs 200 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya jaldi se jaldi action le, warna connection cut ho jayega. Niche diye link se app install kare.
+paytm-secure-acc.xyz
+Paytm_Secure.apk",spam,apk_fraud,bank_alert,hg,link_apk,Paytm Payments Bank,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+4538,Badhai ho! Aapne Rs 750 ka prize jeeta hai.. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam HO jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+4592,Badhai ho! Aapne Rs 1500 ka prize jeeta hai. Abhi claim kare e3fmr.info/track par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-INDPST,synthetic_v2,2,loan_app_fraud
+4613,"Namaste Customer, Congratulations! InstaCredit se Rs 2000 ka pre-approved offer mila hai. Kripya aaj hi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+instacredit-loan.info
+InstaCredit.apk",spam,apk_fraud,loan_job,hg,link_apk,InstaCredit,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+4636,"Congratulations! HR Recruitment Cell se Rs 1500 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+job-portal-apply.tk
+Job_Portal.apk",spam,apk_fraud,loan_job,hg,link_apk,HR Recruitment Cell,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+4637,"Priya Grahak, Aapka SBI KYC expire ho gaya hai aur dobara verify karna zaroori hai. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,pdf_then_apk,SBI,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+4645,"Dear Customer, Aapka SBI KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,SBI,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+4675,Badhai ho! Aapne Rs 1000 ka prize jeeta hai. Abhi claim kare e3fmr.info/track par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+4678,"Dear Customer, Aapko Paytm Cashback se Rs 1500 cashback mila hai. Kripya aaj hi action le, warna aapka account block ho jayega. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,upi_cashback,hg,no_explicit_app_word,Paytm Cashback,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+4690,Badhai ho! Aapne Rs 1500 ka prize jeeta hai. Abhi claim kare bedy13.com/update par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+4706,"Dear Customer, Aapka PNB KYC expire ho gaya hai aur dobara verify karna zaroori hai. Kripya aaj hi action le, warna legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_kyc,hg,qr_code,PNB,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+4740,"Dear Customer, Aapko Paytm Cashback se Rs 1500 cashback mila hai. Kripya turant action le, warna legal action hoga. Aapke recent request ke baare me ek zaroori update hai. Niche diya document kholkar process complete kare.
+[Forwarded] ",spam,apk_fraud,upi_cashback,hg,no_explicit_app_word,Paytm Cashback,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+4760,Badhai ho! Aapne Rs 1000 ka prize jeeta hai. Abhi claim kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+4765,"Namaste Customer, Aapka Power Distribution Co bijli bill Rs 25000 pending hai. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] PowerPay_App.apk  14 MB . APK",spam,apk_fraud,electricity,hg,attached_file_no_link,Power Distribution Co,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+4775,Badhai ho! Aapne Rs 2000 ka prize jeeta hai. Abhi claim kare cutt.ly/fakeapp par WARNA offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+4810,"Priya Grahak, Aapko UPI Rewards se Rs 500 cashback mila hai. Kripya 24 ghante ke andar action le, warna legal action hoga. Niche diye link se app install kare.
+upi-cashback-claim.xyz
+UPI_Cashback.apk",spam,apk_fraud,upi_cashback,hg,link_apk,UPI Rewards,VM-WHATSP,synthetic_v2,2,loan_app_fraud
+4819,Badhai HO! Aapne Rs 500 ka prize jeeta hai. Abhi claim kare cutt.ly/fakeapp par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+4834,Badhai ho! Aapne Rs 1500 ka prize jeeta hai. Abhi CLAIM kare bit.ly/3xK9pL par warna offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+4835,"Dear Customer, Aapka Power Distribution Co bijli bill Rs 25000 pending hai. turant jawab de, nahi to connection cut ho jayega. Niche diye link se app install kare.
+powerpay-bill.in
+PowerPay_App.apk",spam,apk_fraud,electricity,hg,link_apk,Power Distribution Co,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+4844,"Priya Grahak, Aapka HDFC Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai. aaj hi jawab de, nahi to aapka account block ho jayega. Aapse contact karne ki koshish ki thi. Niche diye number par call kare, hamara representative aapko verification process ME guide karega.",spam,apk_fraud,bank_kyc,hg,vishing_callback,HDFC Bank,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+4854,Badhai ho! Aapne Rs 1000 ka prize jeeta hai. Abhi claim kare tinyurl.com/y8mfraud par warna offer khatam ho JAYEGA.,spam,link_fraud,prize_link,hg,link_only,,VK-UPIRWD,synthetic_v2,2,loan_app_fraud
+4868,"Namaste Customer, Congratulations! QuickLoan Finance se Rs 5000 ka pre-approved offer mila hai. Kripya turant action le, warna legal action hoga. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,QuickLoan Finance,+91 8800XXXX12,synthetic_v2,2,loan_app_fraud
+4878,"Priya Grahak, Congratulations! QuickLoan Finance se Rs 750 ka pre-approved offer mila hai. Kripya aaj hi action le, warna aapka account block ho jayega. Niche diye link se app install kare.
+quickloan-approve.xyz
+Loan_Approval.apk",spam,apk_fraud,loan_job,hg,link_apk,QuickLoan Finance,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+4906,"Namaste Customer, Congratulations! HR Recruitment Cell se Rs 750 ka pre-approved offer mila hai. turant jawab de, nahi to legal action hoga. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,loan_job,hg,qr_code,HR Recruitment Cell,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+4921,"Namaste Customer, Aapke ICICI Bank account se Rs 750 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,pdf_then_apk,ICICI Bank,VK-RTOGOV,synthetic_v2,2,loan_app_fraud
+4930,"Dear Customer, Congratulations! HR Recruitment Cell se Rs 1500 ka pre-approved offer mila hai. jaldi se jaldi jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] Job_Portal.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,attached_file_no_link,HR Recruitment Cell,VM-SBIBNK,synthetic_v2,2,loan_app_fraud
+4931,"Priya Grahak, Aapke ICICI Bank account se Rs 2000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. turant jawab de, nahi to aapka account block ho jayega. Is message ke sath attach QR code scan kare aur turant verify kare.",spam,apk_fraud,bank_alert,hg,qr_code,ICICI Bank,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+4933,"Priya Grahak, Aapka ICICI Bank KYC expire ho gaya hai aur dobara verify karna zaroori hai.. Kripya turant action le, warna legal action hoga. Niche diye link se app install kare.
+icici-verify-kyc.xyz
+ICICI_Verify.apk",spam,apk_fraud,bank_kyc,hg,link_apk,ICICI Bank,AD-ICICIB,synthetic_v2,2,loan_app_fraud
+4943,"Namaste Customer, Congratulations! QuickLoan Finance se Rs 500 ka pre-approved offer mila hai. Kripya 24 ghante ke andar action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] Loan_Approval.apk  14 MB . APK",spam,apk_fraud,loan_job,hg,pdf_then_apk,QuickLoan Finance,+91 7700XXXX45,synthetic_v2,2,loan_app_fraud
+4946,"Namaste Customer, Aapka SBI KYC expire ho gaya hai aur dobara verify karna zaroori hai. 24 ghante ke andar jawab de, nahi to connection cut ho jayega. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_kyc,hg,attached_file_no_link,SBI,AX-PWRBIL,synthetic_v2,2,loan_app_fraud
+4961,"Dear Customer, Aapke SBI account se Rs 2000 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. Kripya aaj hi action le, warna legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] SBI_Secure.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,SBI,INFO-GOVT,synthetic_v2,2,loan_app_fraud
+4975,"Aapke ICICI Bank account se Rs 1500 debit hua hai. Agar yeh aapne nahi kiya to account secure kare. 24 ghante ke andar jawab de, nahi to legal action hoga. Attached file check kare aur use khol kar aage badhe.
+[Forwarded] ICICI_Verify.apk  14 MB . APK",spam,apk_fraud,bank_alert,hg,attached_file_no_link,ICICI Bank,JD-ITAXRF,synthetic_v2,2,loan_app_fraud
+4982,Badhai ho! Aapne Rs 500 ka prize jeeta hai.. Abhi claim kare tinyurl.com/y8mfraud par WARNA offer khatam ho jayega.,spam,link_fraud,prize_link,hg,link_only,,VK-LOANAP,synthetic_v2,2,loan_app_fraud
+4998,"Namaste Customer, Aapko UPI Rewards se Rs 500 cashback mila hai. Kripya aaj hi action le, warna connection cut ho jayega. Niche di gayi pdf file kholkar apni details check kare.
+[Forwarded] UPI_Cashback.apk  14 MB . APK",spam,apk_fraud,upi_cashback,hg,pdf_then_apk,UPI Rewards,VM-WHATSP,synthetic_v2,2,loan_app_fraud

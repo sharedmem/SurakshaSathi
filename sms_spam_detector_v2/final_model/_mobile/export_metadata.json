@@ -1,0 +1,6 @@
+{
+  "ptl_size_mb": 112.11139106750488,
+  "latency_ms_dev_machine": 53.27468999894336,
+  "seq_len": 64,
+  "aux_dim": 39
+}
