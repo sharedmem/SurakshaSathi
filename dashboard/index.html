@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SurakshaSathi — Regional Fraud Dashboard</title>
+    <!-- Google Font Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet" />
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <!-- Chart.js for Observability Visuals -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Leaflet.js GIS Map Library -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+    <!-- TOP BAR -->
+    <header class="topbar">
+        <div class="topbar-logo">
+            <div class="logo-shield">🛡</div>
+            SurakshaSathi
+        </div>
+        <div class="topbar-live">
+            <div class="live-dot"></div>
+            Live monitoring
+        </div>
+
+        <!-- Controls: Role Selector and Time Window -->
+        <div class="header-controls">
+            <div class="role-selector">
+                <button id="roleManagerBtn" class="role-btn active" onclick="switchRole('manager')">
+                    <i class="fa-solid fa-user-tie"></i> Manager
+                </button>
+                <button id="roleOpsBtn" class="role-btn" onclick="switchRole('operations')">
+                    <i class="fa-solid fa-microchip"></i> Operations
+                </button>
+            </div>
+
+            <div class="filters-container" id="managerTimeFilter">
+                <div class="filter-item">
+                    <label for="filterTime"><i class="fa-regular fa-calendar"></i> Window:</label>
+                    <select id="filterTime" onchange="runFiltersChange()">
+                        <option value="7">Last 7 Days</option>
+                        <option value="30" selected>Last 30 Days</option>
+                        <option value="90">Last 90 Days</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="topbar-date" id="clock-display">Loading…</div>
+        <div class="topbar-user">
+            <div class="avatar">RK</div>
+            Rajesh Kumar, GM — Digital Banking
+        </div>
+    </header>
+
+    <div class="shell">
+
+        <!-- ── DYNAMIC SIDEBAR ── -->
+        <aside class="sidebar">
+
+            <!-- MANAGER SIDEBAR WIDGETS -->
+            <div id="sidebarManagerSection">
+                <div class="sidebar-label">Today's summary</div>
+
+                <!-- Card: Fake Apps Blocked -->
+                <div class="sum-card card-red">
+                    <div class="sum-card-top">
+                        <div>
+                            <div class="sum-label">Fake YONO apps blocked</div>
+                            <div class="sum-val text-red" id="uiFakeApps">18,442</div>
+                            <div class="sum-sub">Across all states in period</div>
+                        </div>
+                        <div class="sum-icon icon-red">🚫</div>
+                    </div>
+                    <div class="delta delta-dn" id="uiFakeTrend">↑ 6% spike — watch Maharashtra</div>
+                </div>
+
+                <!-- Card: Users Protected -->
+                <div class="sum-card card-navy">
+                    <div class="sum-card-top">
+                        <div>
+                            <div class="sum-label">Users protected</div>
+                            <div class="sum-val text-navy" id="uiUsersProtected">2.84M</div>
+                            <div class="sum-sub">Active SurakshaSathi installs</div>
+                        </div>
+                        <div class="sum-icon icon-navy">👥</div>
+                    </div>
+                    <div class="delta delta-up" id="uiUsersTrend">↑ 312K new this week</div>
+                </div>
+
+                <!-- Card: Cases Filed -->
+                <div class="sum-card card-amber">
+                    <div class="sum-card-top">
+                        <div>
+                            <div class="sum-label">Cybercrime cases auto-filed</div>
+                            <div class="sum-val text-amber" id="uiCasesFiled">7,381</div>
+                            <div class="sum-sub">Filed with I4C / NCRP portal</div>
+                        </div>
+                        <div class="sum-icon icon-amber">📋</div>
+                    </div>
+                    <div class="delta delta-up" id="uiCasesTrend">Avg case ID returned in 2.1s</div>
+                </div>
+
+                <div class="sidebar-label">States by alert level</div>
+                <div>
+                    <div class="sev-row" onclick="filterByLevel('critical')" id="sev-row-critical">
+                        <div class="sev-dot dot-red"></div>
+                        <div class="sev-name">Critical</div>
+                        <div class="sev-count text-red" id="uiCountCritical">4 states</div>
+                        <div class="sev-badge badge-red">Action needed</div>
+                    </div>
+                    <div class="sev-row" onclick="filterByLevel('high')" id="sev-row-high">
+                        <div class="sev-dot dot-amber"></div>
+                        <div class="sev-name">High</div>
+                        <div class="sev-count text-amber" id="uiCountHigh">7 states</div>
+                        <div class="sev-badge badge-amber">Monitor</div>
+                    </div>
+                    <div class="sev-row" onclick="filterByLevel('medium')" id="sev-row-medium">
+                        <div class="sev-dot dot-blue"></div>
+                        <div class="sev-name">Medium</div>
+                        <div class="sev-count text-blue" id="uiCountMedium">8 states</div>
+                        <div class="sev-badge badge-blue">Normal</div>
+                    </div>
+                    <div class="sev-row" onclick="filterByLevel('low')" id="sev-row-low">
+                        <div class="sev-dot dot-green"></div>
+                        <div class="sev-name">Low / Safe</div>
+                        <div class="sev-count text-green" id="uiCountLow">9 states</div>
+                        <div class="sev-badge badge-green">Good</div>
+                    </div>
+                </div>
+
+                <div class="sidebar-label">Filter by attack type</div>
+                <div class="chip-row">
+                    <div class="chip active" onclick="toggleChip(this, 'ALL')">All</div>
+                    <div class="chip" onclick="toggleChip(this, 'fake_apk')">Fake APK</div>
+                    <div class="chip" onclick="toggleChip(this, 'bank_alert')">Phishing SMS</div>
+                    <div class="chip" onclick="toggleChip(this, 'vishing')">WhatsApp scam</div>
+                    <div class="chip" onclick="toggleChip(this, 'otp_theft')">OTP theft</div>
+                </div>
+            </div>
+
+            <!-- OPERATIONS SIDEBAR WIDGETS -->
+            <div id="sidebarOpsSection" style="display:none">
+                <div class="sidebar-label">Operations summary</div>
+
+                <!-- Card: System Uptime -->
+                <div class="sum-card card-green">
+                    <div class="sum-card-top">
+                        <div>
+                            <div class="sum-label">System Uptime</div>
+                            <div class="sum-val text-green font-mono">99.987%</div>
+                            <div class="sum-sub">All core services online</div>
+                        </div>
+                        <div class="sum-icon icon-green">⚡</div>
+                    </div>
+                    <div class="delta delta-up">Heartbeat verified (<span id="opDbStatus">OK</span>)</div>
+                </div>
+
+                <!-- Card: Gateway Average Latency -->
+                <div class="sum-card card-blue">
+                    <div class="sum-card-top">
+                        <div>
+                            <div class="sum-label">Scan Average Latency</div>
+                            <div class="sum-val text-blue font-mono" id="opAvgLatency">214 ms</div>
+                            <div class="sum-sub">API Gateway Response Profile</div>
+                        </div>
+                        <div class="sum-icon icon-blue">⏱</div>
+                    </div>
+                    <div class="delta delta-up">LLM response: <b class="font-mono">1.18s</b></div>
+                </div>
+
+                <!-- Card: Ingestion Throughput -->
+                <div class="sum-card card-navy">
+                    <div class="sum-card-top">
+                        <div>
+                            <div class="sum-label">FastAPI Throughput</div>
+                            <div class="sum-val text-navy font-mono" id="opThroughput">189 req/s</div>
+                            <div class="sum-sub">Telemetry requests/sec</div>
+                        </div>
+                        <div class="sum-icon icon-navy">📈</div>
+                    </div>
+                    <div class="delta delta-up">Peak: <b class="font-mono">310 req/s</b></div>
+                </div>
+
+                <!-- Simulation control panel in sidebar -->
+                <div class="sidebar-label">System Load Simulator</div>
+                <div class="simulator-card">
+                    <label class="simulator-label" for="simulatorLoad">Simulated Gateway Load:</label>
+                    <div class="simulator-value font-mono" id="uiSliderLoad">150 req/s</div>
+                    <input type="range" class="simulator-slider" id="simulatorLoad" min="10" max="600" value="150"
+                        oninput="simulationLoadChanged(this.value)">
+                    <div class="simulator-stats font-mono">
+                        <div>Queue Lag: <span id="simQueueLag" class="text-blue">12 ms</span></div>
+                        <div>Scale State: <span id="simScaleAction" class="text-green">Standard Uptime</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Unified Sidebar Footer -->
+            <div class="sidebar-footer">
+                <div class="connection-status">
+                    <span class="status-dot online" id="backendStatusDot"></span>
+                    <span id="backendStatus">Live connection auto-detecting...</span>
+                </div>
+            </div>
+
+        </aside>
+
+        <!-- ── MAIN CONTENT AREA ── -->
+        <main class="main">
+
+            <!-- 1. MANAGER VIEW PANEL -->
+            <div id="managerDashboard" class="view-panel active">
+
+                <div class="map-area">
+                    <div class="map-header">
+                        <div>
+                            <h1 class="map-title" id="managerDashboardTitle">India — Real-time Fraud Activity Map</h1>
+                            <p class="map-subtitle">Click any state to see active threats and recommended actions</p>
+                        </div>
+                        <div class="map-actions">
+                            <button class="btn btn-outline" onclick="exportHeatmapPDF()"><i
+                                    class="fa-solid fa-file-pdf"></i> Export State Report</button>
+                        </div>
+                    </div>
+
+                    <div class="map-card" style="padding: 10px;">
+                        <div class="map-inner" id="map-inner">
+                            <div class="tooltip" id="tooltip"></div>
+                            <div id="map"
+                                style="width: 100%; height: 100%; min-height: 480px; z-index: 1; border-radius: 12px;">
+                            </div>
+                            <div class="hint-text" id="hint-text">↑ Click any threat node to view details and action
+                                plan</div>
+                        </div>
+
+                        <div class="map-legend">
+                            <span class="legend-label">Alert level:</span>
+                            <div class="leg-item">
+                                <div class="leg-swatch bg-red"></div>Critical
+                            </div>
+                            <div class="leg-item">
+                                <div class="leg-swatch bg-amber"></div>High
+                            </div>
+                            <div class="leg-item">
+                                <div class="leg-swatch bg-blue"></div>Medium
+                            </div>
+                            <div class="leg-item">
+                                <div class="leg-swatch bg-green"></div>Low
+                            </div>
+                            <div class="leg-item">
+                                <div class="leg-swatch bg-grey"></div>No data
+                            </div>
+                            <div class="pulse-indicator">
+                                <svg width="10" height="10">
+                                    <circle cx="5" cy="5" r="4" fill="none" stroke="#DC2626" stroke-width="1.5" />
+                                </svg>
+                                Pulse = active region campaign
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ── RIGHT DETAIL INSPECTION PANEL ── -->
+                <div class="detail-panel" id="detail-panel">
+                    <div class="detail-scroll">
+
+                        <div class="d-header">
+                            <div class="d-close" onclick="closePanel()">✕</div>
+                            <div class="d-state-name" id="d-state-name">Maharashtra</div>
+                            <div class="d-meta" id="d-meta">Western India · 124M YONO users</div>
+                            <div class="d-sev-pill" id="d-sev-pill">
+                                🔴 CRITICAL — Action needed
+                            </div>
+                        </div>
+
+                        <!-- KPIs -->
+                        <div class="d-section">
+                            <div class="d-section-title">Today in this state</div>
+                            <div class="d-kpis">
+                                <div class="d-kpi">
+                                    <div class="d-kpi-val text-red" id="d-apk">3,241</div>
+                                    <div class="d-kpi-label">Fake apps blocked</div>
+                                </div>
+                                <div class="d-kpi">
+                                    <div class="d-kpi-val text-amber" id="d-warned">18,422</div>
+                                    <div class="d-kpi-label">Users warned</div>
+                                </div>
+                                <div class="d-kpi">
+                                    <div class="d-kpi-val text-navy" id="d-ncrp">842</div>
+                                    <div class="d-kpi-label">Cases filed</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Active attacks -->
+                        <div class="d-section">
+                            <div class="d-section-title">Active attack campaigns</div>
+                            <div id="d-attacks">
+                                <!-- Loaded dynamically by app.js -->
+                            </div>
+                        </div>
+
+                        <!-- AI Advisor -->
+                        <div class="ai-section">
+                            <div class="ai-header">
+                                <div class="ai-brain">🤖</div>
+                                <div>
+                                    <div class="ai-title">AI Analysis & Action Plan</div>
+                                    <div class="ai-source">Based on regulatory guidelines & clustering signals</div>
+                                </div>
+                            </div>
+                            <div class="ai-thinking" id="ai-thinking">
+                                Analyzing threat patterns <div class="dots"><span></span><span></span><span></span>
+                                </div>
+                            </div>
+                            <div id="ai-content" style="display:none">
+                                <div class="ai-body" id="ai-body"></div>
+                                <div class="action-list" id="ai-actions"></div>
+                            </div>
+                        </div>
+
+                        <!-- Bank Action Center -->
+                        <div class="d-section bank-action-center-container"
+                            style="border-top: 1px solid #e2e8f0; margin-top: 20px; padding-top: 15px;">
+                            <div class="d-section-title" style="margin-bottom: 2px;">Bank Action Center</div>
+                            <div class="d-section-subtitle"
+                                style="font-size: 11px; color: #64748b; margin-bottom: 12px; font-style: italic; line-height: 1.3;">
+                                Regulatory and operational interventions available to eliminate fraud vectors.
+                            </div>
+                            <div class="action-grid">
+                                <button class="btn-action-item" onclick="triggerBankAction('dlt_block')">
+                                    <i class="fa-solid fa-ban text-red"></i> Trigger DLT Block
+                                </button>
+                                <button class="btn-action-item" onclick="triggerBankAction('isp_takedown')">
+                                    <i class="fa-solid fa-globe text-orange"></i> ISP Takedown Request
+                                </button>
+                                <button class="btn-action-item" onclick="triggerBankAction('export_ncrp')">
+                                    <i class="fa-solid fa-file-shield text-blue"></i> Export NCRP FIR Pack
+                                </button>
+                                <button class="btn-action-item btn-danger-action"
+                                    onclick="triggerBankAction('escalate_rbi')">
+                                    <i class="fa-solid fa-building-columns text-purple"></i> Escalate to RBI
+                                </button>
+                            </div>
+                        </div>
+
+                    </div><!-- /detail-scroll -->
+
+                    <div class="d-footer">
+                        <div class="btn-group-2" style="width: 100%;">
+                            <button class="btn btn-indigo btn-full" onclick="pushAlert()" style="flex: 1;"><i
+                                    class="fa-solid fa-bell"></i> Push alert</button>
+                            <button class="btn btn-outline btn-full" onclick="exportStateReport()" style="flex: 1;"><i
+                                    class="fa-solid fa-file-export"></i> Export Report</button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- 2. OPERATIONS VIEW PANEL -->
+            <div id="operationsDashboard" class="view-panel">
+
+                <div class="ops-area">
+                    <div class="ops-header">
+                        <div>
+                            <h1 class="ops-title">Operations & System Observability</h1>
+                            <p class="ops-subtitle">FastAPI gateway request latencies, cache ratios, and Cloud scale
+                                trackers</p>
+                        </div>
+                        <div class="map-actions">
+                            <button class="btn btn-outline" onclick="checkBackendConnection()"><i
+                                    class="fa-solid fa-rotate"></i> Ping Server Gateway</button>
+                        </div>
+                    </div>
+
+                    <div class="operations-grid-charts">
+                        <!-- Chart 1: Latency distribution -->
+                        <div class="panel-card chart-card">
+                            <div class="panel-header-title">
+                                <h2>Request Gateway Latency Profile</h2>
+                                <span>FastAPI endpoint response duration (last hour)</span>
+                            </div>
+                            <div class="chart-container">
+                                <canvas id="opLatencyChart"></canvas>
+                            </div>
+                        </div>
+
+                        <!-- Chart 2: Redis / Vector Store stats -->
+                        <div class="panel-card chart-card">
+                            <div class="panel-header-title">
+                                <h2>Memory Cache & DB Performance</h2>
+                                <span>Redis cache hits vs Postgres pgvector search hits</span>
+                            </div>
+                            <div class="chart-container">
+                                <canvas id="opDbPerformanceChart"></canvas>
+                            </div>
+                        </div>
+
+                        <!-- Scaling simulator graph panel -->
+                        <div class="panel-card chart-card flex-column">
+                            <div class="panel-header-title">
+                                <h2>Queue Ingestion & Scale Config</h2>
+                                <span>Telemetry pipeline Pub/Sub instance backlog nodes scaling</span>
+                            </div>
+                            <div class="chart-container align-center">
+                                <canvas id="opScalingConfigChart"></canvas>
+                            </div>
+                            <!-- Scaling status summary -->
+                            <div class="scaling-summary-row font-mono">
+                                <div>Active Worker Nodes: <b id="opNodeCount">8 Nodes</b></div>
+                                <div>Scale Action: <b id="opScalingState">Auto-scaled</b></div>
+                            </div>
+                        </div>
+
+                        <!-- API Quota Trackers -->
+                        <div class="panel-card chart-card">
+                            <div class="panel-header-title">
+                                <h2>Third-Party API Limits & Quotas</h2>
+                                <span>Execution limits of integrated services</span>
+                            </div>
+                            <div class="quota-progress-list">
+                                <div class="quota-progress-item">
+                                    <div class="quota-info">
+                                        <span>Groq LLM Tokens/min</span>
+                                        <span class="percent font-mono">34,000 / 100,000</span>
+                                    </div>
+                                    <div class="progress-bar-track">
+                                        <div class="progress-bar-fill fill-cyan" style="width: 34%;"></div>
+                                    </div>
+                                </div>
+                                <div class="quota-progress-item">
+                                    <div class="quota-info">
+                                        <span>VirusTotal API Scan Checks/day</span>
+                                        <span class="percent font-mono">6,210 / 15,000</span>
+                                    </div>
+                                    <div class="progress-bar-track">
+                                        <div class="progress-bar-fill fill-blue" style="width: 41%;"></div>
+                                    </div>
+                                </div>
+                                <div class="quota-progress-item">
+                                    <div class="quota-info">
+                                        <span>Twilio Verification Gateway Credits</span>
+                                        <span class="percent font-mono">89.2% remaining</span>
+                                    </div>
+                                    <div class="progress-bar-track">
+                                        <div class="progress-bar-fill fill-emerald" style="width: 89.2%;"></div>
+                                    </div>
+                                </div>
+                                <div class="quota-progress-item">
+                                    <div class="quota-info">
+                                        <span>Google Language Translation API</span>
+                                        <span class="percent font-mono">28.0% used</span>
+                                    </div>
+                                    <div class="progress-bar-track">
+                                        <div class="progress-bar-fill fill-orange" style="width: 28%;"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </main>
+    </div>
+
+    <!-- Operational Alert Modal popup -->
+    <div id="alertModal" class="modal-overlay hide">
+        <div class="modal-card">
+            <div class="modal-header">
+                <h3 id="modalHeaderTitle"><i class="fa-solid fa-circle-check text-green"></i> Action Dispatched</h3>
+                <button onclick="closeModal()" class="close-modal-btn">&times;</button>
+            </div>
+            <div class="modal-body" id="modalText">
+                Action successfully triggered!
+            </div>
+            <div class="modal-footer">
+                <button onclick="closeModal()" class="btn btn-primary">Done</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="map.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
